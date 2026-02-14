@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "How can I request a new chequebook through net banking?",
+    "input": "",
+    "output": "Log in to net banking, go to the 'Services' menu, select 'Cheque Book Request', choose the account number and the number of leaves, and confirm the delivery address.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "What is the process for ordering a chequebook using the mobile app?",
+    "input": "",
+    "output": "In the mobile app, navigate to 'Cheque Services', select 'Request Cheque Book', and authenticate the request using your secure MPIN or biometric login.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Are there any charges for requesting an additional chequebook?",
+    "input": "",
+    "output": "The first chequebook per year is usually free; subsequent requests attract a fee per leaf plus GST, as specified in the bank's tariff schedule.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "How many days does it take to receive a new chequebook?",
+    "input": "",
+    "output": "A new chequebook is typically delivered to the registered communication address within 5 to 7 working days from the date of the request.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Can I request a chequebook at an ATM?",
+    "input": "",
+    "output": "Yes, by inserting your debit card and selecting 'Cheque Book Request' from the 'Other Services' menu, the bank will process a request for a standard 20-leaf book.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "What is the procedure to request a chequebook for a joint account?",
+    "input": "",
+    "output": "Any of the authorized signatories can request a chequebook through digital channels or by submitting a signed requisition slip at the branch.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "How do I track the delivery of my ordered chequebook?",
+    "input": "",
+    "output": "Once dispatched, a tracking number and courier details are sent via SMS to the registered mobile number for real-time delivery tracking.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Can a chequebook be delivered to an address other than the registered one?",
+    "input": "",
+    "output": "For security reasons, chequebooks are only delivered to the permanent or communication address currently updated in the bank's records.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Describe the 'Bulk Chequebook' request for corporate accounts.",
+    "input": "",
+    "output": "Corporate customers can request higher-capacity chequebooks (e.g., 50 or 100 leaves) through the corporate net banking portal or a written request on the firm's letterhead.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "What happens if I am not available to receive the chequebook at home?",
+    "input": "",
+    "output": "The courier will make three delivery attempts; if unsuccessful, the chequebook is returned to the home branch, where the customer can collect it personally.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Is there a limit on the number of chequebooks I can order in a month?",
+    "input": "",
+    "output": "While there is no fixed limit, frequent requests may be flagged for verification, and standard per-leaf charges will apply to each additional book ordered.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "How do I request a chequebook if I do not have digital banking access?",
+    "input": "",
+    "output": "You can use the physical requisition slip found at the end of your current chequebook and drop it in the cheque request box at any bank branch.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "State the policy for chequebook issuance to minor accounts.",
+    "input": "",
+    "output": "Chequebooks are issued to minor accounts only if the minor is above 10 years of age and the account is self-operated; otherwise, the guardian must sign the request.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "What is the 'Multi-City Cheque' facility?",
+    "input": "",
+    "output": "All new chequebooks issued by the bank are 'At-Par' multi-city cheques, allowing them to be cleared at any bank branch across the country without additional charges.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "How can I cancel a chequebook request that was made by mistake?",
+    "input": "",
+    "output": "A chequebook request can be cancelled by calling customer care immediately, provided the request has not yet been sent for printing and dispatch.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Can I choose the name to be printed on the chequebook?",
+    "input": "",
+    "output": "The name printed on the chequebook must strictly match the account holder's name as per the bank's official records at the time of the request.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Identify the protocol for requesting a chequebook for a current account.",
+    "input": "",
+    "output": "Current account holders can request a chequebook through net banking or by submitting a request with the firm's stamp and authorized signature at the branch.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Are there specialized chequebooks for visually impaired customers?",
+    "input": "",
+    "output": "The bank provides specialized chequebooks with raised markings or tactile features to assist visually impaired customers upon a specific request at the branch.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "What is a 'CTS-2010' compliant chequebook?",
+    "input": "",
+    "output": "All issued chequebooks follow the Cheque Truncation System (CTS-2010) standards, featuring mandatory security highlights for faster and safer electronic clearing.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "How can I update my address before requesting a new chequebook?",
+    "input": "",
+    "output": "The address must be updated by submitting a valid address proof at the branch or through the digital KYC portal before initiating the chequebook request.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Can a chequebook be issued for a Fixed Deposit account?",
+    "input": "",
+    "output": "No, chequebooks are only issued for Savings and Current accounts; Fixed Deposits are non-transactional accounts and do not support cheque facilities.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "What is the 'Stop Payment' service for a new chequebook?",
+    "input": "",
+    "output": "If a new chequebook is lost in transit, the customer must immediately inform the bank to 'Stop Payment' on the entire series of cheque leaves in that book.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Explain the SMS-based chequebook request service.",
+    "input": "",
+    "output": "Customers can send an SMS with the keyword 'CHQBOOK' followed by the last four digits of their account number to the bank's designated mobile number.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Is the signature verified before a chequebook is issued?",
+    "input": "",
+    "output": "For digital requests, authentication serves as verification; for branch requests, the signature on the form is matched with the specimen signature in the system.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  },
+  {
+    "instruction": "Define the 'Personalized Chequebook' service.",
+    "input": "",
+    "output": "A personalized chequebook features the account holder's name pre-printed on each leaf, enhancing security and facilitating easier identification during clearing.",
+    "intent_id": "CHEQUE_BOOK_REQUEST"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the sequential steps to apply for a personal loan?",
+    "input": "",
+    "output": "The personal loan application process involves online form submission, document upload, telephonic verification, physical or digital KYC, and final credit underwriting.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "How is the digital verification of documents conducted?",
+    "input": "",
+    "output": "Digital verification is conducted through the e-KYC portal where applicants authenticate identity using Aadhaar-linked OTP or Video-based Customer Identification Process (V-CIP).",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Outline the procedure for submitting an offline loan application.",
+    "input": "",
+    "output": "Offline applications require visiting a branch office, filling out the physical application form, and submitting self-attested copies of the mandatory KYC and income documents.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What occurs during the field investigation stage of a loan application?",
+    "input": "",
+    "output": "The field investigation stage involves a bank-authorized representative visiting the applicant's registered residence or workplace to verify the details provided in the application.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Describe the transition from loan approval to fund disbursement.",
+    "input": "",
+    "output": "Upon approval, the applicant must sign the loan agreement and NACH mandate; once verified, the loan amount is credited to the specified bank account via NEFT or RTGS.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What is the role of the Credit Officer in the application workflow?",
+    "input": "",
+    "output": "The Credit Officer reviews the application, verifies the authenticity of documents, assesses the credit report, and provides the final recommendation for approval or rejection.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Explain the requirement for a NACH mandate in the loan process.",
+    "input": "",
+    "output": "The National Automated Clearing House (NACH) mandate is a mandatory form signed by the applicant to authorize automated monthly EMI deductions from their bank account.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "How is the Video KYC (V-KYC) process initiated?",
+    "input": "",
+    "output": "V-KYC is initiated via a secure link sent to the applicant's registered mobile number, requiring a live interaction with a bank official and display of the original PAN card.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What is the typical turnaround time for loan processing?",
+    "input": "",
+    "output": "The standard processing time ranges from 3 to 7 working days from the date of complete document submission and successful verification of all applicant details.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "List the requirements for the loan agreement execution.",
+    "input": "",
+    "output": "Loan agreement execution requires the applicant's signature on all pages of the contract, along with the submission of post-dated checks if requested by the credit policy.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What happens if there is a discrepancy in the submitted documents?",
+    "input": "",
+    "output": "If a discrepancy is identified, the application is placed on hold and a notification is sent to the applicant to provide clarified or corrected documentation.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Detail the steps for a pre-approved loan disbursement.",
+    "input": "",
+    "output": "Pre-approved loans require the applicant to log into the net banking portal, confirm the loan offer terms, and complete the e-signature process for instant disbursement.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "How are corporate salary accounts integrated into the application flow?",
+    "input": "",
+    "output": "For salary account holders, the process is streamlined by utilizing existing KYC data and internal salary credit history to expedite the income verification stage.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Identify the final stage of the loan onboarding process.",
+    "input": "",
+    "output": "The final stage is the generation of the loan account number (LAN) and the delivery of the welcome kit containing the repayment schedule and terms.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Describe the tele-verification phase of the application.",
+    "input": "",
+    "output": "Tele-verification involves a recorded call from the bank's verification team to confirm the applicant's identity, loan requirements, and employment details.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What are the steps for a home loan technical appraisal?",
+    "input": "",
+    "output": "A home loan technical appraisal involves a visit by a certified engineer to evaluate the property's market value, structural integrity, and legal compliance with local laws.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "How is the CIBIL report fetched during the process?",
+    "input": "",
+    "output": "The bank fetches the CIBIL report electronically using the applicant's PAN and consent provided during the initial application submission stage.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Explain the document collection process for doorstep banking.",
+    "input": "",
+    "output": "Under doorstep banking, a designated executive visits the applicant's location to collect physical documents and perform original-seen-and-verified (OSV) checks.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What triggers a re-verification of the loan application?",
+    "input": "",
+    "output": "Re-verification is triggered if there are inconsistencies between the digital data provided and the physical findings during the field or office investigation.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for a balance transfer application?",
+    "input": "",
+    "output": "Balance transfer requires submitting the foreclosure letter and list of documents from the current lender, followed by standard credit appraisal by the new bank.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Outline the processing fee deduction workflow.",
+    "input": "",
+    "output": "The processing fee is either collected upfront during application or deducted from the final disbursed amount as per the specific product terms and conditions.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "How does the bank handle applications for co-borrowers?",
+    "input": "",
+    "output": "Applications with co-borrowers require both parties to complete individual KYC, sign the joint application form, and undergo simultaneous credit evaluations.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "State the process for loan cancellation post-approval.",
+    "input": "",
+    "output": "Loan cancellation post-approval is permitted only if the funds have not been disbursed; a written request must be submitted to the loan processing unit.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "Describe the 'Sanction Letter' issuance process.",
+    "input": "",
+    "output": "A Sanction Letter is issued after successful credit appraisal, detailing the approved amount, interest rate, tenure, and any conditions precedent to disbursement.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  },
+  {
+    "instruction": "What is the protocol for e-signing loan documents?",
+    "input": "",
+    "output": "E-signing is performed through a licensed certifying authority using Aadhaar-based authentication to legally bind the digital loan contract.",
+    "intent_id": "LOAN_APPLICATION_PROCESS"
+  }
+]

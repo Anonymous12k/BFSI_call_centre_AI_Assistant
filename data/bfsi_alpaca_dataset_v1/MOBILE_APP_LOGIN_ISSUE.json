@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the essential requirements for registering the bank's mobile application on a new device?",
+    "input": "",
+    "output": "Registration requires an active bank account, a smartphone with the registered SIM card inserted, and valid debit card details or net banking credentials for authentication.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Outline the process for initial mobile banking activation via the official app store.",
+    "input": "",
+    "output": "Download the official app, select 'Register', allow the app to send a verification SMS from the registered mobile number, and follow the on-screen prompts to set an MPIN.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "How is device binding implemented during the mobile app registration flow?",
+    "input": "",
+    "output": "Device binding is an automated security step where the app sends an encrypted SMS to link the specific mobile hardware to the customer's bank profile and registered mobile number.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Explain the role of the MPIN in the mobile banking registration process.",
+    "input": "",
+    "output": "The Mobile Personal Identification Number (MPIN) is a secure 4 or 6-digit code created during registration that acts as the primary credential for logging in and authorizing transactions.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Can a customer register for mobile banking without a physical debit card?",
+    "input": "",
+    "output": "Customers without a debit card can complete registration by using their net banking User ID and password or by visiting a branch to obtain an activation code.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Identify the procedure for re-registering the mobile app after changing smartphones.",
+    "input": "",
+    "output": "Install the app on the new device, complete the SIM-based SMS verification, and re-authenticate using debit card details or net banking credentials to restore access.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Describe the activation of biometric login during the initial registration phase.",
+    "input": "",
+    "output": "Once the MPIN is set, the app prompts the user to enable biometric authentication (fingerprint or face ID) as a secondary, convenient method for future logins.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "What is the 'SIM-Binding' error and how is it resolved during registration?",
+    "input": "",
+    "output": "This error occurs if the registered SIM is not in the primary slot or lacks SMS balance; it is resolved by ensuring the correct SIM is active and capable of sending outgoing messages.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Is it possible to register multiple mobile apps for different Customer IDs on a single device?",
+    "input": "",
+    "output": "For security reasons, the bank typically allows only one Customer ID to be registered and active on the official mobile banking application per mobile device.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "State the procedure for an NRI customer to register for mobile banking with an international number.",
+    "input": "",
+    "output": "NRIs must ensure their international number is updated in bank records, then complete the SMS verification process (international SMS charges may apply) and authenticate via net banking.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Detail the activation process for mobile banking at a bank ATM.",
+    "input": "",
+    "output": "Insert the debit card, enter the PIN, select 'Mobile Banking' from the registration menu, and follow the prompts to receive a temporary activation code via SMS.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "What is the mandatory 'Cooling-off Period' following a fresh mobile app registration?",
+    "input": "",
+    "output": "A cooling-off period of 24 hours is applied after registration, during which fund transfers to new beneficiaries are limited or restricted for security purposes.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Describe the authentication steps for registration when using 'Either or Survivor' joint accounts.",
+    "input": "",
+    "output": "In joint accounts, each holder registers individually using their own Customer ID and the mobile number registered specifically to their profile.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Can a customer register for mobile banking if they do not have an active data connection?",
+    "input": "",
+    "output": "No, a stable internet connection (mobile data or Wi-Fi) is mandatory to communicate with the bank's servers and complete the encrypted registration process.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "How can a customer de-register their old device before setting up a new one?",
+    "input": "",
+    "output": "De-registration can be performed within the 'Security Settings' of the current app, through net banking, or by calling the customer care helpline to block the old device ID.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Identify the limit for incorrect MPIN attempts during the registration phase.",
+    "input": "",
+    "output": "Entering the wrong credentials three times during registration will temporarily block the account from mobile banking attempts for a period of 24 hours.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "What is an 'Activation Code' and how is it used during mobile registration?",
+    "input": "",
+    "output": "An activation code is a unique alphanumeric string sent via SMS or provided at a branch to authorize the link between the mobile app and the customer's bank account.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Explain the protocol for mobile app registration for a minor's account.",
+    "input": "",
+    "output": "Minors aged 10 and above can register for mobile banking with their own credentials, whereas accounts for younger minors are typically managed through the guardian's mobile app.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Are there any service fees for downloading and registering the bank's mobile app?",
+    "input": "",
+    "output": "The bank provides the mobile banking application and the registration service free of charge; however, standard SMS and data rates from the service provider apply.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "How is the 'Default Account' set during the mobile app registration process?",
+    "input": "",
+    "output": "The system automatically sets the primary savings or current account as the default, but users can modify this in the 'Account Settings' menu after registration.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "What occurs if the SIM card is removed from the device after successful registration?",
+    "input": "",
+    "output": "If the registered SIM is removed, the app's security protocol will automatically disable transaction features and require re-verification when a SIM is re-inserted.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Identify the minimum operating system requirements for mobile banking app registration.",
+    "input": "",
+    "output": "The app requires a minimum version of Android (e.g., 9.0+) or iOS (e.g., 14.0+) to ensure compatibility with modern security encryption standards.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Can a customer register for mobile banking through a branch request form?",
+    "input": "",
+    "output": "Yes, a customer can submit a physical request at a branch to enable mobile banking services, after which they must still complete the app setup on their personal device.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "Describe the 'Pattern Lock' setup option during the registration flow.",
+    "input": "",
+    "output": "Some applications allow users to configure a pattern lock as an alternative to an alphanumeric MPIN for faster login, though an MPIN is still required for transactions.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  },
+  {
+    "instruction": "How is the registration status confirmed to the customer?",
+    "input": "",
+    "output": "A successful registration is confirmed by an on-screen success message and an automated SMS sent to the registered mobile number within a few minutes.",
+    "intent_id": "MOBILE_APP_REGISTRATION"
+  }
+]

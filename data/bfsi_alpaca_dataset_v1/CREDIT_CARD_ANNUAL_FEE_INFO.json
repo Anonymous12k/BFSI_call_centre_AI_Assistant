@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the difference between a joining fee and an annual fee?",
+    "input": "",
+    "output": "The joining fee is a one-time charge for the first year of card issuance, while the annual fee is a recurring charge applied every year to maintain the account.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "How can I find the specific annual fee amount for my credit card variant?",
+    "input": "",
+    "output": "The annual fee for your card variant is listed in the 'Schedule of Charges' document provided in the welcome kit and on the bank's official website.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Identify the criteria for an annual fee waiver.",
+    "input": "",
+    "output": "The annual fee is waived if the total retail spends on the card exceed the predefined annual spend threshold during the preceding 12-month membership period.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Are there any credit cards offered by the bank that are lifetime free?",
+    "input": "",
+    "output": "Selected card variants are offered as 'Lifetime Free', meaning they have zero joining fees and zero annual renewal fees for the duration of the card's validity.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "When is the annual fee billed to the credit card account?",
+    "input": "",
+    "output": "The annual fee is billed in the statement generated during the anniversary month of the card's issuance or renewal date.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Does the annual fee include applicable taxes?",
+    "input": "",
+    "output": "No, the annual fee is subject to statutory Goods and Services Tax (GST) at the prevailing rate, which is charged in addition to the base fee amount.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Can reward points be used to offset the credit card annual fee?",
+    "input": "",
+    "output": "Cardholders can redeem accumulated reward points through the rewards portal to pay for the annual fee, provided they meet the minimum point requirement for that card.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "What is the policy for annual fees on add-on credit cards?",
+    "input": "",
+    "output": "Annual fees for add-on cards are typically lower than the primary card or may be waived entirely, depending on the specific primary card variant held.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Is the joining fee refunded if the credit card is not activated?",
+    "input": "",
+    "output": "As per regulatory guidelines, if the card is not activated within 30 days of issuance, no fees are charged and the card account is closed without any liability.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Describe the 'Spend-Based Reversal' of the annual fee.",
+    "input": "",
+    "output": "If the cardholder reaches the required spend milestone, the annual fee is initially billed and then reversed (credited back) in the subsequent statement.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "What happens to the annual fee if the card is upgraded mid-year?",
+    "input": "",
+    "output": "Upon a mid-year upgrade, a pro-rata annual fee for the new card variant may be charged, while the fee for the previous card is adjusted or waived.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Are cash advances or EMI transactions counted toward the fee waiver threshold?",
+    "input": "",
+    "output": "Only retail spends and online purchases are counted; cash withdrawals, balance transfers, and EMI processing fees are excluded from the annual fee waiver calculation.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "How is a cardholder notified about an upcoming annual fee charge?",
+    "input": "",
+    "output": "The upcoming annual fee charge is mentioned in the credit card statement generated one month prior to the actual billing date.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "State the policy for annual fee refunds upon card cancellation.",
+    "input": "",
+    "output": "The annual fee is non-refundable once billed; however, if a cancellation request is made before the fee is charged, the fee for the upcoming year will not apply.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Can the annual fee be paid in installments?",
+    "input": "",
+    "output": "No, the annual fee must be paid in full as a single line item in the monthly statement in which it is billed.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "What are the benefits provided in exchange for the annual fee?",
+    "input": "",
+    "output": "The annual fee covers account maintenance, access to reward programs, insurance coverage, and premium benefits like lounge access and concierge services.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Does the bank offer a 'First Year Free' (FYF) card policy?",
+    "input": "",
+    "output": "Some promotional offers provide 'First Year Free' cards where the joining fee is waived, but the annual fee applies from the second year onwards.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "What is the impact of non-payment of the annual fee on the credit score?",
+    "input": "",
+    "output": "Failure to pay the annual fee by the due date results in late payment charges and is reported as a default to credit bureaus, negatively impacting the credit score.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Is the annual fee different for different types of cards (e.g., Gold, Platinum, Infinite)?",
+    "input": "",
+    "output": "Yes, annual fees are tiered based on the card variant, with premium cards (e.g., Infinite or Signature) having higher fees due to enhanced benefits.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "How are corporate credit card annual fees managed?",
+    "input": "",
+    "output": "Corporate card fees are either paid by the employer as per the corporate contract or billed to the individual cardholder based on the company's policy.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Can I request an annual fee waiver if I missed the spend threshold by a small margin?",
+    "input": "",
+    "output": "Fee waivers are strictly system-generated based on the spend threshold; manual waivers for missing the target are not permitted under current policy.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Detail the annual fee for a secured credit card against a Fixed Deposit.",
+    "input": "",
+    "output": "Secured credit cards typically have lower annual fees compared to unsecured cards, and the fee is debited directly from the linked card account.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Are government employees exempt from credit card annual fees?",
+    "input": "",
+    "output": "There is no general exemption for government employees; fees are based on the specific card variant and the terms of the individual application.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "What happens if a 'Lifetime Free' card is replaced due to damage?",
+    "input": "",
+    "output": "The 'Lifetime Free' status remains unchanged upon card replacement, although a standard one-time card replacement fee may be applicable.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  },
+  {
+    "instruction": "Define the 'Renewal Benefit' associated with the annual fee.",
+    "input": "",
+    "output": "Renewal benefits are bonus reward points or gift vouchers credited to the account upon successful payment of the annual renewal fee.",
+    "intent_id": "CREDIT_CARD_ANNUAL_FEE_INFO"
+  }
+]

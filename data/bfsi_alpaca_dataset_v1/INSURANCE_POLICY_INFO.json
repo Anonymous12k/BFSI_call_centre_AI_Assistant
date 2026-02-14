@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the primary categories of insurance products distributed through the bank?",
+    "input": "",
+    "output": "The bank distributes life insurance, health insurance, and general insurance products, including motor, home, and travel insurance, as a corporate agent for partner insurers.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "How can a customer access their active insurance policy details via digital banking?",
+    "input": "",
+    "output": "Policy details are accessible through the 'Insurance' or 'Investments' tab in net banking or the mobile app, providing a summary of coverage and policy numbers.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Describe the coverage provided under the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY).",
+    "input": "",
+    "output": "PMJJBY provides a life insurance cover of 2 lakh INR to the nominee in the event of the death of the insured due to any cause, subject to annual renewals.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Identify the difference between the bank's role and the insurer's role in policy issuance.",
+    "input": "",
+    "output": "The bank acts as a corporate agent and facilitator for policy distribution, while the insurance company serves as the underwriter responsible for risk coverage and claims.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What is the standard 'Free-Look Period' for insurance policies purchased through the bank?",
+    "input": "",
+    "output": "The Free-Look Period is 15 days from the receipt of the policy document, or 30 days for policies issued via electronic mode, allowing for cancellation without penalty.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Explain the scope of the Pradhan Mantri Suraksha Bima Yojana (PMSBY).",
+    "input": "",
+    "output": "PMSBY offers an accidental death and disability cover of 2 lakh INR, specifically covering death or total disability resulting from an accident.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "How does a customer obtain a duplicate copy of their Insurance Policy Certificate?",
+    "input": "",
+    "output": "A duplicate certificate can be requested through the 'Service Request' section of the insurer's portal or by visiting the bank branch to initiate a request with the partner.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What is an e-Insurance Account (eIA) and its function?",
+    "input": "",
+    "output": "An eIA is a digital repository that allows policyholders to store and manage all life and general insurance policies in a single electronic folder for easier access.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Define the 'Nomination' facility in a life insurance policy.",
+    "input": "",
+    "output": "Nomination is a facility where the policyholder appoints a person to receive the policy benefits in the event of the insured's death during the policy term.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "State the policy regarding the mandatory nature of insurance with bank products.",
+    "input": "",
+    "output": "Purchasing insurance through the bank is strictly voluntary and cannot be made a mandatory condition for availing other banking services such as loans or accounts.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What information is typically contained in an insurance policy schedule?",
+    "input": "",
+    "output": "A policy schedule includes the policy number, name of the insured, sum assured, premium amount, policy duration, and the specific terms of coverage.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Identify the tax benefits associated with life insurance premiums under current laws.",
+    "input": "",
+    "output": "Premiums paid for life insurance policies are eligible for tax deductions under Section 80C of the Income Tax Act, subject to the prevailing statutory limits.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "How are insurance premiums debited for government-sponsored social security schemes?",
+    "input": "",
+    "output": "Premiums for schemes like PMJJBY and PMSBY are automatically debited from the linked savings account annually during the renewal window in May.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Describe the process for updating KYC details for an existing insurance policy.",
+    "input": "",
+    "output": "KYC updates for insurance policies must be submitted to the insurer or through the bank, accompanied by valid identity and address proofs as per AML guidelines.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What is 'Group Insurance' coverage offered to account holders?",
+    "input": "",
+    "output": "Group insurance is a single policy covering a group of account holders, often providing life or accidental cover at lower premium rates than individual plans.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Explain the significance of the 'Sum Assured' in a policy document.",
+    "input": "",
+    "output": "The Sum Assured is the guaranteed amount that the insurance company agrees to pay the beneficiary or insured upon the occurrence of a covered event.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "How can a policyholder verify the authenticity of an insurance policy sold by the bank?",
+    "input": "",
+    "output": "Authenticity can be verified by checking the policy number on the IRDAI-regulated insurer's official website or by contacting the insurer's customer care directly.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What is the procedure for registering a change in the policy nominee?",
+    "input": "",
+    "output": "A nominee change is registered by submitting a 'Nomination Revision Form' to the bank or insurer, which then updates the policy records and issues an endorsement.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Detail the protocol for checking the surrender value of a life insurance policy.",
+    "input": "",
+    "output": "The surrender value can be viewed in the policy's annual statement or by using the 'Surrender Calculator' on the insurer's digital portal with the policy number.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Define 'Third-Party Administrator' (TPA) in the context of health insurance.",
+    "input": "",
+    "output": "A TPA is an entity appointed by the health insurer to facilitate claim processing, hospital networking, and other policy-related services for the insured.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What are the disclosure requirements regarding pre-existing diseases in health insurance?",
+    "input": "",
+    "output": "Policyholders are legally required to disclose all pre-existing medical conditions at the time of application to ensure the validity of future claims.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "How is the 'Grace Period' defined for insurance premium payments?",
+    "input": "",
+    "output": "The Grace Period is the additional time provided after the premium due date (usually 15 to 30 days) to pay the premium without the policy lapsing.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "State the requirement for an 'Assignment' of an insurance policy.",
+    "input": "",
+    "output": "Assignment involves transferring the rights and benefits of a policy to another entity, such as a bank, typically as collateral for a loan facility.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "Identify the primary regulator for all insurance products sold via the bank.",
+    "input": "",
+    "output": "All insurance products and distribution activities are regulated by the Insurance Regulatory and Development Authority of India (IRDAI).",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  },
+  {
+    "instruction": "What is an 'Endorsement' in an insurance contract?",
+    "input": "",
+    "output": "An endorsement is a formal document issued by the insurer that records any changes or amendments made to the original terms of the insurance policy.",
+    "intent_id": "INSURANCE_POLICY_INFO"
+  }
+]

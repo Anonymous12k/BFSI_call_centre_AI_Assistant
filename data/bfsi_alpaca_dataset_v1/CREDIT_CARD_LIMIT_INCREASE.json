@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for requesting a higher credit limit on an existing card?",
+    "input": "",
+    "output": "A credit limit increase request can be initiated through the mobile banking application, net banking portal, or by submitting a formal request at a bank branch with updated income documents.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Explain the document requirements for a credit limit enhancement.",
+    "input": "",
+    "output": "Documentation for a limit enhancement typically includes the last two months' salary slips, the most recent Form 16, or the latest Income Tax Returns for self-employed individuals.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "How does the bank determine eligibility for an automated credit limit increase?",
+    "input": "",
+    "output": "Automated eligibility is determined by an internal review of the cardholder's repayment history, credit utilization ratio, and the age of the credit card account.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What is the minimum account age required to apply for a limit increase?",
+    "input": "",
+    "output": "Standard policy requires a credit card account to be active and in good standing for a minimum of six to twelve months before a limit increase request can be processed.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Describe the impact of a credit limit increase on the credit report.",
+    "input": "",
+    "output": "A request for a credit limit increase may involve a hard inquiry on the credit report, which is a standard part of the credit appraisal process for unsecured credit extensions.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Can a credit limit be increased without providing new income proof?",
+    "input": "",
+    "output": "A limit increase without new income proof is only possible if the bank extends a pre-approved offer based on the cardholder's existing internal credit behavior and profile.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What is the processing time for a manual credit limit enhancement request?",
+    "input": "",
+    "output": "Manual requests for credit limit enhancement generally take 5 to 7 working days to process after the submission of all required financial documentation.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Are there any fees associated with increasing a credit card limit?",
+    "input": "",
+    "output": "There are no standard administrative fees for processing a credit limit increase; however, the card's annual fee structure may change if the limit moves the card to a higher tier.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "How is a cardholder notified of a successful limit enhancement?",
+    "input": "",
+    "output": "Cardholders receive notification of a successful limit enhancement via SMS and email to their registered contact details, and the new limit is updated on the next billing statement.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What are the criteria for increasing the limit on a corporate credit card?",
+    "input": "",
+    "output": "Corporate credit card limit increases require a formal request from the authorized company signatory along with updated corporate financial statements or a board resolution.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Define the role of credit utilization in limit increase approvals.",
+    "input": "",
+    "output": "Consistent credit utilization within the recommended range of 30% or less is a key factor evaluated during the assessment of a credit limit increase application.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Can a limit increase request be rejected due to recent late payments?",
+    "input": "",
+    "output": "Yes, any instances of late payments, cheque bounces, or over-limit occurrences in the last six months may result in the rejection of a limit increase request.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Outline the steps to accept a pre-approved limit increase offer.",
+    "input": "",
+    "output": "To accept a pre-approved offer, the cardholder must log in to the digital banking platform and provide consent via an OTP-based authentication process.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What is the maximum limit increase allowed in a single request?",
+    "input": "",
+    "output": "The maximum increase is not fixed and is subject to the applicant's proven income, debt-to-income ratio, and internal credit risk assessment models.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "How often can a cardholder apply for a credit limit increase?",
+    "input": "",
+    "output": "Cardholders are generally eligible to apply for a credit limit increase once every six months, provided there have been no significant changes in credit risk.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Does a limit increase affect the add-on cardholder's limit?",
+    "input": "",
+    "output": "Yes, since add-on cards share the primary cardholder's total credit pool, an increase in the primary limit automatically increases the available pool for add-on cards.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Is a physical signature required for a limit increase application?",
+    "input": "",
+    "output": "A physical signature is not required for digital applications, but it is necessary if the request is submitted via a physical form at a bank branch.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What happens to the cash withdrawal limit when the credit limit is increased?",
+    "input": "",
+    "output": "The cash withdrawal limit is typically set as a fixed percentage of the total credit limit and will increase proportionally with the new total credit limit.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Can a limit increase be requested during a dispute on the account?",
+    "input": "",
+    "output": "Requests for credit limit increases are typically not processed while there is an active dispute or investigation regarding fraudulent transactions on the account.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Detail the process for increasing the limit on a secured credit card.",
+    "input": "",
+    "output": "For secured credit cards, a limit increase requires the cardholder to increase the value of the underlying lien or fixed deposit to maintain the required margin.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What information is reviewed during the income verification step?",
+    "input": "",
+    "output": "The bank reviews gross annual income, net monthly take-home pay, and stability of employment as evidenced by the submitted financial documents.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "How does the bank handle limit increases for retired individuals?",
+    "input": "",
+    "output": "Retired individuals must provide proof of pension income or investment returns to justify a request for a higher credit limit on their card account.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Is there a cooling-off period after a rejected limit increase request?",
+    "input": "",
+    "output": "Following a rejection, a cooling-off period of six months is usually required before a new request for a credit limit increase can be reconsidered.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "Can a limit increase be requested through the customer service IVR?",
+    "input": "",
+    "output": "The IVR system can be used to check for pre-approved limit increase offers, but manual requests requiring document review must be done via web or mobile portals.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  },
+  {
+    "instruction": "What is the policy regarding temporary credit limit increases?",
+    "input": "",
+    "output": "Temporary credit limit increases are granted for specific durations, such as travel or emergencies, and revert to the original limit after the specified period expires.",
+    "intent_id": "CREDIT_CARD_LIMIT_INCREASE"
+  }
+]

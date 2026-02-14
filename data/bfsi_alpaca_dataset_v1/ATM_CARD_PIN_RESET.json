@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the standard methods for resetting a forgotten debit card PIN?",
+    "input": "",
+    "output": "A forgotten PIN can be reset through the mobile banking app, the net banking portal, or at any bank ATM using the 'Green PIN' or OTP-based facility.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Outline the procedure to generate a new ATM PIN via the mobile application.",
+    "input": "",
+    "output": "Log in to the app, navigate to 'Card Settings', select 'Set/Reset PIN', enter the new four-digit code, and verify the request with the OTP sent to the registered mobile number.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "How can a customer reset their PIN using the 'Green PIN' facility at an ATM?",
+    "input": "",
+    "output": "Insert the card, select 'PIN Generation', enter the OTP received on the mobile phone, and then follow the on-screen prompts to set a new personal identification number.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Describe the process for changing an existing ATM PIN through net banking.",
+    "input": "",
+    "output": "Access the 'Cards' menu in the net banking portal, select 'Instant PIN Generation', choose the card number, and input the new PIN after authenticating with an OTP.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "What should a cardholder do if their PIN is blocked due to excessive incorrect entries?",
+    "input": "",
+    "output": "If a PIN is blocked, it may be automatically reset after 24 hours, or the holder can manually generate a new PIN immediately using the mobile app or net banking.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Is an OTP mandatory for all digital PIN reset transactions?",
+    "input": "",
+    "output": "Yes, for security and verification purposes, a One-Time Password (OTP) sent to the registered mobile number is required to finalize any PIN reset request.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Are physical PIN mailers sent to customers upon request for a PIN reset?",
+    "input": "",
+    "output": "The bank has phased out physical PIN mailers; all PIN resets are now conducted through electronic 'Green PIN' channels to ensure immediate and secure delivery.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Can an add-on debit cardholder reset their own ATM PIN?",
+    "input": "",
+    "output": "Yes, add-on cardholders can reset their PIN through an ATM or the mobile app by using the mobile number associated with their specific card profile.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "How many digits must a new debit card PIN contain?",
+    "input": "",
+    "output": "A standard debit card PIN must be exactly four digits long and should not consist of sequential or easily guessable number patterns.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Is there a service fee for resetting an ATM PIN through the mobile app?",
+    "input": "",
+    "output": "The bank does not charge any service fee for PIN resets performed via digital banking channels or the bank’s own ATM network.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Can a PIN be reset if the debit card has expired?",
+    "input": "",
+    "output": "No, a PIN cannot be reset for an expired card; the cardholder must first activate their new replacement card before setting a PIN.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "What is the procedure for resetting a PIN while traveling outside the country?",
+    "input": "",
+    "output": "Cardholders can reset their PIN through the net banking portal or mobile app from any location, provided they have access to their registered mobile number for OTPs.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Explain the protocol for resetting a PIN on a newly issued debit card.",
+    "input": "",
+    "output": "For new cards, the PIN can be set through the mobile app or by using the 'Green PIN' option at an ATM, which also serves to activate the card for its first use.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Can a PIN be reset via a phone banking officer?",
+    "input": "",
+    "output": "For security reasons, phone banking officers cannot set a PIN; they can only trigger a request for the customer to set it themselves through the IVR or mobile app.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "How long does it take for a newly reset PIN to become effective?",
+    "input": "",
+    "output": "A newly reset PIN becomes effective immediately for all types of transactions, including ATM withdrawals and POS payments.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "State the security recommendations for selecting a new ATM PIN.",
+    "input": "",
+    "output": "Cardholders are advised to avoid using birth years, telephone digits, or repeated numbers and to change their PIN periodically to enhance security.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Is it possible to reset a PIN if the registered mobile number is unavailable?",
+    "input": "",
+    "output": "If the registered mobile number is unavailable, the customer must first update their contact details at a branch before they can receive the OTP required for a PIN reset.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "What happens if a customer enters the wrong OTP during a PIN reset attempt?",
+    "input": "",
+    "output": "If an incorrect OTP is entered three times, the PIN reset session will be terminated, and the cardholder must wait 24 hours to initiate a fresh request.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Does the bank require a written application to reset a PIN at a branch?",
+    "input": "",
+    "output": "A written application is generally not required if the reset is performed through a self-service kiosk or ATM, but it may be needed for certain legacy account types.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Identify the number of times a PIN can be reset in a single day.",
+    "input": "",
+    "output": "There is typically a limit of three successful PIN resets within a 24-hour period to prevent potential misuse of the account.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Can a PIN be reset through WhatsApp banking?",
+    "input": "",
+    "output": "WhatsApp banking can provide instructions on how to reset a PIN, but the actual reset must be completed through the bank's secure mobile app or net banking portal.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "What is the procedure for resetting a PIN for a corporate debit card?",
+    "input": "",
+    "output": "Corporate cardholders can reset their PIN using the standard mobile app process or through the corporate banking portal if they have individual login credentials.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Define the 'Instant PIN' feature available in digital banking.",
+    "input": "",
+    "output": "Instant PIN refers to the capability of the banking system to update the card’s security record in real-time as soon as the user confirms the new digits online.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "Is the new PIN applicable to virtual cards as well?",
+    "input": "",
+    "output": "No, virtual cards typically use an OTP or a separate transaction PIN specifically configured within the mobile application.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  },
+  {
+    "instruction": "How can I verify if my PIN reset request was successful?",
+    "input": "",
+    "output": "A success message will be displayed on the screen, and a confirmation SMS will be sent to the registered mobile number immediately after the change.",
+    "intent_id": "ATM_CARD_PIN_RESET"
+  }
+]

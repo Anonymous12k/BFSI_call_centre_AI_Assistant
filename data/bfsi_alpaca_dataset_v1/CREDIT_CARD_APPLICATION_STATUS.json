@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "How can I check the current status of my credit card application?",
+    "input": "",
+    "output": "The application status can be tracked by entering the 15-digit application reference number on the official tracking portal or via the mobile banking application.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does the status 'In-Progress' signify for a card request?",
+    "input": "",
+    "output": "The 'In-Progress' status indicates that the application is currently undergoing internal credit assessment, background verification, or document validation.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Identify the methods available for tracking a credit card request.",
+    "input": "",
+    "output": "Tracking methods include the online self-service portal, the automated interactive voice response (IVR) system, or visiting a local bank branch with the reference ID.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Explain the 'On Hold' status in the credit card workflow.",
+    "input": "",
+    "output": "An 'On Hold' status typically implies that additional documentation or clarification is required from the applicant to complete the credit evaluation process.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is the procedure for tracking a card application using a mobile number?",
+    "input": "",
+    "output": "Applicants can use their registered mobile number along with an OTP or Date of Birth on the bank's tracking page to view the current stage of their application.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Describe the meaning of 'Approved' in the application tracker.",
+    "input": "",
+    "output": "An 'Approved' status confirms that the credit assessment is complete and the card is being prepared for generation and subsequent dispatch to the registered address.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How long does it take for the status to update after document submission?",
+    "input": "",
+    "output": "The application status usually reflects updates within 24 to 48 working hours following the successful submission and digital upload of mandatory documents.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Dispatched' mean in the context of a credit card application?",
+    "input": "",
+    "output": "The 'Dispatched' status indicates that the physical credit card has been handed over to the courier partner, and a tracking AWB number has been generated.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Define the 'Rejected' status for a credit card application.",
+    "input": "",
+    "output": "A 'Rejected' status means the application did not meet the internal credit policy, eligibility criteria, or failed during the verification stage.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Can the application status be checked without an application reference number?",
+    "input": "",
+    "output": "If the reference number is unavailable, the status can be retrieved using a combination of the registered mobile number, PAN card details, and Date of Birth.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is the significance of the 'Verification Pending' status?",
+    "input": "",
+    "output": "This status indicates that the field investigation or tele-verification process is yet to be completed by the bank's authorized verification agency.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How can I find the Airway Bill (AWB) number for my card delivery?",
+    "input": "" ,
+    "output": "The AWB number is provided via SMS once the card status changes to 'Dispatched', allowing the applicant to track the shipment on the courier’s website.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Detail the status 'Card Blocked at Source'.",
+    "input": "",
+    "output": "This status occurs if there is a discrepancy detected post-approval but pre-dispatch, requiring the applicant to contact the credit department for resolution.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What information is required to track status via the IVR system?",
+    "input": "",
+    "output": "To track via IVR, the applicant must provide the application reference number or the registered 10-digit mobile number and verify their identity.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Document Picked Up' indicate in the tracker?",
+    "input": "",
+    "output": "This status confirms that the physical documents have been collected by the bank representative and are currently being transported to the processing hub.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Explain the 'Technical Decline' status for a card application.",
+    "input": "",
+    "output": "A 'Technical Decline' occurs when an application cannot be processed due to system errors, duplicate records, or incomplete data entry during the initial phase.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Where can the 15-digit application reference number be located?",
+    "input": "",
+    "output": "The application reference number is sent via SMS and email immediately upon the successful submission of the initial credit card application form.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is the meaning of 'Declined due to Policy'?",
+    "input": "",
+    "output": "This status indicates that while the documents were valid, the applicant's profile did not align with the bank's current internal risk and credit policies.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How is the status communicated to the applicant?",
+    "input": "",
+    "output": "Status updates are communicated through automated SMS notifications, email alerts at key milestones, and the real-time online tracking dashboard.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Reviewing Documentation' mean?",
+    "input": "",
+    "output": "This stage signifies that the back-end team is manually verifying the uploaded PAN, address proof, and income documents for authenticity and accuracy.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Specify the steps to follow if the status shows 'Address Mismatch'.",
+    "input": "",
+    "output": "If an address mismatch is shown, the applicant must submit a valid government-approved address proof that matches the location provided in the application.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Limit Assigned' mean in the status tracker?",
+    "input": "",
+    "output": "The 'Limit Assigned' status indicates that the application is approved and a specific credit limit has been determined based on the applicant's income and credit score.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Explain 'Refer to Credit' status.",
+    "input": "",
+    "output": "This status indicates that the application requires a more detailed manual review by a senior credit officer before a final decision can be reached.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Can I track the status of a supplementary card application separately?",
+    "input": "",
+    "output": "Yes, supplementary card applications generate a unique reference number that can be tracked independently through the same status portals as the primary card.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Card Generated' signify?",
+    "input": "",
+    "output": "The 'Card Generated' status means the virtual card details are ready, and the physical card is currently in the embossing and packaging stage.",
+    "intent_id": "CREDIT_CARD_APPLICATION_STATUS"
+  }
+]

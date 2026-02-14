@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Define the difference between fixed and floating interest rates.",
+    "input": "",
+    "output": "A fixed interest rate remains constant throughout the loan tenure, while a floating interest rate is linked to a benchmark like MCLR or EBLR and fluctuates based on market conditions.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is the current benchmark used for pricing retail loans?",
+    "input": "",
+    "output": "Retail loans are primarily priced based on the External Benchmark Lending Rate (EBLR), which is typically linked to the Reserve Bank of India's repo rate plus a specified spread.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "How often is the Marginal Cost of Funds Based Lending Rate (MCLR) reviewed?",
+    "input": "",
+    "output": "The MCLR is reviewed and published on a monthly basis, though the specific reset date for an individual loan depends on the reset frequency mentioned in the loan agreement.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Explain the concept of an interest rate 'spread'.",
+    "input": "",
+    "output": "The spread is the percentage charged over and above the benchmark rate (MCLR or EBLR) to determine the final applicable interest rate for a specific loan product.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What factors influence the interest rate assigned to a personal loan?",
+    "input": "",
+    "output": "Interest rates are determined by the bank's cost of funds, the applicant's credit score, employment category, and the prevailing regulatory benchmark rates.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Does the bank offer a reduction in interest rates for existing customers?",
+    "input": "",
+    "output": "Interest rate concessions for existing customers are subject to the bank's internal credit policy and the specific terms of the relationship banking program at the time of application.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is a 'reset period' in the context of floating rate loans?",
+    "input": "",
+    "output": "A reset period is the predefined interval, such as six months or one year, at which the floating interest rate is updated to reflect the current benchmark rate.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Describe the impact of a repo rate change on EBLR-linked loans.",
+    "input": "",
+    "output": "For EBLR-linked loans, any change in the RBI repo rate must be transmitted to the lending rate within the timelines stipulated by regulatory guidelines.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Are interest rates different for women applicants?",
+    "input": "",
+    "output": "Certain loan products, specifically in the home loan segment, may offer a specific interest rate concession for women applicants as per the bank's current lending policy.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is the 'reducing balance' method of interest calculation?",
+    "input": "",
+    "output": "The reducing balance method calculates interest monthly on the outstanding principal amount rather than the initial loan amount, resulting in lower total interest over time.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Explain the Annual Percentage Rate (APR).",
+    "input": "",
+    "output": "The APR represents the total annual cost of the loan, including the nominal interest rate and mandatory processing fees or other recurring charges expressed as a percentage.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Can a borrower switch from a fixed rate to a floating rate during the tenure?",
+    "input": "",
+    "output": "Borrowers may request a switch from fixed to floating rates or vice versa by paying a one-time conversion fee as specified in the bank's schedule of charges.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is the base rate in banking terms?",
+    "input": "",
+    "output": "The base rate is the minimum interest rate below which a bank is not permitted to lend, except in specific cases allowed by the central bank; it has largely been replaced by MCLR and EBLR.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "How is interest calculated for a gold loan?",
+    "input": "",
+    "output": "Interest for a gold loan is typically calculated on a monthly basis on the outstanding principal, though some schemes offer 'bullet repayment' where interest is paid at the end of the tenure.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Does the loan amount affect the applicable interest rate?",
+    "input": "",
+    "output": "Yes, interest rates are often tiered based on the loan slab; higher loan amounts in certain categories like home loans may attract different interest rates compared to lower slabs.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is 'Penal Interest'?",
+    "input": "",
+    "output": "Penal interest is an additional interest charge levied over the regular rate in the event of a default or delay in the payment of EMIs or other dues.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Identify the benchmark for commercial vehicle loans.",
+    "input": "",
+    "output": "Commercial vehicle loans are typically linked to the one-year MCLR or a specific asset-backed lending benchmark defined by the bank's treasury department.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Is the interest rate on a personal loan negotiable?",
+    "input": "",
+    "output": "The interest rate is determined by the bank's automated risk assessment model and is generally non-negotiable once the credit score and risk profile are finalized.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is the difference between nominal interest and effective interest?",
+    "input": "",
+    "output": "The nominal rate is the stated interest on the loan, while the effective rate accounts for the compounding frequency and the impact of fees on the actual cost of borrowing.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Are there interest-only repayment options available?",
+    "input": "",
+    "output": "Interest-only repayments are typically restricted to the moratorium period of specific products like education loans or construction-linked stages of home loans.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Describe the interest rate structure for an overdraft facility.",
+    "input": "",
+    "output": "In an overdraft facility, interest is charged only on the daily utilized amount rather than the total sanctioned limit, and is debited to the account monthly.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "How does a 'step-up' interest rate work?",
+    "input": "",
+    "output": "A step-up structure involves a lower interest rate in the initial years of the loan which increases at predefined intervals during the remainder of the tenure.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is the interest rate cap for microfinance loans?",
+    "input": "",
+    "output": "The interest rate for microfinance loans is governed by the regulatory ceiling which limits the margin over the average cost of funds of the top five commercial banks.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "What is the impact of a credit score upgrade on an existing loan's interest rate?",
+    "input": "",
+    "output": "An upgrade in credit score does not automatically reduce the interest rate of an ongoing loan but may allow the borrower to apply for a rate conversion or balance transfer.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  },
+  {
+    "instruction": "Explain 'Pre-EMI' interest.",
+    "input": "",
+    "output": "Pre-EMI interest is the simple interest charged on the disbursed loan amount during the period before the actual EMI (Principal + Interest) payments commence.",
+    "intent_id": "LOAN_INTEREST_RATE_INFO"
+  }
+]

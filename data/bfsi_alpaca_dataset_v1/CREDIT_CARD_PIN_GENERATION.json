@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the available methods to generate a new PIN for a credit card?",
+    "input": "",
+    "output": "A credit card PIN can be generated through the mobile banking application, the net banking portal, any authorized bank ATM, or via the automated IVR customer service helpline.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Outline the steps to set a credit card PIN using the mobile banking app.",
+    "input": "",
+    "output": "Log in to the mobile app, navigate to the 'Cards' section, select 'Set/Reset PIN', enter the desired four-digit code, and authenticate the request using the OTP sent to the registered mobile number.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "How can a cardholder generate a PIN at a bank ATM?",
+    "input": "",
+    "output": "Insert the credit card into the ATM, select the 'PIN Generation' or 'Green PIN' option, enter the OTP received on the registered mobile number, and then set the new four-digit PIN.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Describe the procedure for generating a credit card PIN through net banking.",
+    "input": "",
+    "output": "Access the net banking portal, go to 'Credit Card Service Requests', select 'Change/Generate PIN', choose the card number, and follow the prompts to set a new PIN via secure authentication.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "What is the process for setting a PIN via the IVR system?",
+    "input": "",
+    "output": "Call the customer care number, select the credit card menu, choose the 'PIN Generation' option, enter the card details, and follow the automated prompts to create a new four-digit PIN.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Are physical PIN mailers still sent to the customer's registered address?",
+    "input": "",
+    "output": "For security and environmental reasons, the bank has transitioned to digital 'Green PIN' generation; physical PIN mailers are no longer dispatched to registered addresses.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Can a PIN be generated for an add-on credit card?",
+    "input": "",
+    "output": "Yes, the add-on cardholder can generate their own PIN using the mobile app or an ATM by following the standard PIN generation workflow with their specific card details.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "What is required to generate a PIN for a newly issued credit card?",
+    "input": "",
+    "output": "To generate a PIN for a new card, the cardholder requires the active credit card, access to the registered mobile number for OTP verification, and the card's expiry date.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Identify the security protocols followed during the digital PIN generation process.",
+    "input": "",
+    "output": "Digital PIN generation requires multi-factor authentication, typically involving a secure login to the banking portal and a One-Time Password (OTP) sent to the verified mobile number.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Is there a limit on how many times a cardholder can change their PIN?",
+    "input": "",
+    "output": "There is no predefined limit on the number of times a cardholder can change their credit card PIN; however, only the most recently generated PIN will remain active.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "What should a cardholder do if they forget their existing credit card PIN?",
+    "input": "",
+    "output": "If a PIN is forgotten, the cardholder should use the 'Reset PIN' or 'Forgot PIN' feature on the mobile app or net banking portal to generate a new PIN instantly.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "How long does it take for a newly generated PIN to become active?",
+    "input": "",
+    "output": "A newly generated credit card PIN is activated instantaneously across all channels including POS terminals, ATMs, and online payment gateways.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Can a credit card PIN be set for international use specifically?",
+    "input": "",
+    "output": "A single PIN is used for both domestic and international transactions; once generated, it is valid for all chip-and-pin enabled terminals worldwide.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "State the policy for PIN generation after a card replacement.",
+    "input": "",
+    "output": "Upon receiving a replacement card, the cardholder must perform a fresh PIN generation as the PIN from the old, deactivated card will not be valid for the new plastic.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "What are the rules for choosing a secure credit card PIN?",
+    "input": "",
+    "output": "For security, cardholders are advised not to use sequential numbers (1234), repetitive numbers (1111), or digits associated with their date of birth.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Is an OTP mandatory for all PIN generation methods?",
+    "input": "",
+    "output": "Yes, a One-Time Password (OTP) is a mandatory security requirement for all PIN generation methods to verify the cardholder's identity before the change is processed.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "How can a customer generate a PIN if they are overseas?",
+    "input": "",
+    "output": "Customers abroad can generate a PIN through the net banking portal or mobile app, provided they have access to their registered mobile number or email for OTP receipt.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Describe the 'Green PIN' concept in credit card services.",
+    "input": "",
+    "output": "The 'Green PIN' refers to the paperless method of setting a PIN through digital channels or ATMs using an OTP, eliminating the need for physical PIN mailers.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Does the bank charge a fee for PIN regeneration?",
+    "input": "",
+    "output": "The bank does not charge any fees for PIN generation or resets performed through digital channels like the mobile app, net banking, or bank-owned ATMs.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Can I generate a PIN for a card that has not yet been activated?",
+    "input": "",
+    "output": "PIN generation is often the final step of card activation; for many cards, setting the PIN through the mobile app or ATM successfully activates the card for use.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "What happens if the OTP for PIN generation is not received?",
+    "input": "",
+    "output": "If the OTP is not received, the cardholder can request a 'Resend OTP' after 60 seconds or ensure their mobile network is active and registered correctly with the bank.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Is a PIN required for online e-commerce transactions?",
+    "input": "",
+    "output": "Standard online transactions typically require a 3D Secure OTP rather than the physical PIN; however, the PIN may be required for certain international online merchants.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Detail the protocol for PIN generation for corporate credit cards.",
+    "input": "",
+    "output": "Corporate cardholders can generate their PIN through the specialized corporate banking portal or by following the standard mobile app process if permitted by their organization.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "Can a PIN be generated if the credit card account is temporarily blocked?",
+    "input": "",
+    "output": "No, PIN generation is only permitted on active credit card accounts; if a card is blocked, it must be unblocked before a PIN can be set or changed.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  },
+  {
+    "instruction": "How do I verify that my PIN has been successfully set?",
+    "input": "",
+    "output": "A confirmation message is displayed on the screen and a notification is sent via SMS to the registered mobile number immediately upon successful PIN generation.",
+    "intent_id": "CREDIT_CARD_PIN_GENERATION"
+  }
+]

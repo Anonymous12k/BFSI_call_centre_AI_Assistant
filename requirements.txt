@@ -1,0 +1,24 @@
+# Core ML libraries for fine-tuned local SLM
+torch>=2.1.0,<3.0.0
+transformers>=4.35.0,<5.0.0
+
+# Embeddings & similarity search (Tier 1)
+sentence-transformers>=2.2.2,<3.0.0
+faiss-cpu>=1.7.4,<2.0.0
+
+# RAG / Knowledge retrieval (Tier 3)
+langchain>=0.1.0,<1.0.0
+PyMuPDF>=1.22.5,<2.0.0
+pdfplumber>=0.9.0,<1.0.0
+
+# Data handling
+pandas>=2.1.0,<3.0.0
+numpy>=1.25.0,<2.0.0
+
+# Utilities
+tqdm>=4.66.0,<5.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# Optional: CLI / API support
+fastapi>=0.110.0,<1.0.0
+uvicorn>=0.23.0,<1.0.0

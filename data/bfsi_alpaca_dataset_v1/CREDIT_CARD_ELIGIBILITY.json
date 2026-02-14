@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the age requirements for a primary credit card applicant?",
+    "input": "",
+    "output": "The primary applicant must be at least 21 years of age and not exceed 65 years at the time of the credit card application.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Detail the minimum income criteria for a basic credit card.",
+    "input": "",
+    "output": "The minimum annual net income requirement for a basic credit card is 3,00,000 INR for salaried individuals.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the required credit score for a premium credit card?",
+    "input": "",
+    "output": "A minimum CIBIL score of 750 is required to meet the eligibility threshold for premium credit card variants.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are self-employed individuals eligible for credit card issuance?",
+    "input": "",
+    "output": "Self-employed individuals are eligible based on the Income Tax Returns (ITR) filed for the last two financial years.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "State the eligibility for add-on credit cards for family members.",
+    "input": "",
+    "output": "Add-on card applicants must be over 18 years of age and must be immediate family members of the primary cardholder.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the residency status requirements for card applicants?",
+    "input": "",
+    "output": "Credit card issuance is restricted to Resident Indians and Non-Resident Indians (NRIs) who maintain active domestic accounts.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Identify the employment stability criteria for a new credit card.",
+    "input": "",
+    "output": "Applicants must demonstrate at least one year of continuous employment with their current employer to meet eligibility standards.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Does the bank issue credit cards against Fixed Deposits?",
+    "input": "",
+    "output": "Credit cards can be issued against a Fixed Deposit with a minimum value of 20,000 INR, subject to a lien on the deposit.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the minimum income for self-employed professionals like Doctors?",
+    "input": "",
+    "output": "Self-employed professionals must show a minimum annual income of 4,50,000 INR as per their latest audited financial statements.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are students eligible to apply for an unsecured credit card?",
+    "input": "",
+    "output": "Unsecured credit cards are not available to students; they may only apply for cards secured against Fixed Deposits.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "List the location-based eligibility for credit card processing.",
+    "input": "",
+    "output": "Applicants must reside within the defined city limits where the bank has a functional branch or a serviceable area.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the policy for applicants with no prior credit history?",
+    "input": "",
+    "output": "Applicants without a credit history are evaluated based on their existing banking relationship and salary account vintage.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Define the eligibility for a corporate credit card.",
+    "input": "",
+    "output": "Corporate credit cards are issued based on the company's credit rating and a minimum annual turnover of 5 Crores INR.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Does holding a current loan affect credit card eligibility?",
+    "input": "",
+    "output": "Existing loan obligations are factored into the Debt-to-Income ratio, which must not exceed 50% for card approval.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the minimum age for a student credit card (secured)?",
+    "input": "",
+    "output": "A student must be at least 18 years of age to apply for a credit card secured against a Fixed Deposit.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are pensioners eligible for credit card issuance?",
+    "input": "",
+    "output": "Pensioners are eligible if they maintain a pension account with the bank and meet the age limit of 70 years.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "State the income requirements for a Super-Premium credit card.",
+    "input": "",
+    "output": "Super-Premium cards require a verified net monthly income of 2,00,000 INR or higher for salaried applicants.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What document acts as income proof for salaried eligibility?",
+    "input": "",
+    "output": "Income eligibility is verified using the latest three months' salary slips and the most recent Form 16.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Identify the criteria for upgrading an existing credit card.",
+    "input": "",
+    "output": "Card upgrades require a minimum of 12 months of clean repayment history and a 20% increase in verified annual income.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "How is eligibility determined for partnership firm partners?",
+    "input": "",
+    "output": "Partners are evaluated based on the firm's Profit and Loss statements and their individual share of income.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Is a landline connection mandatory for credit card eligibility?",
+    "input": "",
+    "output": "While not mandatory, a verified office or residence landline number is preferred for the final verification stage.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the policy for applicants with recent cheque bounces?",
+    "input": "",
+    "output": "Applicants with a cheque bounce record in the last six months are ineligible for a credit card under current policy.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are employees of start-ups eligible for credit cards?",
+    "input": "",
+    "output": "Employees of start-ups are eligible if the company is venture-funded and has been operational for over three years.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "Describe the eligibility for cards based on 'Card-on-Card' criteria.",
+    "input": "",
+    "output": "Applicants can qualify using an existing credit card from another bank with a minimum limit of 50,000 INR and six months' vintage.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the minimum business vintage for self-employed applicants?",
+    "input": "",
+    "output": "Self-employed applicants must provide evidence of business operations for a minimum of three consecutive years.",
+    "intent_id": "CREDIT_CARD_ELIGIBILITY"
+  }
+]

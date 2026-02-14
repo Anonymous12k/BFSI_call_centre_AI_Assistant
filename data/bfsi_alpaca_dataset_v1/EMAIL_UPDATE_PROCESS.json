@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the steps to update the registered email address through net banking?",
+    "input": "",
+    "output": "Log in to the net banking portal, navigate to 'Profile Settings', select 'Update Contact Details', enter the new email ID, and verify the change with the OTP sent to the registered mobile number.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Outline the procedure for changing the email ID using the mobile banking application.",
+    "input": "",
+    "output": "Open the mobile app, go to 'Personal Profile', select the 'Edit' icon next to the email field, input the new address, and confirm the update through secure MPIN or biometric authentication.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Explain how to register an email address at a bank branch.",
+    "input": "",
+    "output": "The account holder must visit the home branch, fill out a 'Customer Details Update' form with the new email information, and submit it along with a valid photo identity proof.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the processing time for an email address update in the bank records?",
+    "input": "",
+    "output": "An email update request submitted through digital channels is typically processed within 24 working hours, while branch-based requests may take up to 48 hours.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is a One-Time Password required to change the registered email address?",
+    "input": "",
+    "output": "Yes, for security purposes, any modification to the registered email address must be authenticated using a One-Time Password (OTP) sent to the registered mobile number.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is a new email address verified after the update request is made?",
+    "input": "",
+    "output": "Upon updating the record, the bank sends a verification link to the new email address; the customer must click the link to confirm and activate the new ID for alerts.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Describe the process for an NRI customer to update their email ID.",
+    "input": "",
+    "output": "NRI customers can update their email address via the international net banking portal or by sending a signed request form to the central processing center via post.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can an email address be updated through an automated teller machine (ATM)?",
+    "input": "",
+    "output": "ATM kiosks do not currently support the functionality to update or modify the registered email address; this must be done via digital banking or at a branch.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What happens to e-statement delivery after the email address is changed?",
+    "input": "",
+    "output": "Once the update is finalized, all future e-statements, transaction alerts, and bank communications will be automatically directed to the newly registered email address.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "State the procedure for updating the email ID on a corporate bank account.",
+    "input": "",
+    "output": "The authorized signatory must submit a written request on the entity's letterhead, accompanied by a board resolution or mandate, at the branch where the account is maintained.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Are there any service charges for updating the email address in the system?",
+    "input": "",
+    "output": "The bank does not levy any fees or service charges for the registration or modification of a customer's email address through any available channel.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How can I verify if my email address has been successfully updated?",
+    "input": "",
+    "output": "A confirmation SMS is sent to the registered mobile number immediately after the change, and the updated ID will be visible in the 'My Profile' section of digital banking.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Define the protocol for updating email IDs in a joint account.",
+    "input": "",
+    "output": "In a joint account, the primary holder's email is usually used for alerts; however, secondary holders can update their individual email IDs via their respective digital logins.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What should a customer do if they receive an email update alert they did not initiate?",
+    "input": "",
+    "output": "The customer should immediately contact the bank's 24/7 customer care helpline or visit a branch to report unauthorized access and secure their account.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can a single email address be linked to multiple customer IDs?",
+    "input": "",
+    "output": "Regulatory and security policies typically require a unique email address for each Customer ID to ensure the confidentiality of financial information and alerts.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is it possible to update the email address through the bank's IVR service?",
+    "input": "",
+    "output": "Email address updates are not permitted through the automated IVR system; customers must use the secure mobile app, net banking, or visit a branch office.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What documents are required to update an email ID at a branch if the mobile number is also inactive?",
+    "input": "",
+    "output": "The customer must present an original officially valid document (OVD), such as an Aadhaar card or Passport, for in-person verification when updating contact details.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is the email address updated for a minor's savings account?",
+    "input": "",
+    "output": "The natural or legal guardian must provide their email address or a specific email for the minor by submitting a signed request at the branch.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Does updating the email address also update it for linked credit card accounts?",
+    "input": "",
+    "output": "Yes, if the credit card is linked to the same Customer ID, the email update will be reflected across all banking products associated with that profile.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can a customer update their email address via the bank's official WhatsApp banking channel?",
+    "input": "",
+    "output": "WhatsApp banking can provide guidance on the update process, but for security, the actual modification must be performed through the encrypted mobile app or net banking.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the character limit for a registered email address in the bank's system?",
+    "input": "",
+    "output": "The system supports standard email formats and lengths, typically allowing up to 50 to 100 characters, including the domain name and special characters like dots or underscores.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Identify the steps to remove an email address from the bank records.",
+    "input": "",
+    "output": "To remove an email address, a written request must be submitted at the branch; however, maintaining a registered email is recommended for receiving mandatory alerts.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is a signature verification required for email updates at a branch?",
+    "input": "",
+    "output": "Yes, when submitting a physical request form at a branch, the signature on the form must match the specimen signature available in the bank's records.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How does the bank handle email update requests if the account is dormant?",
+    "input": "",
+    "output": "For a dormant account, the customer must first complete the Re-KYC process to reactivate the account before any contact details like the email ID can be modified.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What notification is sent once the email update is successful?",
+    "input": "",
+    "output": "A final confirmation message is sent to both the old and new email addresses, as well as via SMS to the registered mobile number, to ensure account security.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  }
+]

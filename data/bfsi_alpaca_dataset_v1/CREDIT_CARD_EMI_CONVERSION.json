@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the eligibility requirements for converting a credit card purchase into an EMI?",
+    "input": "",
+    "output": "Transactions exceeding a minimum value of 2,500 INR are eligible for EMI conversion, provided the account is in good standing and the merchant belongs to an approved category.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "How can I initiate an EMI conversion through the mobile banking application?",
+    "input": "",
+    "output": "To convert a transaction to EMI, log in to the app, select 'Credit Cards', view 'Unbilled Transactions', and click the 'Convert to EMI' button next to the eligible purchase.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "List the available tenure options for credit card EMI plans.",
+    "input": "",
+    "output": "Cardholders can choose from flexible repayment tenures of 3, 6, 9, 12, 18, or 24 months, depending on the transaction amount and specific offer availability.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "What are the processing fees associated with EMI conversions?",
+    "input": "",
+    "output": "A one-time processing fee, typically ranging from 1% to 2% of the transaction value plus applicable GST, is charged for converting a purchase into an EMI plan.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "How is the interest rate determined for post-purchase EMI conversions?",
+    "input": "",
+    "output": "Interest rates for EMI conversions are calculated on a monthly reducing balance basis and are specified at the time of the conversion request based on the selected tenure.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Explain the 'Merchant EMI' process at the point of sale.",
+    "input": "",
+    "output": "Merchant EMI allows the cardholder to request EMI conversion directly at the retail outlet or e-commerce checkout by selecting the 'EMI' payment option during the transaction.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "What happens to the available credit limit after an EMI conversion?",
+    "input": "",
+    "output": "The total transaction amount is blocked against the available credit limit; the limit is gradually released as the monthly EMI installments are paid.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Detail the policy for foreclosing an active EMI plan.",
+    "input": "",
+    "output": "EMI plans can be foreclosed by contacting customer service; a foreclosure fee, usually 3% of the outstanding principal balance plus GST, will be applicable.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Are reward points earned on transactions converted to EMI?",
+    "input": "",
+    "output": "Transactions converted to EMI are generally not eligible for reward point accrual, and any points previously credited for the original purchase will be reversed.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Can a cash withdrawal transaction be converted into an EMI?",
+    "input": "",
+    "output": "No, EMI conversion is only applicable to retail and online purchases; cash withdrawals (Cash Advances) are not eligible for installment-based repayment plans.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "What is the timeline for processing a post-purchase EMI request?",
+    "input": "",
+    "output": "A request for EMI conversion made through digital channels is processed within 2 to 3 working days from the date of the request submission.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "How is the monthly EMI amount reflected in the credit card statement?",
+    "input": "",
+    "output": "The monthly EMI installment, comprising principal and interest components, appears as a separate line item in the 'Minimum Amount Due' and 'Total Amount Due' sections.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Is an OTP required to authorize an EMI conversion online?",
+    "input": "",
+    "output": "Yes, a One-Time Password sent to the registered mobile number is mandatory to authenticate and confirm the EMI conversion request via net banking or the app.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Can multiple transactions be clubbed into a single EMI plan?",
+    "input": "",
+    "output": "Transactions must be converted individually; the system currently does not support the merging of multiple separate purchases into a single consolidated EMI.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "What is the impact of a transaction refund on an active EMI?",
+    "input": "",
+    "output": "If a merchant issues a refund for a transaction already converted to EMI, the cardholder must contact the bank to cancel the EMI and adjust the outstanding balance.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Identify the transactions that are ineligible for EMI conversion.",
+    "input": "",
+    "output": "Ineligible transactions include jewelry purchases, fuel spends, cash advances, and payments towards taxes or other financial services.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Define the 'No Cost EMI' offer structure.",
+    "input": "",
+    "output": "Under No Cost EMI, the interest charged by the bank is offered as an upfront discount by the merchant, making the total repayment equal to the original price.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Does converting to EMI affect the 'Minimum Amount Due' calculation?",
+    "input": "",
+    "output": "Yes, the full amount of the monthly EMI installment is added to the 'Minimum Amount Due' and must be paid in full to avoid late payment charges.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "State the maximum time limit to request an EMI conversion after a purchase.",
+    "input": "",
+    "output": "EMI conversion requests must be initiated within 45 days of the transaction date and before the generation of the next credit card statement.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "How are GST charges applied to EMI transactions?",
+    "input": "",
+    "output": "GST at the prevailing rate is applied to both the interest component of each monthly EMI and the one-time processing fee charged at the start.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Can I cancel an EMI request after it has been submitted?",
+    "input": "",
+    "output": "An EMI request can be cancelled within 24 hours of submission by calling customer care; after this period, it is treated as a foreclosure subject to fees.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "What is the 'Balance Transfer on EMI' facility?",
+    "input": "",
+    "output": "This facility allows cardholders to transfer the outstanding balance from another bank's credit card to this card and repay it in monthly installments.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Explain the 'Instant EMI' feature on the mobile app.",
+    "input": "",
+    "output": "Instant EMI is a pre-approved facility where eligible cardholders can convert high-value purchases to installments immediately upon transaction completion.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "Describe the consequences of missing an EMI payment.",
+    "input": "",
+    "output": "Missing an EMI payment results in the application of late payment fees, standard credit card interest on the overdue amount, and a negative impact on the CIBIL score.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  },
+  {
+    "instruction": "How do I check the remaining balance of an active EMI?",
+    "input": "",
+    "output": "The remaining principal and the number of outstanding installments are detailed in the 'EMI Summary' section of the monthly credit card statement.",
+    "intent_id": "CREDIT_CARD_EMI_CONVERSION"
+  }
+]

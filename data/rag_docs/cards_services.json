@@ -1,0 +1,34 @@
+[
+    {
+        "keywords": ["debit card block", "lost card", "hotlisting"],
+        "answer": "If a card is lost or stolen, it must be blocked immediately via the mobile app, net banking, or the 24/7 customer service helpline. Once a card is hotlisted, it cannot be unblocked, and a replacement card must be requested."
+    },
+    {
+        "keywords": ["card activation", "PIN generation", "green PIN"],
+        "answer": "New cards can be activated by generating a 'Green PIN' at a bank ATM or through digital banking channels. The card becomes fully operational for transactions once the first PIN-based transaction or a secure OTP-verified online transaction is completed."
+    },
+    {
+        "keywords": ["transaction limits", "manage usage", "daily withdrawal"],
+        "answer": "Cardholders can customize daily limits for ATM withdrawals, POS terminals, and E-commerce transactions through the 'Manage Cards' section of the mobile app. This feature also allows users to enable or disable international and contactless (NFC) usage."
+    },
+    {
+        "keywords": ["CVV", "expiry date", "card security"],
+        "answer": "The Card Verification Value (CVV) is a three-digit security code found on the back of the card, used for verifying online transactions. Bank officials will never ask for your CVV, PIN, or OTP, and these should never be shared with anyone."
+    },
+    {
+        "keywords": ["replacement fee", "card issuance", "annual charges"],
+        "answer": "Issuance and annual maintenance fees for debit and credit cards vary by card variant. If a card is replaced due to physical damage or loss, a one-time replacement fee is applicable as per the bank's schedule of charges."
+    },
+    {
+        "keywords": ["tokenization", "secure vault", "device binding"],
+        "answer": "Card tokenization replaces actual card details with a unique digital token for transactions on merchant websites or mobile wallets. This enhances security by ensuring that the merchant does not store the original card numbers."
+    },
+    {
+        "keywords": ["airport lounge", "card benefits", "complimentary access"],
+        "answer": "Select card variants offer complimentary airport lounge access, subject to the card's terms and conditions. Users may need to perform a validation transaction of a nominal amount (e.g., 2 INR) to access the facility."
+    },
+    {
+        "keywords": ["chargeback", "dispute transaction", "wrong debit"],
+        "answer": "In case of unauthorized or failed transactions where the account is debited, customers can raise a dispute or chargeback request through the bank's portal within the stipulated timeframe, usually 60 days from the transaction date."
+    }
+]

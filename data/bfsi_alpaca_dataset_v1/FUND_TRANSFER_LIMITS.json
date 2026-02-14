@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the standard daily transaction limits for NEFT and RTGS transfers through net banking?",
+    "input": "",
+    "output": "The standard daily limit for NEFT is typically up to 10 lakh INR, while RTGS starts from a minimum of 2 lakh INR with a maximum daily limit of 25 lakh INR for retail users.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Outline the daily fund transfer maximum for the IMPS service on the mobile app.",
+    "input": "",
+    "output": "The daily limit for Immediate Payment Service (IMPS) transactions is 5 lakh INR, which provides real-time fund settlement to the beneficiary's account.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Explain the transaction limit for the 'Quick Transfer' feature without adding a beneficiary.",
+    "input": "",
+    "output": "Quick Transfer (or Pay-to-Contact) allows a maximum transfer of 25,000 INR per day without the requirement of pre-registering a beneficiary.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "How can a customer increase their daily net banking transfer limits?",
+    "input": "",
+    "output": "Customers can increase their limits by navigating to the 'Profile' section in net banking, selecting 'Manage Transaction Limits', and authenticating the change via OTP.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "What is the mandatory cooling-off period limit for a newly added beneficiary?",
+    "input": "",
+    "output": "After adding a new beneficiary, a 24-hour cooling-off period applies, during which the total transfer limit is restricted to 1 lakh INR for security purposes.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "State the maximum limit for UPI transactions through the mobile banking application.",
+    "input": "",
+    "output": "The standard UPI transaction limit is 1 lakh INR per day and a maximum of 20 transactions within a 24-hour window, as per regulatory guidelines.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Identify the fund transfer limits for 'Third Party Transfers' within the same bank.",
+    "input": "",
+    "output": "Internal transfers to other accounts within the same bank typically have a higher daily limit, often up to 15 lakh INR for verified retail net banking users.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Detail the transaction limits for an NRI account holder transferring funds from an NRE account.",
+    "input": "",
+    "output": "NRE accounts generally allow repatriable transfers up to the balance available, though digital channel limits are capped at 10 lakh INR per day for security.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Describe the impact of 'Limited Transaction Rights' on fund transfer capabilities.",
+    "input": "",
+    "output": "Accounts with 'Limited' or 'View Only' rights are restricted from performing any fund transfers; 'Full Transaction Rights' must be enabled to initiate payments.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "What is the maximum limit for outbound international wire transfers via the bank portal?",
+    "input": "",
+    "output": "Outbound remittances are limited to the equivalent of 250,000 USD per financial year as per the Liberalised Remittance Scheme (LRS) guidelines.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "How do transaction limits differ for 'Senior Citizen' accounts?",
+    "input": "",
+    "output": "Senior Citizen accounts follow the standard retail limits unless a manual request is submitted at the branch to lower limits for enhanced fraud protection.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "State the daily transfer limit for a minor's self-operated savings account.",
+    "input": "",
+    "output": "Self-operated minor accounts (aged 10+) typically have a restricted daily digital transfer limit of 5,000 INR to 10,000 INR to ensure safe banking habits.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Explain the 'Global Limit' setting in the mobile banking security menu.",
+    "input": "",
+    "output": "The Global Limit is a master cap that limits the total aggregate value of all transfers made across NEFT, IMPS, and UPI in a single day.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "What is the minimum transaction limit for an RTGS transfer?",
+    "input": "",
+    "output": "Real Time Gross Settlement (RTGS) requires a minimum transaction amount of 2 lakh INR; there is no upper limit for transfers initiated at a bank branch.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Identify the per-transaction limit for 'Scan and Pay' using the mobile app.",
+    "input": "",
+    "output": "The per-transaction limit for Scan and Pay via UPI is 1 lakh INR, though individual merchants or banks may set lower limits for specific categories.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Can a customer set separate limits for mobile banking and net banking?",
+    "input": "",
+    "output": "Yes, the 'Manage Limits' feature allows users to configure independent daily maximums for mobile app transactions and net banking portal transfers.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Describe the protocol for temporary limit enhancement for a high-value purchase.",
+    "input": "",
+    "output": "For a one-time high-value transfer, a customer can request a temporary limit increase at their home branch by submitting a signed application.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "How are fund transfer limits affected if the debit card is blocked?",
+    "input": "",
+    "output": "Blocking a debit card does not affect NEFT or RTGS limits via net banking, but it will disable all UPI and ATM-based transfer functionalities.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "What is the daily limit for transferring funds to a 'Virtual Account Number' (VAN)?",
+    "input": "",
+    "output": "Transfers to Virtual Account Numbers follow the same limits as standard NEFT or IMPS transactions, typically capped at 10 lakh INR per day for retail users.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Explain the limits for 'Standing Instructions' (SI) scheduled through the bank.",
+    "input": "",
+    "output": "Standing Instructions are subject to the available balance and the individual limit set during the SI creation, which cannot exceed the overall daily transfer cap.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Detail the fund transfer limits for corporate net banking 'Maker-Checker' profiles.",
+    "input": "",
+    "output": "Corporate accounts can have customized limits ranging from 50 lakh INR to several crores, depending on the board resolution and the company's profile.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "What happens if a transaction exceeds the daily aggregate limit?",
+    "input": "",
+    "output": "If a transaction exceeds the limit, the system will decline the payment and display an error message stating 'Transaction Limit Exceeded'.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Are there limits on the number of beneficiaries that can be added in a single day?",
+    "input": "",
+    "output": "Most banks allow a maximum of 5 to 10 new beneficiaries to be added in a single day to mitigate the risk of mass unauthorized transfers.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "Define the 'Merchant Transaction' limit for online e-commerce payments.",
+    "input": "",
+    "output": "Merchant transactions via net banking typically have a default limit of 5 lakh INR per day, which is separate from individual person-to-person transfer limits.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  },
+  {
+    "instruction": "How can a customer view their current utilized transfer limit for the day?",
+    "input": "",
+    "output": "The utilized limit can be viewed under the 'Transaction Summary' or 'Manage Limits' dashboard in the mobile banking app or net banking portal.",
+    "intent_id": "FUND_TRANSFER_LIMITS"
+  }
+]

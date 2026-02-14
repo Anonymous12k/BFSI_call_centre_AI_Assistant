@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the regulatory guidelines for personal loan part-payments?",
+    "input": "",
+    "output": "Part-payments are permitted after the completion of the first six EMI cycles, subject to a minimum payment amount equivalent to three monthly installments.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "List the charges associated with early loan foreclosure.",
+    "input": "",
+    "output": "Foreclosure charges are applicable at a rate of 4% plus GST on the outstanding principal balance for fixed-rate loans; floating-rate loans carry no foreclosure penalty.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Explain the lock-in period for making a principal prepayment.",
+    "input": "",
+    "output": "The standard lock-in period mandates that no prepayments or foreclosure can be initiated within the first six months of the loan disbursement date.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "How does a part-prepayment affect the remaining loan tenure?",
+    "input": "",
+    "output": "A part-prepayment is adjusted against the principal balance, resulting in a reduction of the remaining tenure while maintaining the existing EMI amount.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "What is the policy for reducing the EMI amount after a partial payment?",
+    "input": "",
+    "output": "Upon request at the time of part-payment, the loan can be re-amortized to reduce the monthly EMI amount while keeping the original loan tenure unchanged.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Specify the maximum frequency of part-payments allowed in a year.",
+    "input": "",
+    "output": "A maximum of two part-prepayments are permitted within a single financial year, with a minimum gap of six months between consecutive payments.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Are there any penalties for foreclosing a floating-rate home loan?",
+    "input": "",
+    "output": "As per regulatory norms, zero foreclosure charges are applicable on home loans with floating interest rates for individual borrowers.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "What documents are required to initiate a loan foreclosure?",
+    "input": "",
+    "output": "To initiate foreclosure, the borrower must submit a formal written request along with a valid identity proof and the final payment via cheque or demand draft.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Define the minimum amount required for a partial loan payment.",
+    "input": "" ,
+    "output": "The minimum amount accepted for a partial prepayment is 25% of the current outstanding principal balance at the time of transaction.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "What is the procedure for obtaining a foreclosure letter?",
+    "input": "",
+    "output": "A foreclosure letter detailing the total outstanding amount and applicable charges can be requested from the base branch and is typically issued within 15 working days.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Describe the impact of GST on loan prepayment penalties.",
+    "input": "",
+    "output": "Goods and Services Tax (GST) is levied at the prevailing statutory rate on the total value of any foreclosure or part-payment processing fees.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Can part-payments be made through the mobile banking application?",
+    "input": "",
+    "output": "Part-payments can be executed through the digital portal provided the amount meets the minimum threshold and the account has completed the lock-in period.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Are there charges for partial payments on business loans?",
+    "input": "",
+    "output": "For business loans, a part-payment fee of 2% plus applicable taxes is charged on the amount prepaid if it exceeds the annual allowable limit.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Explain the treatment of interest during the foreclosure month.",
+    "input": "",
+    "output": "Interest is calculated on the total outstanding principal on a pro-rata basis up to the exact date the foreclosure payment is realized by the bank.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Detail the policy for the return of original documents after foreclosure.",
+    "input": "",
+    "output": "Original property or collateral documents are returned to the borrower within 21 to 30 working days following the full realization of the foreclosure amount.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Is there a difference in rules for full foreclosure versus part-payment?",
+    "input": "",
+    "output": "Full foreclosure closes the loan account permanently, while part-payment reduces the principal but keeps the loan account active for the remaining balance.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "What is the cooling-off period after a part-prepayment?",
+    "input": "",
+    "output": "A cooling-off period of 180 days is mandatory after a part-prepayment before another partial payment or a full foreclosure request can be processed.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Under what conditions are foreclosure charges waived?",
+    "input": "",
+    "output": "Foreclosure charges are waived for individual borrowers on floating-rate products and for cases where the loan is closed using the borrower's own legitimate funds.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "How is the 'own funds' clause verified for fee waivers?",
+    "input": "",
+    "output": "To qualify for a fee waiver, borrowers must provide the last six months' bank statements proving the source of funds is not a loan from another institution.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "State the rules for prepaying a gold loan.",
+    "input": "",
+    "output": "Gold loans generally carry no prepayment or foreclosure charges, allowing borrowers to close the account at any time by paying the principal and accrued interest.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Does prepaying a loan impact the credit score?",
+    "input": "",
+    "output": "Closing a loan through foreclosure or making regular part-payments is reported to credit bureaus as a positive repayment action, provided all dues are cleared.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Explain the notice period requirement for loan foreclosure.",
+    "input": "",
+    "output": "Borrowers are required to provide a 30-day prior written notice before making the final payment for the foreclosure of a commercial or high-value loan.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "What happens to the NACH mandate after a loan is foreclosed?",
+    "input": "",
+    "output": "Following the successful foreclosure of a loan, the bank initiates the cancellation of the NACH mandate and stops all further automated EMI deductions.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Are partial payments allowed during the first three months of a loan?",
+    "input": "",
+    "output": "Partial payments are not permitted during the first three months; any attempt to prepay during this period will be rejected as per the standard loan agreement.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  },
+  {
+    "instruction": "Identify the non-refundable components in a foreclosure statement.",
+    "input": "",
+    "output": "Processing fees, documentation charges, and statutory taxes paid at the time of loan inception are non-refundable during the foreclosure process.",
+    "intent_id": "EMI_PREPAYMENT_RULES"
+  }
+]

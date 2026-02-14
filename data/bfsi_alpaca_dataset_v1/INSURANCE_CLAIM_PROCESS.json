@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the general procedure for initiating an insurance claim through the bank?",
+    "input": "",
+    "output": "To initiate a claim, the claimant must notify the insurance provider or the bank's insurance desk, submit the prescribed claim form, and provide all necessary supporting documentation as specified in the policy.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Outline the documentation required for a life insurance death claim.",
+    "input": "",
+    "output": "Required documents typically include the original policy document, a certified copy of the death certificate, the claimant's identity proof, and the discharge form duly signed by the nominee.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Explain the process for filing a cashless health insurance claim.",
+    "input": "",
+    "output": "For a cashless claim, the insured must present their health card at a network hospital and submit a pre-authorization form; the Third-Party Administrator (TPA) then coordinates directly with the hospital for settlement.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "How is a reimbursement claim processed in health insurance?",
+    "input": "",
+    "output": "In a reimbursement claim, the insured pays the hospital bills upfront and subsequently submits all original discharge summaries, bills, and prescriptions to the insurer for a payout based on policy limits.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "State the notification timeline for reporting an accidental death under PMSBY.",
+    "input": "",
+    "output": "Under the Pradhan Mantri Suraksha Bima Yojana, the claim must be reported to the bank within 30 days of the accident, and the full claim application must be submitted within 60 days.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Describe the role of the bank in the insurance claim settlement process.",
+    "input": "",
+    "output": "The bank acts as a facilitator by providing the necessary claim forms, assisting in document collection, and liaising between the claimant and the insurance company for a timely resolution.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "What are the essential documents for a motor insurance accident claim?",
+    "input": "",
+    "output": "Essential documents include a copy of the Registration Certificate (RC), the driver's license, the insurance policy copy, a First Information Report (FIR) if applicable, and a detailed repair estimate.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "How can a customer track the status of an ongoing insurance claim?",
+    "input": "",
+    "output": "Claim status can be monitored through the insurance company's official website using the claim reference number or by contacting the bank’s dedicated insurance helpdesk.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Define the 'Repudiation' of an insurance claim.",
+    "input": "",
+    "output": "Repudiation is the formal rejection of a claim by the insurer if the loss is not covered under the policy terms, if there was a non-disclosure of facts, or if the claim is found to be fraudulent.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Identify the mandatory requirements for a claim under the PMJJBY scheme.",
+    "input": "",
+    "output": "For PMJJBY, the nominee must submit the death certificate and a claim form to the bank branch where the savings account is maintained for verification and processing.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for a 'Maturity Claim' in a life insurance policy?",
+    "input": "",
+    "output": "A maturity claim is processed when the policyholder survives the term; the insurer sends a discharge voucher in advance, which the policyholder must sign and return to receive the payout.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Explain the significance of a 'Survival Benefit' claim.",
+    "input": "",
+    "output": "Survival benefits are periodic payouts made to the insured during the policy term of a money-back plan; these are typically processed automatically by the insurer into the linked bank account.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Detail the protocol for filing a travel insurance claim for baggage loss.",
+    "input": "",
+    "output": "The insured must obtain a Property Irregularity Report (PIR) from the airline and submit it along with the claim form and a copy of the boarding pass to the insurance provider.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "What is the function of a Surveyor in a general insurance claim?",
+    "input": "",
+    "output": "A Surveyor is an independent professional appointed by the insurer to assess the extent of the loss or damage and provide a technical report that forms the basis of the claim settlement.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "How is a claim settled if the primary nominee is also deceased?",
+    "input": "",
+    "output": "If the nominee is deceased, the claim proceeds are paid to the legal heirs of the policyholder upon production of a Succession Certificate or a Legal Heir Certificate issued by a competent authority.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "State the standard timeline for an insurer to settle a life insurance claim.",
+    "input": "",
+    "output": "As per IRDAI regulations, an insurer must settle a claim or raise a query within 30 days of receiving all necessary documents; if an investigation is required, it must be completed within six months.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "What documentation is needed for a critical illness insurance claim?",
+    "input": "",
+    "output": "The claimant must provide a specialized medical certificate from a registered specialist confirming the diagnosis, along with all diagnostic test reports and hospital records.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Describe the 'Claim Intimation' step in the event of a home insurance loss.",
+    "input": "",
+    "output": "Claim intimation involves immediately notifying the insurer about the loss due to fire, theft, or natural calamity to allow for an early inspection by a loss assessor.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "How does 'Co-payment' affect the claim payout in health insurance?",
+    "input": "",
+    "output": "Co-payment is a pre-defined percentage of the total claim amount that the insured must pay out of pocket, with the insurer covering the remaining balance of the admissible claim.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Identify the role of the Insurance Ombudsman in claim disputes.",
+    "input": "",
+    "output": "The Insurance Ombudsman acts as a quasi-judicial body to resolve grievances related to claim settlements or policy disputes if the insurer’s internal grievance cell fails to provide a resolution.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "What is a 'No Claim Bonus' (NCB) and how does it relate to the claim process?",
+    "input": "",
+    "output": "NCB is a discount on the renewal premium given for every year no claim is filed; filing a claim, regardless of the size, typically results in the loss of the accumulated NCB.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Detail the requirements for a disability claim under a personal accident policy.",
+    "input": "",
+    "output": "The claimant must submit a disability certificate issued by a government civil surgeon or an authorized medical board, along with an FIR and the policy details.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "Explain the process of a 'Net of Salvage' settlement.",
+    "input": "",
+    "output": "In a Net of Salvage settlement, the insurer pays the claim amount after deducting the value of the damaged remains (salvage), which the insured is then allowed to retain.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "How are claims handled for policies that have been assigned to the bank?",
+    "input": "",
+    "output": "For assigned policies, the claim proceeds are first paid to the bank to settle any outstanding loan balance, and the remaining surplus, if any, is paid to the nominee or legal heir.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for filing a claim for the theft of a vehicle?",
+    "input": "",
+    "output": "The insured must file an FIR immediately, inform the RTO, and submit the 'Non-Traceable Report' issued by the police to the insurer along with the original vehicle keys.",
+    "intent_id": "INSURANCE_CLAIM_PROCESS"
+  }
+]

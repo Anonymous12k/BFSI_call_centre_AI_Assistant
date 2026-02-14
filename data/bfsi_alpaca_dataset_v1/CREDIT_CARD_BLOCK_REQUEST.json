@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the available channels to request an immediate block on a credit card?",
+    "input": "",
+    "output": "A credit card can be blocked immediately via the mobile banking app, the net banking portal, the automated IVR helpline, or by sending a specific SMS code from the registered mobile number.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Outline the steps to block a lost credit card using the mobile application.",
+    "input": "",
+    "output": "To block a card via the app, log in, navigate to the 'Cards' section, select 'Service Requests', and choose the 'Block Card' option to permanently disable the plastic.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Describe the procedure for reporting unauthorized transactions and blocking the card.",
+    "input": "",
+    "output": "In case of unauthorized activity, the cardholder must immediately use the 'Report Fraud' feature on the banking portal to block the card and initiate a transaction dispute.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "What is the policy for blocking a credit card through the customer service IVR?",
+    "input": "",
+    "output": "Cardholders can block their card by calling the 24/7 helpline, selecting the emergency 'Card Blocking' option on the IVR, and verifying identity through the card number or registered phone.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Is it possible to temporarily disable a credit card instead of a permanent block?",
+    "input": "",
+    "output": "Yes, the 'Card On/Off' feature in the mobile app allows for a temporary block on all transactions, which can be reversed by the cardholder at any time without requiring a card replacement.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Explain the SMS-based blocking service for credit cards.",
+    "input": "",
+    "output": "A credit card can be blocked by sending an SMS with the keyword 'BLOCK' followed by the last four digits of the card number to the bank's designated shortcode from the registered mobile number.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "What happens to add-on cards when the primary credit card is blocked?",
+    "input": "",
+    "output": "When a primary credit card is blocked due to loss or theft, all associated add-on cards are typically deactivated to prevent further risk until the new primary card is issued.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "How is a replacement card initiated after a permanent block request?",
+    "input": "",
+    "output": "Once a card is permanently blocked, the system automatically triggers a request for a replacement card, which is dispatched to the registered address within 5 to 7 working days.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Define the timeline for a block request to take effect.",
+    "input": "",
+    "output": "A block request submitted through digital channels or the IVR takes effect instantaneously, preventing any further authorizations on the credit card account.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Can a blocked credit card be used for existing EMI payments?",
+    "input": "",
+    "output": "Yes, while the physical card is blocked for new purchases, existing EMI obligations and recurring mandates will continue to be debited from the card account.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "What are the requirements for blocking a credit card at a bank branch?",
+    "input": "",
+    "output": "To block a card at a branch, the cardholder must present a valid government-issued photo ID and submit a written request form stating the reason for the block.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "State the protocol for blocking an expired card that is still active.",
+    "input": "",
+    "output": "An expired card is automatically deactivated by the system; however, if a replacement is not desired, the cardholder must formally request a permanent block via customer service.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Are there any charges associated with blocking a credit card?",
+    "input": "",
+    "output": "There are no charges for requesting a block on a credit card; however, a standard card replacement fee may apply for the issuance of a new plastic card.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "How can a cardholder verify if their block request was successful?",
+    "input": "",
+    "output": "Upon a successful block, the bank sends an immediate confirmation via SMS and email to the registered contact details, including a reference number for the request.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "What is the procedure for blocking a card when traveling abroad?",
+    "input": "",
+    "output": "International cardholders can block their card using the mobile app, net banking, or by calling the international toll-free helpline number provided for overseas assistance.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Can reward points be redeemed after a card has been blocked?",
+    "input": "",
+    "output": "Reward points cannot be redeemed once a card is permanently blocked; points are usually transferred to the replacement card once it is activated by the user.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Does blocking a card stop automated utility bill payments?",
+    "input": "",
+    "output": "A permanent block will stop all future automated transactions; cardholders must update their new card details with the utility providers once the replacement arrives.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Identify the difference between 'blocking' and 'closing' a credit card.",
+    "input": "",
+    "output": "Blocking is a security measure to prevent unauthorized use due to loss or theft, while closing refers to the permanent termination of the credit card account and credit line.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "What information is required to block a card via the helpline?",
+    "input": "",
+    "output": "The cardholder must provide the credit card number, date of birth, and may be asked to verify recent transactions to confirm ownership before the block is placed.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "How is a 'hotlisted' card status different from a standard block?",
+    "input": "",
+    "output": "Hotlisting is a term used for permanently blocking a card due to confirmed fraud or theft, ensuring the card can never be used again and is reported to payment networks.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Can a cardholder unblock a card that was reported lost?",
+    "input": "",
+    "output": "For security reasons, once a card is reported lost and permanently blocked, it cannot be unblocked; a new card must be issued to the cardholder.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Detail the process for blocking a card if net banking access is compromised.",
+    "input": "",
+    "output": "If net banking is compromised, the cardholder should use the IVR helpline or the SMS blocking service to bypass digital channels and secure the card immediately.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "What is the effect of a card block on the credit limit?",
+    "input": "",
+    "output": "A card block does not affect the total credit limit; the limit is simply transferred to the new card number issued as a replacement.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "Is a police report (FIR) required to block a stolen credit card?",
+    "input": "",
+    "output": "A bank block can be initiated without an FIR; however, a police report may be required later to support insurance claims or dispute large fraudulent transactions.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  },
+  {
+    "instruction": "State the policy for blocking a virtual credit card.",
+    "input": "",
+    "output": "Virtual credit cards can be blocked or deleted instantly via the 'Virtual Cards' section of the mobile banking application without impacting the physical card.",
+    "intent_id": "CREDIT_CARD_BLOCK_REQUEST"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for canceling an insurance policy during the free-look period?",
+    "input": "",
+    "output": "To cancel during the free-look period, the policyholder must submit a written cancellation request and the original policy document to the bank or insurer within 15 days of receipt.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Outline the steps to terminate a life insurance policy after the free-look period has expired.",
+    "input": "",
+    "output": "After the free-look period, the policyholder must submit a surrender request form at the branch; however, the policy must typically have completed two to three years to acquire surrender value.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Explain the refund policy for a health insurance policy canceled mid-term.",
+    "input": "",
+    "output": "For mid-term cancellations where no claims have been filed, the insurer refunds the premium on a short-period scale basis as defined in the policy's terms and conditions.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "How can a customer cancel a motor insurance policy if the vehicle is sold?",
+    "input": "",
+    "output": "The policyholder must provide the original policy certificate and proof of the new insurance obtained by the buyer to the insurer to initiate the cancellation and receive a pro-rata refund.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Describe the process for stopping the auto-renewal of government schemes like PMJJBY.",
+    "input": "",
+    "output": "To stop auto-renewal, the account holder must submit a written de-registration request at the bank branch at least 30 days before the annual renewal date in May.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Identify the documents required to surrender a life insurance policy.",
+    "input": "",
+    "output": "Required documents include the original policy bond, a canceled cheque for the payout, a valid identity proof, and a completed surrender application form.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "What are the financial implications of canceling a life insurance policy in its first year?",
+    "input": "",
+    "output": "Canceling a life insurance policy in the first year typically results in the forfeiture of the entire premium paid, as most policies do not accrue surrender value until later years.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Can a policyholder cancel an insurance policy through the mobile banking application?",
+    "input": "",
+    "output": "Cancellation requests generally require a physical signature and the return of the original policy bond; therefore, they must be processed through a branch or the insurer's portal.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "State the rule for premium refunds during the 15-day free-look period cancellation.",
+    "input": "",
+    "output": "The insurer refunds the premium after deducting the proportionate risk premium for the period of cover, medical examination expenses, and stamp duty charges.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "How is a cancellation handled if the insurance policy was assigned to the bank for a loan?",
+    "input": "",
+    "output": "An assigned policy cannot be canceled or surrendered without a No Objection Certificate (NOC) from the bank, confirming that the associated loan has been fully liquidated.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "What is the procedure for canceling a travel insurance policy before the journey begins?",
+    "input": "",
+    "output": "The insured must submit a cancellation request along with proof of trip cancellation; a small administrative fee is usually deducted from the premium refund.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Define 'Short Period Scale' in the context of general insurance cancellation.",
+    "input": "",
+    "output": "Short period scale is a table used by insurers to determine the amount of premium to be retained when a policy is canceled by the insured before the expiry date.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Explain the impact of a policy cancellation on the 'No Claim Bonus' (NCB).",
+    "input": "",
+    "output": "If a motor policy is canceled, the accumulated NCB can be transferred to a new policy within 90 days, provided the insured obtains an NCB certificate from the insurer.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "How long does it take for the refund to be credited after a policy is successfully canceled?",
+    "input": "",
+    "output": "Once the cancellation request is approved, the refund amount is typically credited to the linked bank account within 7 to 10 working days.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Can an insurer cancel a policy unilaterally?",
+    "input": "",
+    "output": "An insurer may cancel a policy on grounds of misrepresentation, fraud, or non-disclosure of material facts by giving a 15-day notice to the policyholder.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "What should a customer do if the original policy bond is lost during the cancellation process?",
+    "input": "",
+    "output": "The customer must execute an indemnity bond on non-judicial stamp paper and may be required to publish a loss of policy advertisement before the cancellation is processed.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Detail the protocol for canceling a Group Personal Accident policy.",
+    "input": "",
+    "output": "Group policies are canceled by submitting a request through the bank as the group master policyholder, subject to the specific terms of the group agreement.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "State the requirements for canceling an insurance policy due to a duplicate purchase.",
+    "input": "",
+    "output": "The policyholder must submit both policy copies; the insurer will typically cancel the second policy and refund the premium in full, minus minor administrative costs.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Is an OTP required for online insurance cancellation requests?",
+    "input": "",
+    "output": "Yes, digital cancellation requests initiated through the insurer's portal require OTP authentication sent to the registered mobile number to confirm the holder's intent.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Describe the 'Cooling-off Period' in health insurance.",
+    "input": "",
+    "output": "The cooling-off period is synonymous with the free-look period, offering a 15-day window to review and cancel the policy if the terms are not acceptable.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Can a nominee request the cancellation of a policy?",
+    "input": "",
+    "output": "No, the right to cancel or surrender a policy rests solely with the policyholder; a nominee only has rights to the claim proceeds in the event of the insured's death.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Identify the status of a policy once the cancellation request is submitted.",
+    "input": "",
+    "output": "Upon submission of the request, the policy status is updated to 'Cancellation in Progress,' and the insurance coverage effectively ceases from the requested date.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "What is the procedure for canceling a policy during the 'Grace Period'?",
+    "input": "",
+    "output": "If a renewal premium is not paid during the grace period, the policy is automatically canceled or moves to a 'Lapsed' status without further notification.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "Explain the refund calculation if the bank cancels a policy due to account closure.",
+    "input": "",
+    "output": "If an account is closed, the bank cannot process renewals; however, existing policies remain active until the end of the term unless the customer manually cancels them.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  },
+  {
+    "instruction": "How can a customer track the refund status of a canceled policy?",
+    "input": "",
+    "output": "The refund status can be tracked using the cancellation reference number on the insurer’s website or by checking the bank statement for the reversal entry.",
+    "intent_id": "INSURANCE_POLICY_CANCELLATION"
+  }
+]

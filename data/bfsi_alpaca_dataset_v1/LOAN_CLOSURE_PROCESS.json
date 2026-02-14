@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for closing a loan account after the final EMI is paid?",
+    "input": "",
+    "output": "Upon payment of the final EMI, the system initiates an automated closure process. The bank issues a No Dues Certificate (NDC) and returns original documents within 15 to 21 working days.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Outline the steps required for the full foreclosure of a loan.",
+    "input": "",
+    "output": "To foreclose a loan, the borrower must request a foreclosure statement, pay the outstanding principal along with applicable foreclosure charges, and obtain a formal closure acknowledgement.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How can a borrower obtain a No Dues Certificate (NDC)?",
+    "input": "",
+    "output": "A No Dues Certificate is issued automatically after the loan account reflects a zero balance. It can be collected from the home branch or downloaded via the secure internet banking portal.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Detail the process for retrieving original property documents after loan completion.",
+    "input": "",
+    "output": "After the loan is closed and the No Dues Certificate is generated, original documents are made available for collection at the designated asset repository branch within 15 working days.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What happens to the NACH mandate once the loan is closed?",
+    "input": "",
+    "output": "Following the formal closure of the loan account, the bank deactivates the NACH mandate, and no further automated secondary debits are initiated from the linked savings account.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Explain the protocol for removing a lien on a vehicle after a car loan closure.",
+    "input": "",
+    "output": "After loan closure, the bank issues Form 35 and a Non-Objection Certificate (NOC). The borrower must submit these to the Regional Transport Office (RTO) to remove the hypothecation.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Identify the documentation required for a walk-in loan closure request.",
+    "input": "",
+    "output": "A walk-in closure request requires the borrower to present a valid government-issued photo ID, the latest loan statement, and a cheque or demand draft for the total outstanding amount.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How is a loan account closed in the event of the borrower's demise?",
+    "input": "",
+    "output": "The legal heir or nominee must submit the death certificate and a formal claim. The loan is settled via the associated credit insurance policy or by the legal heir to initiate closure.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What is the timeline for updating the credit bureau status after loan closure?",
+    "input": "",
+    "output": "The bank reports the 'Closed' status of the loan account to credit bureaus such as CIBIL within 30 to 45 days of the final settlement and account termination.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Describe the process of partial pre-payment versus full closure.",
+    "input": "",
+    "output": "Partial pre-payment reduces the principal balance and adjusts the EMI or tenure, whereas full closure involves paying the entire outstanding debt to terminate the loan agreement.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How are unutilized post-dated cheques handled after loan termination?",
+    "input": "",
+    "output": "Any unutilized post-dated cheques remaining with the bank after the loan is fully closed are either cancelled and destroyed or returned to the borrower upon specific written request.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for closing a personal loan before the end of the tenure?",
+    "input": "",
+    "output": "The borrower must visit the branch, submit a foreclosure application, and pay the remaining principal plus any applicable pre-payment penalties as per the signed loan agreement.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "State the requirements for a Non-Objection Certificate (NOC) issuance.",
+    "input": "",
+    "output": "A Non-Objection Certificate is issued only when all outstanding dues, including late fees and interest, are cleared and the loan account status is updated to 'Settled' or 'Closed'.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Explain the closure process for a gold loan.",
+    "input": "",
+    "output": "For a gold loan, the borrower must pay the total outstanding interest and principal. Upon verification of payment, the pledged gold ornaments are returned immediately to the applicant.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How does a borrower request a foreclosure statement?",
+    "input": "",
+    "output": "A foreclosure statement can be requested through the mobile banking app, the official website, or by visiting a branch; it provides the exact amount due on a specific future date.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What is the process for closing a loan against fixed deposits?",
+    "input": "",
+    "output": "The loan is closed by adjusting the outstanding balance against the maturity proceeds of the fixed deposit or by a separate payment to release the lien on the deposit.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "List the conditions for receiving a refund of excess interest paid during closure.",
+    "input": "",
+    "output": "If an excess amount is paid during the closure process, the bank verifies the surplus and credits the amount back to the borrower’s primary bank account within 7 to 10 working days.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Identify the finality of a 'Settled' status versus a 'Closed' status in loan processing.",
+    "input": "",
+    "output": "'Closed' indicates the loan was paid in full as per terms. 'Settled' indicates a compromise was reached for a lower amount; both result in the termination of the loan account.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What steps are taken if the No Dues Certificate is not received within the standard timeframe?",
+    "input": "",
+    "output": "If the NDC is delayed, the borrower should contact the customer service department with the loan account number and final payment receipt to initiate a manual dispatch.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Detail the protocol for closing an education loan during the moratorium period.",
+    "input": "",
+    "output": "Borrowers can close an education loan during the moratorium by paying the accumulated interest and principal; no pre-payment penalties are typically applied to education loans.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How is the removal of a mortgage lien handled at the registrar's office?",
+    "input": "",
+    "output": "Once the loan is closed, the bank provides the original title deeds and an NOC. The borrower must present these at the Sub-Registrar's office to formally discharge the mortgage.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Can a third party initiate the closure of a loan on behalf of the borrower?",
+    "input": "",
+    "output": "A third party can only initiate closure if they hold a registered Power of Attorney (POA) or a formal authorization letter specifically permitting them to settle financial dues.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What are the implications of closing a loan on the same day as an EMI bounce?",
+    "input": "",
+    "output": "If a closure is requested on an EMI bounce day, the borrower must pay the bounced EMI, the associated bounce charges, and the total foreclosure amount to complete the process.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Describe the online loan closure journey for digital-only products.",
+    "input": "",
+    "output": "For digital-only loans, the closure journey involves selecting 'Foreclose' in the app, completing an OTP-based authentication, and paying via the integrated payment gateway.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "State the policy on issuing duplicate closure documents.",
+    "input": "",
+    "output": "Duplicate closure documents or NDCs are issued upon submission of a written request and payment of a nominal administrative fee as specified in the bank's schedule of charges.",
+    "intent_id": "LOAN_CLOSURE_PROCESS"
+  }
+]

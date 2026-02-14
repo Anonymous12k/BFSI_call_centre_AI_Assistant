@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Define the method used to calculate the Minimum Amount Due on a credit card.",
+    "input": "",
+    "output": "The Minimum Amount Due is typically calculated as 5% of the total statement balance, or the sum of all applicable taxes, interest, and installment amounts plus 1% of the principal, whichever is higher.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "What is the consequence of paying only the minimum due on a credit card statement?",
+    "output": "Paying only the Minimum Amount Due prevents late payment fees and reporting of delinquency, but interest will continue to accrue on the remaining unpaid balance and all new transactions.",
+    "input": "",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Does the Minimum Amount Due include over-limit amounts?",
+    "input": "",
+    "output": "Yes, if the credit limit has been exceeded, the entire over-limit amount is added to the standard 5% calculation to form the total Minimum Amount Due for that billing cycle.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Explain the treatment of unpaid Minimum Amount Due from previous months.",
+    "input": "",
+    "output": "Any unpaid Minimum Amount Due from the previous billing cycle is carried forward and added to the current month's Minimum Amount Due calculation.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "How are Equated Monthly Installments (EMIs) factored into the minimum payment?",
+    "input": "",
+    "output": "The full monthly installment amount for any active EMI plan is added to the Minimum Amount Due and must be paid in full to avoid default on the installment plan.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "What is the standard minimum due for balances below a certain threshold?",
+    "input": "",
+    "output": "For statement balances below a specific threshold, such as 250 INR, the Minimum Amount Due is equal to the total statement balance.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Are taxes and fees included in the Minimum Amount Due?",
+    "input": "",
+    "output": "The Minimum Amount Due includes all statutory taxes, service charges, and any late payment fees or interest charges levied during the billing period.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Clarify if interest-free periods apply when paying only the minimum due.",
+    "input": "",
+    "output": "The interest-free grace period is revoked if the total statement balance is not paid in full; interest is charged on all outstanding amounts from the date of purchase.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Describe the components that make up the Minimum Amount Due.",
+    "input": "",
+    "output": "The components include a percentage of the principal balance, any EMIs, the total interest charged, applicable taxes, and any previous arrears or over-limit sums.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Does paying the minimum due affect the credit score?",
+    "input": "",
+    "output": "Paying the Minimum Amount Due ensures the account is reported as 'current' to credit bureaus, though high credit utilization from the remaining balance may impact the score.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Is there a fixed percentage for the Minimum Amount Due calculation?",
+    "input": "",
+    "output": "The standard fixed percentage is 5% of the total outstanding balance, subject to the inclusion of full EMI amounts and any regulatory tax requirements.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "What happens if a customer pays less than the Minimum Amount Due?",
+    "input": "",
+    "output": "Paying less than the Minimum Amount Due results in a late payment fee and the account being categorized as past due in the bank's records and credit bureau reporting.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "How is the minimum payment handled for accounts in dispute?",
+    "input": "",
+    "output": "Even if a transaction is under dispute, the Minimum Amount Due indicated on the statement must be paid to avoid late payment charges while the investigation is pending.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Are cash advances included in the Minimum Amount Due calculation?",
+    "input": "",
+    "output": "Yes, a percentage of the cash advance principal plus the interest accrued on the cash withdrawal from the date of the transaction is included in the minimum due.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Can the Minimum Amount Due be modified upon customer request?",
+    "input": "",
+    "output": "The Minimum Amount Due is a fixed policy-based calculation and cannot be manually modified or reduced for individual billing cycles.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Explain the difference between Total Amount Due and Minimum Amount Due.",
+    "input": "",
+    "output": "Total Amount Due is the complete sum of all transactions and charges in the cycle, whereas Minimum Amount Due is the smallest amount required to keep the account in good standing.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "What is the policy for Minimum Amount Due on canceled cards with outstanding balances?",
+    "input": "",
+    "output": "For canceled cards, the Minimum Amount Due remains applicable monthly until the entire outstanding balance is settled in full.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Detail the priority of payment appropriation for the minimum due.",
+    "input": "",
+    "output": "Payments are first applied toward taxes, then interest, then fees, then EMIs, and finally toward the principal balance of the oldest transactions.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Will paying the minimum due stop interest from accruing on new purchases?",
+    "input": "",
+    "output": "No, if any balance is carried forward by paying only the minimum due, all new purchases will attract interest charges from the date of transaction.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "What is the impact of late payment fees on the Minimum Amount Due?",
+    "input": "",
+    "output": "Any late payment fees levied due to previous defaults are added in their entirety to the Minimum Amount Due of the subsequent billing statement.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "How does an overpayment in the previous month affect the current Minimum Amount Due?",
+    "input": "",
+    "output": "An overpayment creates a credit balance that is adjusted against the total outstanding; the current Minimum Amount Due is then calculated based on the revised lower balance.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Is the Minimum Amount Due applicable during a moratorium period?",
+    "input": "",
+    "output": "During a board-approved moratorium, the requirement to pay the Minimum Amount Due may be deferred, though interest will continue to accrue as per policy.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Define the 'Minimum Amount Due' for a zero-balance statement.",
+    "input": "",
+    "output": "If there are no outstanding transactions, EMIs, fees, or carried-forward balances, the Minimum Amount Due for that statement cycle will be zero.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "Are annual membership fees included in the Minimum Amount Due?",
+    "input": "",
+    "output": "Yes, any annual membership or renewal fees charged to the account are included in the Minimum Amount Due calculation for the month they are billed.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  },
+  {
+    "instruction": "What is the Minimum Amount Due if a credit is received after the statement date?",
+    "input": "",
+    "output": "Credits received after the statement date do not reduce the Minimum Amount Due for that cycle; the specific amount mentioned in the statement must still be paid.",
+    "intent_id": "CREDIT_CARD_MINIMUM_DUE_INFO"
+  }
+]

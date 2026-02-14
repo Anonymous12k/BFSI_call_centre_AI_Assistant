@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the primary requirements for registering for net banking services?",
+    "input": "",
+    "output": "To register, an account holder must have an active bank account, a registered mobile number for OTP reception, and a valid debit card with an active PIN for authentication.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Outline the steps for online self-registration for net banking.",
+    "input": "",
+    "output": "Visit the bank's official website, select 'New User Registration', enter the account number and date of birth, verify via OTP, and use debit card details to set a permanent User ID and password.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Describe how to activate net banking through a physical bank branch.",
+    "input": "",
+    "output": "The customer must submit a 'Net Banking Access Request' form at their home branch; once processed, a temporary User ID and password (PIN mailer) are dispatched to the registered address.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Can a net banking User ID be created without a debit card?",
+    "input": "",
+    "output": "Yes, if a debit card is unavailable, registration can be completed by visiting a branch or by using the 'Aadhaar-based Authentication' option if supported for the specific account type.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Explain the protocol for registering a joint account for net banking access.",
+    "input": "",
+    "output": "In a joint account, each holder must register separately using their individual Customer IDs and mobile numbers, provided the account operating mandate allows for 'Either or Survivor' access.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "What is the procedure for an NRI customer to register for internet banking?",
+    "input": "",
+    "output": "NRIs can register online using their international mobile number for OTPs or by submitting a signed request through the international banking portal for manual activation.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Identify the standard cooling-off period after a new net banking registration.",
+    "input": "",
+    "output": "Following a fresh registration, a cooling-off period of 24 hours is typically applied, during which fund transfers to new beneficiaries are restricted for security purposes.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "How is the 'User ID' determined during the registration process?",
+    "input": "",
+    "output": "During registration, the system may assign the Customer ID as the default User ID, or the customer may be prompted to create a unique, personalized alphanumeric User ID.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Is an OTP mandatory for the completion of the online registration form?",
+    "input": "",
+    "output": "Yes, a One-Time Password sent to the registered mobile number is a mandatory security requirement to validate the user's identity during the digital registration flow.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "State the rule for registering a minor's account for net banking.",
+    "input": "",
+    "output": "For minors above 10 years with self-operated accounts, registration is permitted; for younger minors, net banking is restricted to 'View Only' access managed by the guardian.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Detail the process for activating net banking for a corporate account.",
+    "input": "",
+    "output": "Corporate registration requires a board resolution, a completed corporate net banking form signed by authorized signatories, and the mapping of specific transaction limits to individual users.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "What should a customer do if they do not receive an OTP during registration?",
+    "input": "",
+    "output": "If the OTP is not received, the customer should check their network connectivity, use the 'Resend OTP' option, or verify that their mobile number is correctly updated in bank records.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Describe the activation of net banking via the bank's mobile app.",
+    "input": "",
+    "output": "Download the official app, select 'Register', enter account and debit card credentials, and set an MPIN; this often enables both mobile and net banking access simultaneously.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "How long does it take for net banking access to be enabled after a branch request?",
+    "input": "",
+    "output": "Requests submitted at a branch are typically processed within 3 to 5 working days, after which the customer receives an SMS notification regarding account activation.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "What are the password complexity requirements for new net banking accounts?",
+    "input": "",
+    "output": "Passwords must be 8-15 characters long and contain a combination of uppercase letters, lowercase letters, numerical digits, and at least one special character.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Can a customer register for net banking if their account is in 'Dormant' status?",
+    "input": "",
+    "output": "No, a dormant account must first be reactivated through a Re-KYC process at a branch before the customer can register for or access net banking services.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "State the procedure for enabling 'Full Transaction Rights' during registration.",
+    "input": "",
+    "output": "During the registration flow, the user must select 'Full Transaction Rights'; if 'View Only' was initially selected, an upgrade request must be submitted via the 'Profile' menu.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "What is a 'PIN Mailer' in the context of net banking registration?",
+    "input": "",
+    "output": "A PIN mailer is a sealed physical document containing a temporary password or activation code sent to the customer for their initial login to the net banking system.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Identify the impact of changing the registered mobile number on net banking access.",
+    "input": "",
+    "output": "Updating the mobile number may temporarily disable net banking registration or transaction capabilities until the new number is verified and synced with the secure login system.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Are there any fees associated with the initial registration for net banking?",
+    "input": "",
+    "output": "Registration for net banking is provided as a value-added service and does not incur any initial setup fees or annual maintenance charges for standard retail accounts.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "How is a 'Transaction Password' different from a 'Login Password' during setup?",
+    "input": "",
+    "output": "The Login Password grants access to the portal, while the Transaction Password (or secure OTP) is required as a secondary layer of authentication to authorize fund transfers.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Describe the procedure for registering net banking for a HUF account.",
+    "input": "",
+    "output": "The Karta must submit a physical application form on behalf of the Hindu Undivided Family, providing their personal ID proofs and the HUF entity's PAN details.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "What occurs if the system displays a 'Customer ID already registered' error?",
+    "input": "",
+    "output": "This indicates that net banking is already active; the user should attempt to retrieve their existing User ID or reset their password using the 'Forgot Password' link.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "Can a customer use their net banking credentials for the mobile banking app?",
+    "input": "",
+    "output": "Yes, once registered for net banking, the same User ID and Login Password can generally be used to log in to the bank's official mobile banking application.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  },
+  {
+    "instruction": "What is the role of 'Security Questions' during the registration phase?",
+    "input": "",
+    "output": "Security questions are configured during registration to provide an additional layer of identity verification for future password resets or profile updates.",
+    "intent_id": "NET_BANKING_REGISTRATION"
+  }
+]

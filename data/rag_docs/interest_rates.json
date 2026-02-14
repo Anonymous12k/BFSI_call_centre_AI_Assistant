@@ -1,0 +1,43 @@
+[
+    {
+        "keywords": ["repo rate", "benchmark", "interest rates"],
+        "answer": "Interest rates on floating-rate loans are often linked to external benchmarks such as the RBI Repo Rate. Any change in the central bank's repo rate directly impacts the applicable interest rate for benchmark-linked loan products."
+    },
+    {
+        "keywords": ["fixed rate", "floating rate", "interest type"],
+        "answer": "A fixed interest rate remains constant throughout the loan tenure, whereas a floating rate fluctuates based on changes in the bank's internal or external benchmark. Borrowers can choose the type of rate at the time of application based on their risk appetite."
+    },
+    {
+        "keywords": ["MCLR", "marginal cost", "reset date"],
+        "answer": "The Marginal Cost of Funds Based Lending Rate (MCLR) is an internal benchmark used by banks to price loans. It is reviewed monthly, and the rate on a specific loan is updated on its predefined reset date."
+    },
+    {
+        "keywords": ["spread", "markup", "lending rate"],
+        "answer": "The lending rate is calculated as the benchmark rate plus a 'spread' or markup, which is determined by the bank based on the customer's credit risk profile and the specific loan product. The spread usually remains constant unless a material change occurs in the credit profile."
+    },
+    {
+        "keywords": ["EBLR", "external benchmark", "loan pricing"],
+        "answer": "The External Benchmark Lending Rate (EBLR) is a transparent pricing mechanism where retail loans are linked to market-determined rates like the T-Bill rate or Repo Rate. This ensures faster transmission of monetary policy changes to the borrower."
+    },
+    {
+        "keywords": ["reducing balance", "interest calculation", "outstanding principal"],
+        "answer": "Under the reducing balance method, interest is calculated only on the outstanding principal amount remaining after each EMI payment. This method typically results in lower total interest costs compared to the flat rate method."
+    },
+    {
+        "keywords": ["penal interest", "default charges", "late payment"],
+        "answer": "Penal interest is an additional charge levied over the standard interest rate when a borrower fails to pay the EMI by the due date. These charges are outlined in the 'Schedule of Charges' section of the loan agreement."
+    },
+    {
+        "keywords": ["interest certificate", "provisional certificate", "tax benefit"],
+        "answer": "An interest certificate is a document provided by the bank detailing the total interest and principal paid during a financial year. It is primarily used by customers to claim tax deductions under relevant sections of the Income Tax Act."
+    },
+    {
+        "keywords": ["interest certificate", "fixed deposit interest", "FD interest"],
+        "answer": "An interest certificate is provided by the bank detailing interest earned and principal paid during a financial year. It is used for tax filing purposes."
+    },
+    {
+        "keywords": ["savings interest rate", "deposit interest", "bank interest"],
+        "answer": "Savings account interest rates are determined by the bank and credited periodically. Customers can view applicable rates in account statements or the bank's website."
+    }
+]
+

@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for initiating a home loan balance transfer?",
+    "input": "",
+    "output": "The process involves obtaining a foreclosure letter and a list of documents from the current lender, followed by a fresh credit application and property valuation with the new financial institution.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Which documents are required from the existing bank for a balance transfer?",
+    "input": "",
+    "output": "Applicants must provide the current outstanding principal statement, a list of original property documents held by the bank, and a No Objection Certificate or foreclosure letter.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Does a home loan balance transfer require a new property technical appraisal?",
+    "input": "",
+    "output": "Yes, the new lender conducts an independent technical and legal appraisal of the property to determine its current market value and clear title status before processing the transfer.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Explain the role of the foreclosure letter in the transfer process.",
+    "input": "",
+    "output": "A foreclosure letter specifies the exact outstanding amount, including principal and any applicable charges, required to close the loan account with the existing lender.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "What are the common processing fees associated with transferring a mortgage?",
+    "input": "",
+    "output": "Transferring a mortgage typically involves a processing fee for the new loan application, along with legal and technical valuation charges as per the new lender's fee schedule.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Define the 'Top-up' facility during a home loan balance transfer.",
+    "input": "",
+    "output": "A top-up facility allows the applicant to borrow an additional amount over the existing home loan balance during the transfer, subject to the property's market value and income eligibility.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "How is the outstanding loan amount settled between the two banks?",
+    "input": "",
+    "output": "The new lender issues a payment instrument (Check or Draft) in favor of the current lender for the total outstanding amount specified in the foreclosure letter.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Is a fresh mortgage deed registration required for a balance transfer?",
+    "input": "",
+    "output": "Yes, a balance transfer requires the execution of a new mortgage deed or memorandum of deposit of title deeds in favor of the new lending institution.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "What is the minimum period a loan must be held before a transfer is permitted?",
+    "input": "",
+    "output": "Most financial institutions require the applicant to have completed a minimum of 6 to 12 months of regular EMI payments with the existing lender before accepting a transfer request.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Does the credit score affect the approval of a balance transfer request?",
+    "input": "",
+    "output": "The new lender performs a comprehensive credit check; a minimum CIBIL score of 750 is generally required for the approval of a home loan balance transfer application.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "List the KYC requirements for a home loan balance transfer application.",
+    "input": "",
+    "output": "Requirements include standard identity proof, address proof, PAN card, and updated income documents such as salary slips, bank statements, and income tax returns.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "What happens to the original property documents during the transfer?",
+    "input": "",
+    "output": "Once the existing loan is settled, the original documents are released by the current lender and must be submitted to the new lender to secure the fresh loan facility.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Identify the non-refundable charges in a balance transfer process.",
+    "input": "",
+    "output": "Processing fees, technical evaluation fees, and legal search fees paid to the new lender are typically non-refundable, regardless of the final loan disbursement.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Specify the documentation needed for the top-up portion of a transfer.",
+    "input": "",
+    "output": "Documentation for a top-up includes updated proof of income and a declaration regarding the end-use of the additional funds as per regulatory guidelines.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Can a joint home loan be transferred to a different bank?",
+    "input": "",
+    "output": "A joint home loan can be transferred provided all existing co-borrowers sign the new application and meet the credit criteria of the new lending institution.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "What is the typical timeline for completing a home loan transfer?",
+    "input": "",
+    "output": "The end-to-end process for a home loan balance transfer usually takes between 15 to 25 working days, depending on document availability and property verification.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Are there prepayment penalties when transferring a floating rate home loan?",
+    "input": "",
+    "output": "As per regulatory norms, there are no prepayment penalties for individual borrowers on floating rate home loans during a balance transfer to another institution.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Describe the MODT process in a balance transfer context.",
+    "input": "",
+    "output": "The Memorandum of Deposit of Title Deeds (MODT) is the legal process of pledging the original property documents with the new bank to create an equitable mortgage.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "What is the 'List of Documents' (LOD) letter?",
+    "input": "",
+    "output": "The LOD is an official statement from the current lender confirming the specific original property documents they have in their custody for the duration of the loan.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Are stamp duty charges applicable on a balance transfer?",
+    "input": "",
+    "output": "Stamp duty and registration charges are applicable on the new loan agreement and mortgage deed, varying according to the state where the property is located.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "How is the EMI calculated for the new transferred loan?",
+    "input": " ",
+    "output": "The new EMI is calculated based on the transferred principal amount, the revised interest rate offered by the new lender, and the remaining or newly agreed tenure.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Is insurance mandatory for a transferred home loan?",
+    "input": "",
+    "output": "While not always legally mandatory, lenders typically require property insurance and may recommend credit life insurance to cover the outstanding loan balance.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "Can a loan under construction be transferred to another bank?",
+    "input": "",
+    "output": "Transferring a loan for a property under construction is permitted if the project is approved by the new lender and the construction has reached the required stage.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "What is the protocol for handling surplus funds in a foreclosure?",
+    "input": "",
+    "output": "Any surplus funds remaining after the new lender settles the outstanding balance are credited back to the applicant’s primary bank account by the old lender.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  },
+  {
+    "instruction": "State the requirement for an interim security in balance transfers.",
+    "input": "",
+    "output": "Some lenders may require interim security or a guarantee until the original property documents are successfully moved from the old bank to the new bank.",
+    "intent_id": "HOME_LOAN_BALANCE_TRANSFER"
+  }
+]

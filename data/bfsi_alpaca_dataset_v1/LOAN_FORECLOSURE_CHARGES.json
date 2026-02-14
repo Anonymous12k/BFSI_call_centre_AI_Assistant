@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the fees associated with the full early repayment of a personal loan?",
+    "input": "",
+    "output": "The foreclosure charges for personal loans are 4% of the outstanding principal amount if closed after the initial 12 months of the loan tenure.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Detail the penalty for closing a home loan with floating interest rates.",
+    "input": "",
+    "output": "As per regulatory guidelines, there are no foreclosure charges for home loans with floating interest rates sanctioned to individual borrowers.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "State the charges for foreclosing a fixed-rate home loan.",
+    "input": "",
+    "output": "For home loans with a fixed interest rate, a foreclosure charge of 2% is applicable on the outstanding principal balance at the time of closure.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "What is the cost of terminating a car loan before the end of the term?",
+    "input": "",
+    "output": "Car loan foreclosure incurs a charge of 5% on the remaining principal if the loan is closed within the first 24 months of the tenure.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Are there any fees for the early closure of a business loan?",
+    "input": "",
+    "output": "Business loan foreclosure charges range from 3% to 5% of the outstanding principal, depending on the specific product variant and duration elapsed.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "List the foreclosure rates for a two-wheeler loan.",
+    "input": "",
+    "output": "Two-wheeler loans carry a foreclosure penalty of 3% on the outstanding principal amount, applicable after a minimum of six EMIs have been paid.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Does the bank charge for closing a loan against property early?",
+    "input": "",
+    "output": "For individual borrowers with floating rate loans against property, no foreclosure charges apply; non-individual borrowers are charged 2% of the outstanding amount.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Explain the foreclosure fee structure for gold loans.",
+    "input": "",
+    "output": "Gold loans typically do not attract foreclosure charges, allowing borrowers to close the account at any time by paying the principal and accrued interest.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "What is the lock-in period before foreclosure is permitted for personal loans?",
+    "input": "",
+    "output": "Foreclosure is permitted only after the payment of 12 successful monthly installments, subject to a penalty on the remaining principal balance.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Are taxes applicable on the foreclosure fee?",
+    "input": "None",
+    "output": "The applicable Goods and Services Tax (GST) is levied on the foreclosure processing fee as per prevailing government tax regulations.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Identify the charges for settling an education loan before the tenure ends.",
+    "input": "",
+    "output": "Education loans generally do not carry foreclosure penalties, enabling students or co-applicants to settle the debt without additional early-payment fees.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "What percentage of the principal is charged for early settlement of a commercial vehicle loan?",
+    "input": "",
+    "output": "A foreclosure charge of 4% is applied to the outstanding principal amount for the early settlement of commercial vehicle loan accounts.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "State the policy on foreclosure charges for micro-enterprise loans.",
+    "input": "",
+    "output": "Micro-enterprise loans sanctioned under specific government schemes are exempt from foreclosure charges to encourage early debt clearance.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "How is the foreclosure amount calculated for a personal loan?",
+    "input": "",
+    "output": "The foreclosure amount is calculated as the sum of the outstanding principal, the foreclosure fee (4% of principal), and applicable GST.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Are foreclosure charges different for senior citizens?",
+    "input": "",
+    "output": "The foreclosure charge policy remains uniform across all age groups, following the standard percentage defined for the specific loan product.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "What are the penalties for pre-closing a loan against fixed deposits?",
+    "input": "",
+    "output": "Loans against fixed deposits do not attract foreclosure charges; however, the interest rate on the deposit may be adjusted as per the premature withdrawal policy.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Define the foreclosure fee for professional equipment loans.",
+    "input": "",
+    "output": "Professional equipment loans incur a foreclosure charge of 3% of the outstanding principal if settled before the original maturity date.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Is there a reduction in foreclosure fees after a certain period?",
+    "input": "",
+    "output": "Foreclosure fees are fixed as per the loan agreement and do not reduce over time unless a specific stepped-down fee structure is mentioned in the contract.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "List the conditions under which foreclosure charges are waived.",
+    "input": "",
+    "output": "Foreclosure charges are waived for floating-rate loans to individuals or if the loan is closed using the borrower's own verifiable funds.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "What is the foreclosure penalty for a consumer durable loan?",
+    "input": "",
+    "output": "Consumer durable loans usually carry a flat foreclosure fee ranging from 250 to 500 INR, depending on the original invoice value.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Detail the foreclosure costs for a used car loan.",
+    "input": "",
+    "output": "The foreclosure fee for used car loans is 5% of the outstanding principal, plus applicable taxes, after the initial six months of the tenure.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Are foreclosure charges applicable during the moratorium period?",
+    "input": "",
+    "output": "Foreclosure is generally not permitted during the moratorium period; any closure request during this time is subject to specific credit committee approval.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Specify the foreclosure fee for tractor loans.",
+    "input": "",
+    "output": "Tractor loans attract a foreclosure charge of 2% on the outstanding principal balance if closed before the scheduled maturity.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "Does the bank charge for closing an overdraft facility?",
+    "input": "",
+    "output": "Closing an overdraft facility does not attract foreclosure charges; only a nominal account closure administrative fee may be applicable.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  },
+  {
+    "instruction": "What is the impact of foreclosure charges on the final settlement statement?",
+    "input": "",
+    "output": "Foreclosure charges are added to the final dues, increasing the total amount required to obtain a No Objection Certificate (NOC) from the bank.",
+    "intent_id": "LOAN_FORECLOSURE_CHARGES"
+  }
+]

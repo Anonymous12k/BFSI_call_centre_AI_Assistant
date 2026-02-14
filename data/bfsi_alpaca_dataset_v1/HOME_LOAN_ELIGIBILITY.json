@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the age limits for applying for a home loan?",
+    "input": "",
+    "output": "The applicant must be a minimum of 21 years of age at the time of application and a maximum of 65 to 70 years at the time of loan maturity.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "State the minimum income criteria for home loan applicants in urban areas.",
+    "input": "",
+    "output": "For urban and metropolitan locations, the minimum net monthly income requirement for a salaried applicant is 30,000 INR.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the required credit score for a home loan approval?",
+    "input": "",
+    "output": "A minimum CIBIL score of 750 is required to qualify for a home loan under standard credit policy guidelines.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Define the employment stability requirements for salaried home loan seekers.",
+    "input": "",
+    "output": "Salaried individuals must have a minimum of two years of total work experience, with at least six months of continuous service in the current organization.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the eligibility conditions for self-employed individuals for home financing?",
+    "input": "",
+    "output": "Self-employed applicants must have been in the same line of business for at least three consecutive years and provide audited financial statements.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "List the residency status requirements for home loan eligibility.",
+    "input": "",
+    "output": "Eligibility is extended to Resident Indians, Non-Resident Indians (NRIs), and Persons of Indian Origin (PIOs) with valid documentation.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "How does existing debt impact home loan eligibility?",
+    "input": "",
+    "output": "Eligibility is subject to the Fixed Obligation to Income Ratio (FOIR), where total monthly debt payments must not exceed 50% to 60% of net monthly income.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What property-related factors affect the loan eligibility?",
+    "input": "",
+    "output": "The property must have a clear, marketable title and be located within the bank’s approved geographical limits for technical and legal clearance.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are co-applicants mandatory for a home loan?",
+    "input": "",
+    "output": "A co-applicant is mandatory if the property is jointly owned, and their income can be added to enhance the total loan eligibility.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Detail the eligibility for employees of partnership firms.",
+    "input": "",
+    "output": "Employees of partnership firms are eligible provided the firm has been operational for five years and the applicant meets the minimum salary threshold.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the policy for home loan eligibility for NRIs?",
+    "input": "",
+    "output": "NRIs must be employed abroad for at least two years and hold a valid graduate degree or a professional diploma to be eligible.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Specify the minimum business vintage for self-employed professionals.",
+    "input": "",
+    "output": "Self-employed professionals such as Doctors and CAs must have a minimum of three years of post-qualification professional practice.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Does the type of employer influence home loan eligibility?",
+    "input": "",
+    "output": "Employees of Public Sector Undertakings, Government bodies, and listed Private Limited companies are categorized as high-eligibility profiles.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the eligibility rules for a home improvement loan?",
+    "input": "",
+    "output": "Eligibility for home improvement loans is restricted to the existing owners of the property, subject to income and credit score verification.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Can agricultural income be used for home loan eligibility?",
+    "input": "",
+    "output": "Agricultural income can be considered for eligibility if it is supported by land records and recorded in the applicant's Income Tax Returns.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the maximum number of co-applicants allowed?",
+    "input": "",
+    "output": "The policy allows a maximum of six co-applicants for a single home loan application, provided they are immediate family members.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Identify the criteria for the Loan-to-Value (LTV) ratio.",
+    "input": "",
+    "output": "LTV is capped at 90% for loans up to 30 lakhs, 80% for loans between 30 and 75 lakhs, and 75% for loans exceeding 75 lakhs.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "State the eligibility for individuals with rental income.",
+    "input": "",
+    "output": "Rental income is eligible for consideration if it is reflected in the bank statement and the rent agreement is registered with local authorities.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the minimum turnover requirement for a business owner's home loan?",
+    "input": "",
+    "output": "The business must show a stable or increasing turnover trend over the last three years as per the audited Profit and Loss accounts.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are contractual workers eligible for home financing?",
+    "input": "",
+    "output": "Contractual employees in the government sector are eligible if their contract has been renewed at least twice and they meet the age criteria.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "How is eligibility affected by the age of the property?",
+    "input": "",
+    "output": "The age of the property should not exceed 35 years at the time of loan maturity to be eligible for mortgage financing.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the eligibility norms for a home construction loan?",
+    "input": "",
+    "output": "Applicants must own the land and provide an approved building plan from the local municipal authority to qualify for construction financing.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Detail the eligibility for female applicants.",
+    "input": "",
+    "output": "Female applicants are eligible under standard income and credit criteria, and may qualify for specific interest rate concessions if they are sole or first co-owners.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "Is a guarantor required for home loan eligibility?",
+    "input": "",
+    "output": "A guarantor is generally not required unless the applicant's credit profile or income stability does not meet the bank’s primary internal benchmarks.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the eligibility requirements for a plot purchase loan?",
+    "input": "",
+    "output": "The plot must be for residential use and located within municipal limits, and the applicant must intend to construct a house within a specified timeframe.",
+    "intent_id": "HOME_LOAN_ELIGIBILITY"
+  }
+]

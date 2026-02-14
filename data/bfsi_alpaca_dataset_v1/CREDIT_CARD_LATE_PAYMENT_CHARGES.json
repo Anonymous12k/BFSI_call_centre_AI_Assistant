@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the penalties for missing a credit card payment deadline?",
+    "input": "",
+    "output": "Late payment charges are levied if the Minimum Amount Due is not paid by the payment due date. These charges are scaled based on the total outstanding balance on the card.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "How is the late payment fee calculated for a credit card?",
+    "input": "",
+    "output": "The late payment fee is a fixed amount determined by the statement balance range. It is applied to the subsequent statement when the minimum payment is not received on time.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "List the late payment fee structure for different balance tiers.",
+    "input": "",
+    "output": "Fees range from nil for balances below 100 INR to 1,300 INR for balances exceeding 50,000 INR, depending on the specific slab the outstanding amount falls into.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Is there a grace period before late fees are applied?",
+    "input": "",
+    "output": "As per regulatory guidelines, late payment charges are applicable only if the payment remains unpaid for more than three days past the scheduled due date.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "What happens if the Minimum Amount Due is not paid by the due date?",
+    "input": "",
+    "output": "Failure to pay the Minimum Amount Due results in the application of late payment charges and may lead to a report of delinquency to credit bureaus.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Does the late payment fee vary by the type of credit card held?",
+    "input": "",
+    "output": "Late payment charges are generally standardized across card variants and are primarily governed by the total outstanding amount rather than the card tier.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Are late payment charges inclusive of GST?",
+    "input": "",
+    "output": "No, late payment charges are subject to the prevailing Goods and Services Tax (GST) rate, which is billed in addition to the base penalty amount.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Define the penalty for an outstanding balance between 5,001 INR and 10,000 INR.",
+    "input": "",
+    "output": "For an outstanding balance ranging from 5,001 INR to 10,000 INR, a standardized late payment fee of 600 INR is applied to the account.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Explain the impact of late payments on the interest-free period.",
+    "input": "",
+    "output": "Non-payment of the total due by the deadline results in the immediate loss of the interest-free grace period for all subsequent purchases until the balance is cleared.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "What is the maximum late payment fee that can be charged?",
+    "input": "",
+    "output": "The maximum late payment fee is capped at 1,300 INR for outstanding statement balances that exceed the 50,000 INR threshold.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Are there charges for balances under 100 INR?",
+    "input": "",
+    "output": "No late payment charges are applicable if the total statement balance is less than 100 INR, though the account status may still be monitored.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Does paying less than the Minimum Amount Due trigger a penalty?",
+    "input": "",
+    "output": "Yes, if the total amount paid is less than the Minimum Amount Due specified in the statement, the full late payment fee corresponding to the balance slab is applied.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "How are late fees reflected on the credit card statement?",
+    "input": "",
+    "output": "Late fees appear as a separate line item in the transactions section of the following month's statement, categorized under 'Late Payment Charges'.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Can late payment charges be waived if the payment is one day late?",
+    "output": "The system automatically applies charges after the three-day regulatory buffer; waivers are subject to the bank's internal policy and are not guaranteed.",
+    "input": "",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Is the late fee a percentage of the due amount or a flat rate?",
+    "input": "",
+    "output": "The late fee is a flat rate based on defined balance slabs rather than a percentage of the total amount due or the minimum amount due.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "What is the charge for a balance between 1,001 INR and 5,000 INR?",
+    "input": "",
+    "output": "A late payment charge of 500 INR is applicable for accounts with an outstanding balance between 1,001 INR and 5,000 INR.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Does a late payment affect the interest rates on the card?",
+    "input": "",
+    "output": "While the late fee is a one-time charge, the outstanding balance will also accrue finance charges at the applicable monthly percentage rate until paid in full.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "State the late payment fee for balances between 10,001 INR and 25,000 INR.",
+    "input": "",
+    "output": "An outstanding statement balance between 10,001 INR and 25,000 INR attracts a late payment fee of 750 INR per billing cycle.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "What are the consequences of repeated late payments?",
+    "input": "",
+    "output": "Consecutive late payments result in repeated late fees, higher interest accrual, and a potential reduction in the credit limit or suspension of card privileges.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Specify the fee for an outstanding balance of exactly 500 INR.",
+    "input": "",
+    "output": "For outstanding balances ranging from 100 INR to 500 INR, a late payment fee of 100 INR is levied if the payment is not received.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Is the late payment fee applied daily or once per statement?",
+    "input": "",
+    "output": "The late payment fee is a one-time charge per billing cycle, applied whenever the Minimum Amount Due remains unpaid past the grace period.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Detail the charge for a balance between 25,001 INR and 50,000 INR.",
+    "input": "",
+    "output": "A late payment fee of 1,100 INR is charged for outstanding balances that fall within the range of 25,001 INR to 50,000 INR.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Do late payment charges apply if the card is over-limit?",
+    "input": "",
+    "output": "Yes, late payment charges apply independently of over-limit fees if the required minimum payment is not made by the due date.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "Are late fees applicable to corporate credit cards?",
+    "input": "",
+    "output": "Corporate credit cards are subject to late payment fees as per the agreement between the bank and the corporate entity, usually following standard balance slabs.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  },
+  {
+    "instruction": "What documentation defines the late payment fee policy?",
+    "input": "",
+    "output": "The Most Important Terms and Conditions (MITC) document provided with the credit card contains the comprehensive schedule of late payment charges.",
+    "intent_id": "CREDIT_CARD_LATE_PAYMENT_CHARGES"
+  }
+]

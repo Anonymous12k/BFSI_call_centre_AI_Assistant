@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the age requirements for a personal loan applicant?",
+    "input": "",
+    "output": "The age for personal loan applicants must be between a minimum of 21 years at the time of application and a maximum of 60 years at the time of loan maturity.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "List the employment criteria for salaried individuals seeking a personal loan.",
+    "input": "",
+    "output": "Salaried applicants must be employed at their current organization for at least six months and have a total professional work experience of no less than two years.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What is the minimum monthly income required for a personal loan?",
+    "input": "",
+    "output": "The minimum net monthly income requirement is 25,000 INR for residents of metropolitan cities and 20,000 INR for applicants residing in other locations.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Define the credit score threshold for personal loan eligibility.",
+    "input": "",
+    "output": "A minimum CIBIL score of 750 is required to meet the standard credit eligibility criteria for a personal loan application.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Does the bank provide personal loans to self-employed professionals?",
+    "input": "",
+    "output": "Self-employed professionals are eligible if they have been in the current business for a minimum of three years and provide audited financial turnover records.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What are the residency requirements for a personal loan?",
+    "input": "",
+    "output": "An applicant must be a resident citizen of India and must have occupied their current residence for a minimum period of one year.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Identify the criteria for employees of private limited companies.",
+    "input": "",
+    "output": "Employees of private limited companies must belong to firms listed on the bank's approved employer category list to qualify for a personal loan.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Are government employees eligible for personal loans?",
+    "input": "",
+    "output": "Permanent employees of Central, State, and Local government bodies are eligible for personal loans subject to income and age verification.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What is the minimum work experience needed for a first-time applicant?",
+    "input": "",
+    "output": "First-time applicants must demonstrate a continuous employment history of at least 24 months with valid proof of salary credits.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Does a high debt-to-income ratio affect personal loan eligibility?",
+    "input": "",
+    "output": "Eligibility is restricted if the total monthly debt obligations, including the proposed EMI, exceed 50% of the applicant's net monthly income.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What are the eligibility norms for doctors and chartered accountants?",
+    "input": "",
+    "output": "Qualified doctors and chartered accountants are eligible based on a minimum of two years of post-qualification practice and stable annual earnings.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Is there a minimum turnover requirement for self-employed loan seekers?",
+    "input": "",
+    "output": "Self-employed individuals must demonstrate a minimum annual business turnover as per the latest audited Profit and Loss statements.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Are non-resident Indians eligible for personal loans?",
+    "input": "",
+    "output": "Personal loans are currently restricted to resident Indian citizens; NRIs are not eligible for this specific unsecured credit product.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "State the eligibility policy for pensioners.",
+    "input": "",
+    "output": "Pensioners are eligible if they receive their pension through this bank and do not exceed the age of 70 years at the end of the loan tenure.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Specify the requirement for office landline or corporate email.",
+    "input": "",
+    "output": "Applicants must provide a valid corporate email ID or a verified office landline number to fulfill the employment verification eligibility.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "How is eligibility determined for individuals with no credit history?",
+    "input": "",
+    "output": "Individuals with no credit history (Score -1 or 0) are evaluated based on employer profile, income stability, and banking transaction patterns.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Are contract employees eligible for personal loans?",
+    "input": "",
+    "output": "Contractual employees are ineligible unless they are employed by specific tier-1 partner firms with a minimum contract duration of three years.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What is the minimum tenure at the current residence for eligibility?",
+    "input": "",
+    "output": "The applicant must have resided at the current address for at least 12 months, supported by valid address proof documents.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Detail the eligibility for employees of partnership firms.",
+    "input": "",
+    "output": "Employees of partnership firms are eligible provided the firm has been operational for five years and the applicant meets the income threshold.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Does owning a house improve personal loan eligibility?",
+    "input": "",
+    "output": "While not mandatory, applicants residing in self-owned property may be subject to different internal credit grading than those in rented accommodations.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Are there specific eligibility rules for MNC employees?",
+    "input": "",
+    "output": "Employees of Multi-National Corporations (MNCs) qualify for simplified eligibility if their employer is categorized under the bank's 'Elite' list.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What is the policy for applicants with recent credit defaults?",
+    "input": "",
+    "output": "Applicants with a record of defaults or written-off accounts in the last 24 months are ineligible for a personal loan.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "State the minimum salary requirement for public sector employees.",
+    "input": "",
+    "output": "Public Sector Undertaking (PSU) employees must have a minimum net monthly salary of 20,000 INR to be eligible for a personal loan.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "Is a co-applicant required for personal loan eligibility?",
+    "input": "",
+    "output": "A co-applicant is not required for a personal loan as eligibility is primarily assessed on the individual applicant's income and credit score.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  },
+  {
+    "instruction": "What determines the maximum loan amount eligibility?",
+    "input": "",
+    "output": "The maximum loan amount is determined by the applicant's net monthly income, existing EMI obligations, and the internal credit multiplier.",
+    "intent_id": "LOAN_ELIGIBILITY_PERSONAL"
+  }
+]

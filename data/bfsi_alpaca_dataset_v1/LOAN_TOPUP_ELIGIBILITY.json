@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the primary eligibility criteria for a loan top-up?",
+    "input": "",
+    "output": "Loan top-up eligibility is contingent upon a minimum of six successfully cleared monthly installments on the existing loan and a consistent repayment track record without any defaults.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Is there a minimum tenure requirement for the existing loan before applying for a top-up?",
+    "input": "",
+    "output": "An active loan must have completed a seasoning period of at least six to twelve months, depending on the product category, to be eligible for a top-up facility.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "How does the repayment history affect eligibility for additional loan funds?",
+    "input": "",
+    "output": "Eligibility for additional funds requires a clean repayment history for the last twelve months, with zero instances of cheque bounces or late payment charges on the current loan.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the maximum age limit for a top-up loan applicant?",
+    "input": "",
+    "output": "The applicant must not exceed the age of 60 years for salaried individuals or 65 years for self-employed individuals at the time of the top-up loan maturity.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Define the income requirements for a loan top-up facility.",
+    "input": "",
+    "output": "The applicant's current net monthly income must meet the minimum threshold defined for the original loan, ensuring the total debt-to-income ratio remains within permissible limits.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Can a customer with a history of EMI bounces qualify for a top-up?",
+    "input": "",
+    "output": "A customer with more than one EMI bounce in the preceding twelve-month period is ineligible for a top-up loan according to standard credit policy.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Does the credit score impact the eligibility for a loan top-up?",
+    "input": "",
+    "output": "A minimum credit score of 750 is required at the time of the top-up application to ensure the borrower maintains a low-risk credit profile.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the eligibility norms for a home loan top-up?",
+    "input": "",
+    "output": "Home loan top-up eligibility requires the final possession of the property and a clear title, alongside a minimum of twelve months of regular EMI repayments.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Is a stable employment status mandatory for top-up eligibility?",
+    "input": "",
+    "output": "Applicants must demonstrate continued employment with the same organization or within the same industry for at least one year since the original loan disbursement.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "How is the eligible top-up amount calculated?",
+    "input": "",
+    "output": "The eligible amount is determined by the current market value of the collateral, the outstanding principal on the base loan, and the applicant's current repayment capacity.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the policy regarding the remaining tenure of the base loan for top-up eligibility?",
+    "input": "",
+    "output": "A top-up is only permissible if the remaining tenure of the primary loan is at least twelve months at the time of the top-up application.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are self-employed individuals eligible for personal loan top-ups?",
+    "input": "",
+    "output": "Self-employed individuals are eligible for top-ups provided they submit audited financial statements showing stable or increasing business turnover over the last two years.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Does a change in employer affect top-up loan eligibility?",
+    "input": "",
+    "output": "A change in employer may affect eligibility if the applicant has not completed the mandatory probation period or if the new employer is not on the bank's approved list.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What property-related factors influence home loan top-up eligibility?",
+    "input": "",
+    "output": "Eligibility is influenced by the current Loan-to-Value (LTV) ratio, ensuring the combined value of the base loan and top-up does not exceed 80% of the property's market value.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Can an applicant apply for a top-up if the base loan is in the moratorium period?",
+    "input": "",
+    "output": "Top-up applications are not processed for loans currently under a moratorium or grace period; regular repayment must have commenced and stabilized.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Identify the documentation-based eligibility for a top-up.",
+    "input": "",
+    "output": "Eligibility is validated through the submission of the latest three months' salary slips and six months' bank statements showing no financial irregularities.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the FOIR limit for top-up loan eligibility?",
+    "input": "",
+    "output": "The Fixed Obligation to Income Ratio (FOIR) must not exceed 50% to 60% after including the projected EMI of the requested top-up loan.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are there any restrictions based on the type of base loan?",
+    "input": "",
+    "output": "Top-ups are generally available for home loans and personal loans; however, they are not typically offered for gold loans or short-term bridge loans.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Does the geographical location of the property affect top-up eligibility?",
+    "input": "",
+    "output": "For home loan top-ups, the property must be located within the bank's approved geographical limits and must not be in a notified or restricted area.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Can a co-applicant be added to meet top-up eligibility?",
+    "input": "",
+    "output": "Adding a co-applicant is permitted to enhance income eligibility, provided the co-applicant is an immediate family member with a stable income source.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What are the norms for top-up eligibility for professional degree holders?",
+    "input": "",
+    "output": "Qualified professionals like Doctors and CAs are eligible for simplified top-up norms based on their professional standing and a minimum of three years of practice.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Is a fresh valuation required for a home loan top-up?",
+    "input": "",
+    "output": "A fresh technical valuation of the property is mandatory to determine current market value and establish eligibility for the additional loan amount.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Define the eligibility for a top-up on a business loan.",
+    "input": "",
+    "output": "Business loan top-ups require the entity to show a positive net worth and a Debt Service Coverage Ratio (DSCR) of at least 1.5 in the latest financial year.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "What is the impact of other existing debts on top-up eligibility?",
+    "input": "",
+    "output": "Existing external debts are factored into the credit appraisal; any high-leverage or recent defaults with other lenders will result in ineligibility.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  },
+  {
+    "instruction": "Are there any specific eligibility rules for government employees regarding top-ups?",
+    "input": "",
+    "output": "Permanent government employees qualify for top-ups with a minimum of six months of service remaining before retirement and a verified salary mandate.",
+    "intent_id": "LOAN_TOPUP_ELIGIBILITY"
+  }
+]

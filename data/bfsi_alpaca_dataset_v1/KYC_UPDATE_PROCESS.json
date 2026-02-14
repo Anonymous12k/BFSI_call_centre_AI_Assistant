@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the steps to complete a periodic KYC update using the net banking portal?",
+    "input": "",
+    "output": "To update KYC online, log in to net banking, navigate to the 'Profile' section, select 'Re-KYC', upload the required officially valid documents, and submit the digital declaration.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Outline the procedure for a physical KYC refresh at a bank branch.",
+    "input": "",
+    "output": "Visit any bank branch with a completed KYC update form, recent passport-sized photographs, and original officially valid documents for physical verification by an authorized officer.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Explain the Video-KYC process for updating account records for existing customers.",
+    "input": "",
+    "output": "The Video-KYC process involves a live video interaction with a bank representative where the customer displays their original PAN card and address proof for real-time identity validation.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Which documents are classified as officially valid for the purpose of a KYC update?",
+    "input": "",
+    "output": "Officially valid documents include the Passport, Voter ID Card, Aadhaar Card, Driving License, or NREGA Job Card, provided they contain the current residential address and identity details.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the standard processing time for a KYC update request submitted through digital channels?",
+    "input": "",
+    "output": "A KYC update request submitted via the mobile app or net banking is typically processed and updated in the bank's core system within 3 to 5 working days.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Identify the frequency requirements for periodic KYC updates based on customer risk categories.",
+    "input": "",
+    "output": "According to regulatory guidelines, high-risk customers must update KYC every 2 years, medium-risk every 8 years, and low-risk customers every 10 years.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How can a customer check the current status of their pending Re-KYC application?",
+    "input": "",
+    "output": "The status of a Re-KYC request can be monitored through the 'Service Request' tracking feature in the mobile banking application using the provided reference number.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What are the consequences of failing to complete a mandatory KYC update by the specified deadline?",
+    "input": "",
+    "output": "Failure to complete a mandatory KYC update may result in the temporary freezing of the account, which restricts all debit and credit transactions until compliance is fulfilled.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Detail the protocol for an NRI customer to update their KYC records from abroad.",
+    "input": "",
+    "output": "NRI customers must submit self-attested copies of their passport, visa, and overseas address proof, duly notarized or attested by the Indian Embassy, to their home branch via post.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is a fresh signature specimen required during a periodic KYC update?",
+    "input": "",
+    "output": "A fresh signature specimen is required only if there is a significant change in the customer's signature or if the existing specimen in the bank's records is outdated or unclear.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Describe the process for updating KYC for a minor account when the holder turns eighteen.",
+    "input": "",
+    "output": "When a minor reaches adulthood, they must submit a fresh KYC application with updated identity and address proof, a new photograph, and a verified specimen signature to the branch.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is a customer notified that a periodic KYC update is due for their account?",
+    "input": "",
+    "output": "The bank issues notifications through SMS, email, and mentions on the monthly account statement at least three to six months before the KYC update deadline.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can a customer update their KYC through an ATM or self-service kiosk?",
+    "input": "",
+    "output": "KYC updates cannot be completed at ATMs; they must be performed through the bank's secure digital portals, the Video-KYC interface, or via a physical branch visit.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the role of Central KYC (CKYC) in the account update process?",
+    "input": "",
+    "output": "If a customer has a CKYC number from another institution, the bank can retrieve their updated documents from the central registry to simplify the internal KYC update process.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Define the 'Small Account' KYC relaxation and its limitations.",
+    "input": "",
+    "output": "Small accounts can be opened with a photograph and self-attestation but are limited to an annual credit of 1 lakh INR and require full KYC completion within 12 to 24 months.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How can business entities update the KYC for their current accounts?",
+    "input": "",
+    "output": "Entities must provide updated registration documents, a board resolution, and the individual KYC of all authorized signatories and beneficial owners to the branch.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Are digital signatures or e-Aadhaar accepted for online KYC updates?",
+    "input": "",
+    "output": "Yes, digitally signed documents and e-Aadhaar downloaded from the UIDAI website are accepted as valid proofs for the online KYC update process.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Identify the specific KYC requirements for updating a dormant account.",
+    "input": "",
+    "output": "To reactivate a dormant account, the holder must undergo a full KYC verification process, involving the submission of fresh identity and address proofs and a signature match.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for updating the 'FATCA/CRS' declaration during KYC?",
+    "input": "",
+    "output": "The FATCA/CRS declaration is typically included in the Re-KYC form where customers must declare their tax residency status and provide their Tax Identification Number (TIN).",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can a customer use a DigiLocker account to provide documents for KYC?",
+    "input": "",
+    "output": "The bank accepts documents fetched directly from a customer's verified DigiLocker account as valid evidence for identity and address verification during the KYC process.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How does the bank verify the current residential address if the document is in a different language?",
+    "input": "",
+    "output": "Documents in regional or foreign languages must be accompanied by a certified translation in English or Hindi to be accepted for the KYC update process.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What should a customer do if their PAN is not linked during the KYC update?",
+    "input": "",
+    "output": "If a PAN is not available, the customer must submit Form 60 along with the KYC update request as per the prevailing Income Tax regulations.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "State the procedure for updating KYC for a joint account.",
+    "input": "",
+    "output": "In a joint account, each account holder must independently complete the KYC update process by providing their respective identity and address documents.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is an In-Person Verification (IPV) mandatory for all KYC updates?",
+    "input": "",
+    "output": "IPV is mandatory and can be conducted either physically by a bank official at the branch/residence or virtually via a Video-KYC session.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is a confirmation of a successful KYC update communicated to the account holder?",
+    "input": "",
+    "output": "Once the bank verifies and approves the submitted documents, a confirmation message is sent to the customer's registered mobile number and email address.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  }
+]

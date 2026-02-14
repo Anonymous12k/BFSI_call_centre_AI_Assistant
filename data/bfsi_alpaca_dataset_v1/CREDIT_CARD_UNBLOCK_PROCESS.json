@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for unblocking a credit card that was temporarily disabled?",
+    "input": "",
+    "output": "A credit card that was temporarily disabled via the 'Card On/Off' feature can be unblocked instantly through the mobile banking app or net banking portal by toggling the status back to 'Active'.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Can a credit card be unblocked if it was reported as lost or stolen?",
+    "input": "",
+    "output": "No, a credit card that has been permanently blocked or hotlisted due to loss or theft cannot be unblocked for security reasons; a replacement card must be issued.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "How do I unblock a credit card after entering an incorrect PIN multiple times?",
+    "input": "",
+    "output": "If a card is blocked due to incorrect PIN entries, it is typically unblocked automatically after 24 hours, or the cardholder can reset the PIN immediately via the mobile app to restore access.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Outline the steps to reactivate a card blocked due to suspicious activity.",
+    "input": "",
+    "output": "To reactivate a card blocked for security reasons, the cardholder must contact the fraud prevention department, verify the recent transactions, and confirm their identity for unblocking.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Is there a way to unblock a credit card via the IVR system?",
+    "input": "",
+    "output": "Yes, cardholders can use the automated IVR system by calling the customer service number, selecting the 'Card Services' menu, and following the prompts for unblocking an account.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "What is the timeline for unblocking a card once a payment for overdue balance is made?",
+    "input": "",
+    "output": "A credit card blocked due to non-payment will be unblocked within 24 to 48 hours once the total overdue amount is successfully credited and reflected in the bank's records.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Describe the process to unblock international transactions on a credit card.",
+    "input": "",
+    "output": "International transactions can be unblocked by navigating to the 'Manage Card Usage' section in the mobile app and enabling the toggle for 'International Spends'.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Can a credit card blocked for exceeding the credit limit be unblocked?",
+    "input": "",
+    "output": "The card remains active but will decline transactions until a payment is made to bring the balance below the credit limit or a limit enhancement is approved.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "What documents are required to unblock a card at a bank branch?",
+    "input": "",
+    "output": "To unblock a card at a branch, the primary cardholder must provide a valid government-issued photo ID and a signed request letter for account reactivation.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "How can I unblock a credit card that was deactivated due to inactivity?",
+    "input": "",
+    "output": "A card deactivated for inactivity can be reactivated by submitting a formal request through net banking or by performing a successful transaction using a physical ATM with PIN verification.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Identify the protocol for unblocking online (e-commerce) transactions.",
+    "input": "",
+    "output": "Online transactions can be unblocked through the 'Domestic Usage' settings in the mobile banking application by enabling the 'Online/E-commerce' transaction toggle.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Does the bank charge a fee for unblocking a credit card?",
+    "input": "",
+    "output": "The bank does not charge a fee for unblocking a credit card, though standard charges apply if a replacement card is required due to a permanent block.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "What happens if a card remains blocked for an extended period?",
+    "input": "",
+    "output": "If a card remains blocked for more than 90 days due to delinquency or security reasons, the bank may proceed with the permanent closure of the credit card account.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Explain the unblocking process for an add-on credit card.",
+    "input": "",
+    "output": "An add-on card can be unblocked by the primary cardholder through their mobile banking login or by calling customer care and verifying the add-on cardholder's details.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Can a blocked card be reactivated through an ATM?",
+    "input": "",
+    "output": "ATMs are generally used for PIN generation or blocking; for unblocking a deactivated card, digital banking channels or customer service helplines are the primary methods.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "How is a cardholder notified once their card is unblocked?",
+    "input": " ",
+    "output": "A confirmation alert is sent via SMS and registered email address immediately after the card status is updated to 'Active' in the bank's system.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Is an OTP required to unblock a card via net banking?",
+    "input": "",
+    "output": "Yes, for security verification, a One-Time Password (OTP) sent to the registered mobile number must be entered to authorize the unblocking of a credit card online.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure if a card remains blocked despite making the overdue payment?",
+    "input": "",
+    "output": "If the card is not unblocked after 48 hours of payment, the cardholder should contact customer support with the payment reference ID to manually trigger the reactivation.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Can a virtual credit card be unblocked?",
+    "input": "",
+    "output": "A virtual credit card that was manually disabled can be unblocked through the virtual card management section of the mobile app, provided the underlying credit line is active.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "How to unblock contactless (NFC) transactions on a credit card?",
+    "input": "",
+    "output": "Contactless transactions can be unblocked by accessing the 'Card Limits and Permissions' menu in the mobile app and switching the 'Contactless/NFC' toggle to 'On'.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "State the policy for unblocking a card that was restricted due to KYC expiry.",
+    "input": "",
+    "output": "To unblock a card restricted for KYC reasons, the cardholder must submit updated KYC documents (identity and address proof) at a branch or via the digital KYC portal.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Does unblocking a card change the existing PIN?",
+    "input": "",
+    "output": "No, unblocking a credit card restores its previous status without altering the existing PIN; however, a PIN change is recommended if the block was due to security concerns.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Can I request to unblock my card through a secured email?",
+    "input": "",
+    "output": "Requests to unblock a card can be sent via the 'Contact Us' or 'Secure Mailbox' section within the authenticated net banking portal for processing by the backend team.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "What defines the 'Temporary Block' status in the rewards portal?",
+    "input": "",
+    "output": "A 'Temporary Block' in the rewards portal indicates that points cannot be redeemed until the cardholder clears any outstanding dues or resolves an account verification issue.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  },
+  {
+    "instruction": "Outline the process for unblocking a card that was flagged during international travel.",
+    "input": "",
+    "output": "Cardholders should use the mobile app to verify their location or call the international collect call number to confirm travel dates and unblock the card for overseas use.",
+    "intent_id": "CREDIT_CARD_UNBLOCK_PROCESS"
+  }
+]

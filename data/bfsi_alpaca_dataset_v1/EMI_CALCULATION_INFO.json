@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the mathematical formula used for calculating the Equated Monthly Installment (EMI)?",
+    "input": "",
+    "output": "The standard EMI calculation formula is E = P × r × (1 + r)^n / ((1 + r)^n - 1), where P is the principal, r is the monthly interest rate, and n is the tenure in months.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Explain how the monthly interest rate is derived for EMI computation.",
+    "input": "",
+    "output": "The monthly interest rate (r) is calculated by dividing the annual interest rate by 12 and then dividing by 100 to convert the percentage into a decimal value.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Define the relationship between loan tenure and the EMI amount.",
+    "input": "",
+    "output": "There is an inverse relationship between loan tenure and EMI; increasing the tenure reduces the monthly installment amount but increases the total interest payable over the loan life.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "How does an increase in the principal amount affect the calculated EMI?",
+    "input": "",
+    "output": "An increase in the principal loan amount results in a proportionate increase in the EMI, assuming the interest rate and the repayment tenure remains constant.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Describe the components that constitute a standard EMI payment.",
+    "input": "",
+    "output": "An EMI consists of two parts: the principal repayment and the interest charge. In the initial stages, the interest component is higher, gradually shifting towards the principal.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "What is the impact of a higher interest rate on the EMI value?",
+    "input": "",
+    "output": "A higher interest rate directly increases the interest component of the installment, thereby raising the total EMI amount for the same principal and tenure.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "How is the 'reducing balance method' applied to EMI calculations?",
+    "input": "",
+    "output": "Under the reducing balance method, interest is calculated on the outstanding principal balance at the end of each month rather than the initial loan amount.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Explain the term 'Amortization Schedule' in the context of EMI.",
+    "input": "",
+    "output": "An amortization schedule is a table detailing each periodic payment, showing the specific amounts allocated toward interest and principal until the balance reaches zero.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Does the EMI amount change if a partial prepayment is made?",
+    "input": "",
+    "output": "A partial prepayment reduces the outstanding principal, which typically results in either a reduced EMI amount for the remaining tenure or a shortened tenure at the same EMI.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "What variables are required to perform an EMI calculation?",
+    "input": "",
+    "output": "The three essential variables required for EMI calculation are the total principal amount, the applicable annual interest rate, and the total repayment period in months.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "How is the total interest payable over the loan tenure calculated?",
+    "input": "",
+    "output": "The total interest payable is calculated by multiplying the EMI amount by the total number of months (tenure) and subtracting the original principal amount.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Specify the calculation logic for a 'Flat Interest Rate' EMI.",
+    "input": "",
+    "output": "In a flat interest rate calculation, interest is charged on the full principal amount for the entire tenure, without considering the periodic repayment of the principal.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "What is the difference between EMI in arrears and EMI in advance?",
+    "input": "",
+    "output": "EMI in arrears is paid at the end of the month following disbursement, while EMI in advance (Step-up) requires the first installment to be paid at the time of disbursement.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "How does the frequency of compounding affect the EMI calculation?",
+    "input": "",
+    "output": "Most retail loans use monthly compounding; more frequent compounding intervals would result in a higher effective interest rate and a higher EMI amount.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Are processing fees included in the EMI calculation?",
+    "input": "",
+    "output": "Processing fees are typically one-time upfront charges and are not included in the EMI calculation unless they are added to the principal loan amount.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Explain the effect of a 'moratorium period' on EMI computation.",
+    "input": "",
+    "output": "During a moratorium, EMIs are deferred, but interest usually continues to accrue and is added to the principal, resulting in higher EMIs once the repayment begins.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "What is the formula for calculating the total repayment amount?",
+    "input": "",
+    "output": "The total repayment amount is the sum of the principal and the total interest, determined by the formula: Total Amount = EMI × Number of Installments.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "How is the principal component of a specific EMI installment determined?",
+    "input": "",
+    "output": "The principal component of an EMI is determined by subtracting the monthly interest (Outstanding Principal × Monthly Rate) from the total EMI amount.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Define 'Fixed Rate EMI' logic.",
+    "input": "",
+    "output": "A Fixed Rate EMI is calculated using an interest rate that remains constant throughout the entire loan tenure, ensuring the EMI amount does not fluctuate.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Describe the calculation adjustment for 'Floating Rate' EMIs.",
+    "input": "",
+    "output": "For floating rates, the EMI is recalculated whenever the benchmark lending rate changes, affecting either the installment amount or the remaining repayment tenure.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "What is the significance of the 'n' variable in the EMI formula?",
+    "input": "",
+    "output": "The variable 'n' represents the total number of monthly installments, calculated by multiplying the number of years in the loan tenure by 12.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "How does the bank calculate the daily reducing balance for some loan types?",
+    "input": "",
+    "output": "In a daily reducing balance, interest is calculated on the outstanding principal every day, making it highly sensitive to the exact date of repayments or prepayments.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Explain the 'Step-Down' EMI calculation structure.",
+    "input": "",
+    "output": "Step-Down EMI is a structure where the installment amount is higher in the initial years and decreases at predefined intervals throughout the loan tenure.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Explain the 'Step-Up' EMI calculation structure.",
+    "input": "",
+    "output": "Step-Up EMI involves lower payments during the initial years of the loan, which then increase at specific stages based on expected growth in the borrower's income.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  },
+  {
+    "instruction": "Is tax or GST included in the monthly EMI amount?",
+    "input": "",
+    "output": "Standard loan EMIs do not include GST; however, GST is applicable on the interest component of credit card EMIs and on other service charges or penalties.",
+    "intent_id": "EMI_CALCULATION_INFO"
+  }
+]

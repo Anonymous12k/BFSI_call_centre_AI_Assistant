@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the common grounds for a personal loan application being declined?",
+    "input": "",
+    "output": "Common grounds for personal loan rejection include a low credit score, insufficient income levels, inconsistent employment history, or an excessively high debt-to-income ratio.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Explain why a low CIBIL score leads to a loan denial.",
+    "input": "",
+    "output": "A credit score below the regulatory threshold indicates a higher risk profile based on past repayment behavior, resulting in the application failing to meet credit policy standards.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "How does an applicant's debt-to-income ratio affect the approval decision?",
+    "input": "",
+    "output": "An application is rejected if existing monthly financial obligations exceed 50% of the net monthly income, as it indicates a limited capacity to service additional debt.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "What is the impact of unstable employment on loan applications?",
+    "input": "",
+    "output": "Frequent job changes or a lack of continuous employment for the minimum required period (usually 6-12 months) can lead to rejection due to perceived income instability.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Why would a loan be rejected due to employer categorization?",
+    "input": "",
+    "output": "Loans may be declined if the applicant's employer is not on the bank's approved list or belongs to an industry classified as high-risk by the internal credit policy.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Detail the role of documentation discrepancies in loan denials.",
+    "input": "",
+    "output": "Inconsistencies between the submitted financial documents and the data verified during the field investigation are grounds for immediate rejection of the loan request.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Can an application be declined based on the residential address?",
+    "input": "",
+    "output": "Rejection may occur if the residential address is located in a blacklisted geographical area or if the applicant fails the physical residence verification process.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Explain rejection due to 'unverifiable income'.",
+    "input": "",
+    "output": "Applications are rejected if income is received in cash without supporting bank statements or if the salary credits do not match the figures reported on the salary slips.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "What is the consequence of having too many recent credit inquiries?",
+    "input": "",
+    "output": "Multiple credit inquiries within a short timeframe (credit hungriness) can lead to rejection as it suggests the applicant is over-leveraging their financial position.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Identify the reason for rejection related to age limitations.",
+    "input": "",
+    "output": "A loan application is declined if the applicant is below the minimum age of 21 or exceeds the maximum age limit stipulated for the loan maturity period.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Why would a loan against property be rejected on technical grounds?",
+    "input": "",
+    "output": "Technical rejection occurs if the collateral property has legal disputes, lacks approved building plans, or falls outside the bank's acceptable valuation margin.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Explain the term 'Settled' or 'Written-off' in a credit report rejection.",
+    "input": "",
+    "output": "If a credit report shows 'Settled' or 'Written-off' status for previous loans, the application is rejected due to a history of failing to fulfill full repayment obligations.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Does being a loan guarantor for a defaulter impact my application?",
+    "input": "",
+    "output": "Yes, if the primary borrower of a loan you guaranteed has defaulted, your credit profile is negatively impacted, which can lead to a rejection of your own loan request.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "What is the reason for rejection for self-employed individuals with low turnover?",
+    "input": "",
+    "output": "Applications are declined if the business turnover or net profit as per audited financial statements does not meet the minimum threshold required for the loan amount.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Why is an incomplete KYC cause for loan refusal?",
+    "input": "",
+    "output": "Regulatory compliance requires complete and valid KYC; failure to provide clear identification or address proof results in the termination of the application process.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Describe rejection based on 'Internal Blacklist'.",
+    "input": "",
+    "output": "The bank may reject an application if the individual was previously associated with an account that was flagged for fraud or significant delinquency within the institution.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Explain the rejection reason: 'Insufficient Banking Habits'.",
+    "input": "",
+    "output": "Rejection occurs if the applicant's bank statements show a low average quarterly balance or frequent cheque bounces, indicating poor financial management.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Why would a lack of a landline number lead to a rejection?",
+    "input": "",
+    "output": "Per internal risk policies, the absence of a verifiable office landline or official contact point may lead to rejection during the employment verification stage.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Identify the cause for rejection involving 'Co-applicant Profile'.",
+    "input": "",
+    "output": "In joint applications, if the co-applicant has a poor credit history or fails verification, the entire application may be declined regardless of the primary applicant's profile.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "What is the impact of signature mismatch on loan approval?",
+    "input": "",
+    "output": "If the signature on the loan agreement does not match the bank's records or the KYC documents, the application is rejected for security and legal reasons.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Explain rejection due to 'Leverage Ratio'.",
+    "input": "",
+    "output": "Rejection occurs when the applicant's total outstanding unsecured debt is considered too high relative to their annual income, even if they have not yet defaulted.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Why would a loan for an NRI be declined?",
+    "input": "",
+    "output": "An NRI loan application may be declined if there is no local resident co-applicant or if the overseas employer cannot be verified through standard channels.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Detail rejection based on 'Purpose of Loan'.",
+    "input": "",
+    "output": "Applications are rejected if the stated purpose of the loan is for speculative activities, investments in capital markets, or any illegal or prohibited transactions.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "What is the reason for rejection if a field officer finds the office closed?",
+    "input": "",
+    "output": "If the business or office is found to be non-operational or non-existent during a surprise verification visit, the application is rejected for providing false information.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  },
+  {
+    "instruction": "Why would a loan be rejected despite a high salary and good credit?",
+    "input": "",
+    "output": "Rejection can still occur due to policy changes, such as the bank reaching its exposure limit for a specific sector or a temporary suspension of that specific loan product.",
+    "intent_id": "LOAN_REJECTION_REASON"
+  }
+]

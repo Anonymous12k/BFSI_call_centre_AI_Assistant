@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the various ways to obtain a bank account statement?",
+    "input": "",
+    "output": "Account statements can be accessed via net banking, the mobile app, visiting a branch, or by using the 'Email Statement' subscription service for monthly delivery.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "How can I download my account statement for a specific date range using net banking?",
+    "input": "",
+    "output": "Log in to the net banking portal, navigate to 'Accounts', select 'View Statement', input the desired start and end dates, and choose the 'Download as PDF' option.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Is there a service to receive account statements via SMS?",
+    "input": "",
+    "output": "The bank provides a 'Mini Statement' service via SMS which displays the last five transactions; however, detailed statements must be accessed through digital banking or email.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Explain the process for requesting a physical account statement at a branch.",
+    "input": "",
+    "output": "To obtain a physical statement, the account holder must submit a written request at the branch; a service fee is applicable for printing historical statements.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "How do I register for monthly e-statements to be sent to my email?",
+    "input": "",
+    "output": "Registration for e-statements can be completed through the 'Profile Settings' in the mobile app by verifying the registered email address and selecting the 'E-statement' toggle.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "What is the password format for opening a protected e-statement PDF?",
+    "input": "",
+    "output": "The PDF password typically follows a standard format, such as the first four letters of the name in uppercase followed by the date and month of birth.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Can I request an account statement for the previous five financial years?",
+    "input": "",
+    "output": "Statements for the last five years can be requested at the home branch; digital access is generally limited to the preceding 12 to 24 months of transaction history.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Are there any charges for downloading statements from the mobile app?",
+    "input": "",
+    "output": "There are no charges for viewing or downloading account statements through the mobile banking application or the net banking portal.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Identify the steps to generate an interest certificate for tax purposes.",
+    "input": "",
+    "output": "Interest certificates can be downloaded from the 'Tax Services' section of net banking, providing a summary of interest earned across savings and deposit accounts.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "How can I verify the authenticity of a digitally generated statement?",
+    "input": "",
+    "output": "Digitally generated statements contain a unique system-generated reference number and a digital signature from the bank to ensure document integrity.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "What information is included in a standard monthly account statement?",
+    "input": "",
+    "output": "A standard statement includes transaction dates, descriptions, value dates, debit/credit amounts, and the resulting daily closing balance for the period.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Can a third party request my account statement on my behalf?",
+    "input": "",
+    "output": "Account statements are only issued to the primary account holder or a legally authorized Power of Attorney holder to maintain customer confidentiality.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Describe the 'On-Demand' statement service via WhatsApp banking.",
+    "input": "",
+    "output": "Registered users can request an instant summary of recent transactions by sending the 'Statement' keyword to the bank's verified WhatsApp business account.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "What should I do if there is a discrepancy in my account statement?",
+    "input": "",
+    "output": "In case of discrepancies, the account holder must notify the bank in writing within 30 days of the statement date for investigation and rectification.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Is it possible to receive consolidated statements for multiple accounts?",
+    "input": "",
+    "output": "The bank offers a consolidated statement feature that summarizes activities for all savings, current, and deposit accounts linked to the same Customer ID.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "How can I stop physical statement delivery to my address?",
+    "input": "",
+    "output": "Customers can opt-out of physical mail by updating their 'Statement Preferences' in net banking and selecting 'E-statement Only' to support paperless banking.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Define the 'Instant Mini-Statement' feature at ATMs.",
+    "input": "",
+    "output": "By inserting a debit card at any bank ATM and selecting the 'Mini-Statement' option, a printed slip showing the last 10 transactions is generated.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "State the procedure for NRIs to receive statements overseas.",
+    "input": "",
+    "output": "NRIs are encouraged to use the digital banking portal for instant downloads or subscribe to the monthly e-statement service for delivery to their registered email.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "What is the fee for a duplicate physical statement for a closed account?",
+    "input": "",
+    "output": "Requests for statements from closed accounts must be made at the branch and are subject to a search fee as per the current schedule of charges.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Can I choose the format (Excel/PDF) for my digital statement?",
+    "input": "",
+    "output": "Yes, the net banking portal allows users to export account statements in various formats, including PDF, Excel (.xls), and CSV for accounting purposes.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "How is a combined statement for a joint account issued?",
+    "input": "",
+    "output": "For joint accounts, a single statement is issued in the names of all holders and is delivered to the primary account holder's registered address or email.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "What happens if an e-statement email bounces back?",
+    "input": "",
+    "output": "If an email bounces, the bank may suspend e-statement delivery and notify the customer via SMS to update or verify their email address in the records.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Are statements available for credit card linked savings accounts?",
+    "input": "",
+    "output": "Yes, the savings account statement will reflect all auto-debit payments and transfers made to the linked credit card account.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "How can I obtain a statement for a loan account?",
+    "input": "",
+    "output": "Loan account statements, including repayment schedules and outstanding balances, can be downloaded from the 'Loans' section of the mobile banking app.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  },
+  {
+    "instruction": "Identify the protocol for requesting a signed and stamped statement.",
+    "input": "",
+    "output": "For official or visa purposes, customers must visit their home branch to receive a printed statement that is manually signed and stamped by an authorized officer.",
+    "intent_id": "ACCOUNT_STATEMENT_REQUEST"
+  }
+]

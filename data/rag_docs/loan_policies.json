@@ -1,0 +1,38 @@
+[
+    {
+        "keywords": ["foreclosure charges", "loan closure", "pre-termination"],
+        "answer": "Foreclosure charges on floating-rate retail loans are generally waived as per regulatory mandates. For fixed-rate loans, a foreclosure fee may apply as specified in the most recent Schedule of Charges."
+    },
+    {
+        "keywords": ["moratorium period", "repayment holiday", "loan grace period"],
+        "answer": "A moratorium period allows a temporary halt in EMI payments, typically offered for education loans or during specific economic relief programs. Interest continues to accrue during this period and is added to the principal amount."
+    },
+    {
+        "keywords": ["CIBIL score impact", "credit report", "missed EMI"],
+        "answer": "Any delay or default in loan repayment is reported to credit bureaus like CIBIL and Experian. This negatively impacts the borrower's credit score and future borrowing eligibility."
+    },
+    {
+        "keywords": ["loan top-up", "additional funding", "existing loan"],
+        "answer": "A top-up loan can be availed by existing borrowers with a satisfactory repayment track record. The eligibility is determined by the current market value of the collateral and the borrower's revised repayment capacity."
+    },
+    {
+        "keywords": ["part-prepayment", "principal reduction", "excess payment"],
+        "answer": "Part-prepayment allows borrowers to pay a lump sum towards the principal amount, reducing the total interest outlay. This typically results in either a reduced EMI or a shortened loan tenure."
+    },
+    {
+        "keywords": ["collateral", "security", "secured loan"],
+        "answer": "Collateral refers to an asset such as property, gold, or fixed deposits pledged by the borrower to secure a loan. The bank holds a lien on the asset until the loan is fully repaid."
+    },
+    {
+        "keywords": ["loan disbursement", "fund transfer", "sanction letter"],
+        "answer": "Loan disbursement occurs after the successful verification of all documents and the execution of the loan agreement. Funds are usually credited directly to the borrower's bank account or the seller's account in case of asset purchases."
+    },
+    {
+        "keywords": ["EBLR", "repo rate link", "external benchmark"],
+        "answer": "Floating rate loans are linked to an External Benchmark Lending Rate (EBLR), often the RBI Repo Rate. Changes in the benchmark rate lead to a direct adjustment in the applicable interest rate during the next reset cycle."
+    },
+    {
+        "keywords": ["guarantor requirements", "co-signer", "loan security"],
+        "answer": "A guarantor may be required if the primary applicant does not meet the minimum credit criteria. The guarantor is legally liable for the repayment of the loan in the event of a default by the primary borrower."
+    }
+]

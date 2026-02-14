@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for updating the communication address through the net banking portal?",
+    "input": "",
+    "output": "Log in to the net banking portal, navigate to 'Profile Services', select 'Update Address', upload a scanned copy of a valid address proof, and authenticate the request with an OTP.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Outline the steps to modify the residential address using the mobile banking application.",
+    "input": "",
+    "output": "Open the mobile app, go to 'Personal Details' under the profile menu, select 'Update Address', and submit a digital copy of an officially valid document for verification.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Explain how to request an address change at a physical bank branch.",
+    "input": "",
+    "output": "Submit a completed 'Address Change Request Form' at any bank branch along with a self-attested photocopy of a valid address proof and the original document for verification.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Which documents are considered valid proof for an address update in bank records?",
+    "input": "",
+    "output": "Valid proofs include the Aadhaar Card, Passport, Voter ID, Driving License, or utility bills (electricity, water, or piped gas) that are not more than three months old.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the standard processing time for updating the address in the bank's database?",
+    "input": "",
+    "output": "Address update requests are typically processed within 7 working days after the successful verification of the submitted documents and identity of the account holder.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can an address be updated for a credit card account separately from the savings account?",
+    "input": "",
+    "output": "Address records are maintained at the Customer ID level; an update will reflect across all linked accounts, including savings, current, and credit card accounts.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "State the policy for using a rent agreement as proof for a change of address.",
+    "input": "",
+    "output": "A registered rent agreement is accepted as valid proof of address provided it is currently valid and contains the names of both the landlord and the account holder.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is an OTP required to finalize an address update through digital channels?",
+    "input": "",
+    "output": "Yes, for security and verification, a One-Time Password sent to the registered mobile number is mandatory to authenticate a digital address update request.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Detail the protocol for an NRI customer to update their overseas address.",
+    "input": "",
+    "output": "NRI customers must submit a signed request form along with notarized copies of their passport and overseas address proof to the bank's central processing unit.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is a confirmation provided once the address has been successfully updated?",
+    "input": "",
+    "output": "The bank sends an SMS and email confirmation to the registered contact details once the new address is updated in the core banking system.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What should be done if the desired address proof is in the name of a spouse?",
+    "input": "",
+    "output": "If the proof is in the spouse's name, the account holder must submit the proof along with a marriage certificate and a no-objection declaration from the spouse.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Define the procedure for updating the address for a corporate or business account.",
+    "input": "",
+    "output": "A written request on the entity's letterhead, signed by authorized signatories and supported by an updated GST certificate or shop act license, must be submitted at the branch.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can a customer update their address through an ATM?",
+    "input": "",
+    "output": "No, address updates cannot be performed at ATMs as they require the submission and verification of physical or digital supporting documents.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Describe the impact of an address change on the delivery of a new chequebook.",
+    "input": "",
+    "output": "Any chequebook requested after the address update is processed will be dispatched to the new communication address updated in the bank's records.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the requirement for updating the permanent address versus the communication address?",
+    "input": "",
+    "output": "A single request can update both, but separate proofs must be provided if the permanent and communication addresses are different.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Are digital address proofs from DigiLocker accepted for the update process?",
+    "input": "",
+    "output": "Yes, documents fetched directly from a verified DigiLocker account are accepted as valid evidence for an address update in accordance with digital KYC norms.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Identify the protocol for updating the address in a minor's account.",
+    "input": "",
+    "output": "The guardian must submit the request along with their own address proof or a proof in the minor's name to the branch where the account is maintained.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What occurs if the address proof submitted is found to be invalid?",
+    "input": "",
+    "output": "The request will be rejected, and the customer will be notified via SMS to submit a valid document as per the bank's list of accepted officially valid documents.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can an address be updated via the bank's 24/7 customer care helpline?",
+    "input": "",
+    "output": "No, address updates require document verification and cannot be processed over a phone call for security and regulatory reasons.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "State the rule for updating the address if the account is in 'Dormant' status.",
+    "input": "",
+    "output": "A dormant account must first undergo a full Re-KYC process at the branch, which includes updating the address, before it can be reactivated for transactions.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is there a limit on the number of times an address can be changed in a year?",
+    "input": "",
+    "output": "There is no limit on address changes, provided each request is supported by a valid officially valid document and passes the bank's verification process.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Explain the use of 'Aadhaar-based' address update via OTP.",
+    "input": "",
+    "output": "Customers can use the e-KYC facility in digital banking to pull their latest address from the UIDAI database using Aadhaar-linked OTP authentication.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What should a customer do if they do not have a utility bill in their own name?",
+    "input": "",
+    "output": "They may provide other accepted documents such as a valid Passport, Voter ID, or a registered leave and license agreement as proof of residence.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is a signature mismatch handled during a branch-based address update?",
+    "input": "",
+    "output": "If the signature on the request form does not match the specimen in the system, the customer must provide additional ID proof and sign in the presence of a bank officer.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Identify the protocol for address updates for joint account holders.",
+    "input": "",
+    "output": "Each joint holder must independently submit an address update request if they wish to change the address associated with their individual profile records.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  }
+]

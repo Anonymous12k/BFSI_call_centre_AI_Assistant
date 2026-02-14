@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Define the operational mechanism of the National Electronic Funds Transfer (NEFT) system.",
+    "input": "",
+    "output": "NEFT is a nationwide payment system that facilitates one-to-one funds transfer through a Deferred Net Settlement (DNS) basis, where transactions are processed in half-hourly batches.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "What is the minimum transaction amount required to initiate an RTGS transfer?",
+    "input": "",
+    "output": "The Real-Time Gross Settlement (RTGS) system is designed for high-value transactions and requires a mandatory minimum remittance amount of 2 lakh INR.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Describe the core characteristics of the Immediate Payment Service (IMPS).",
+    "input": "",
+    "output": "IMPS is an instant interbank electronic fund transfer service managed by the NPCI, providing 24x7 real-time settlement through mobile, internet, and ATM channels.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Explain the settlement process for RTGS transactions.",
+    "input": "",
+    "output": "RTGS transactions are settled individually on an order-by-order basis in real-time throughout the business hours in the books of the Reserve Bank of India.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "State the service availability hours for NEFT, RTGS, and IMPS.",
+    "input": "",
+    "output": "NEFT, RTGS, and IMPS systems are operational 24x7, 365 days a year, including weekends and bank holidays, for digital channel initiations.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "What is the maximum limit for a single IMPS transaction as per standard regulations?",
+    "input": "",
+    "output": "The standard maximum limit for a single IMPS transaction is 5 lakh INR, although individual banks may set lower limits based on their internal risk policies.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Identify the primary regulator for NEFT and RTGS payment systems in India.",
+    "input": "",
+    "output": "The National Electronic Funds Transfer (NEFT) and Real-Time Gross Settlement (RTGS) systems are owned and operated by the Reserve Bank of India (RBI).",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Detail the components of a 'Beneficiary' profile required for an electronic fund transfer.",
+    "input": "",
+    "output": "To register a beneficiary, the sender must provide the beneficiary's name, account number, account type, and the Indian Financial System Code (IFSC) of the destination branch.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Explain the concept of 'Deferred Net Settlement' in the NEFT system.",
+    "input": "",
+    "output": "Deferred Net Settlement means that transactions are bundled and settled at specific intervals in batches rather than being processed individually at the time of initiation.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Are there any upper limits for NEFT transactions initiated at a bank branch?",
+    "input": "",
+    "output": "There is no regulatory ceiling on the amount that can be transferred via NEFT; however, banks may impose internal limits based on the customer's account type and segment.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Compare the speed of settlement between NEFT and IMPS.",
+    "input": "",
+    "output": "IMPS provides instantaneous settlement 24x7, whereas NEFT settlements occur in 48 half-hourly batches daily, leading to a potential delay depending on the batch timing.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Describe the role of the IFSC in electronic fund transfers.",
+    "input": "",
+    "output": "The IFSC (Indian Financial System Code) is an 11-digit alphanumeric code used to uniquely identify specific bank branches participating in the NEFT and RTGS systems.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "State the policy regarding charges for NEFT and RTGS transactions initiated online.",
+    "input": "",
+    "output": "As per RBI directives, banks are mandated not to levy any charges on savings bank account holders for NEFT and RTGS transactions initiated through digital channels.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Identify the entity that manages and operates the IMPS platform.",
+    "input": "",
+    "output": "The Immediate Payment Service (IMPS) platform is managed and operated by the National Payments Corporation of India (NPCI).",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "What is the procedure for tracking a failed NEFT or RTGS transaction?",
+    "input": "",
+    "output": "Customers can track transactions using the Unique Transaction Reference (UTR) number provided at the time of initiation through their bank's customer service or digital portal.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Explain the 'Positive Pay' requirement for high-value electronic transfers.",
+    "input": "",
+    "output": "Positive Pay is a security mechanism where the remitter re-confirms essential details of high-value transactions to prevent fraud, often applied to transfers exceeding 5 lakh INR.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "What occurs if an RTGS or NEFT transfer is sent to an incorrect account number?",
+    "input": "",
+    "output": "The responsibility for providing correct account details lies with the remitter; if the details are incorrect but valid, the funds are credited to that account and recovery requires manual intervention.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Detail the return timeline for failed NEFT transactions.",
+    "input": "",
+    "output": "If an NEFT transaction cannot be credited to the beneficiary's account, the destination bank must return the funds to the remitting bank within two hours of the batch settlement.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Define the Unique Transaction Reference (UTR) number.",
+    "input": "",
+    "output": "A UTR is a unique code generated by the banking system for every NEFT and RTGS transaction to facilitate identification and tracking across the banking network.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "How does the 'MMID' relate to IMPS transactions?",
+    "input": "",
+    "output": "Mobile Money Identifier (MMID) is a 7-digit unique number linked to a bank account that allows users to receive funds via IMPS using only their mobile number and MMID.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Can RTGS be used for international fund transfers?",
+    "input": "",
+    "output": "No, RTGS is strictly an intra-day domestic payment system for transfers within India; international transfers require the SWIFT network and compliance with FEMA regulations.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Identify the fields required in a physical RTGS application form at a branch.",
+    "input": "",
+    "output": "The form requires the remitter details, amount to be transferred, beneficiary name, bank, branch, IFSC, and account number, along with the remitter's signature.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Describe the impact of bank holidays on IMPS processing.",
+    "input": "",
+    "output": "IMPS processing is unaffected by bank holidays, as it is a fully automated 24x7 system that operates independently of manual bank branch operations.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "What is the maximum limit for a cash-based NEFT transfer for non-customers?",
+    "input": "",
+    "output": "Walk-in customers without a bank account can initiate NEFT transfers up to 50,000 INR per transaction by providing full identification and address details.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  },
+  {
+    "instruction": "Explain the 'Real-Time' aspect of the RTGS system.",
+    "input": "",
+    "output": "Real-time means the processing of instructions at the time they are received rather than at some later time, ensuring immediate movement of funds between bank accounts.",
+    "intent_id": "NEFT_RTGS_IMPS_INFO"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the Average Monthly Balance (AMB) requirement for a regular savings account?",
+    "input": "",
+    "output": "The AMB requirement for a regular savings account is 10,000 INR for urban branches, 5,000 INR for semi-urban, and 2,500 INR for rural branches.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "How is the Average Monthly Balance calculated?",
+    "input": "",
+    "output": "AMB is calculated by adding the daily closing balances of the account for each day of the month and dividing the sum by the total number of days in that month.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "What are the penalties for failing to maintain the minimum balance?",
+    "input": "",
+    "output": "Non-maintenance of the required balance attracts a monthly penal charge based on the percentage of shortfall from the required average balance.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Are there any savings accounts with zero minimum balance requirements?",
+    "input": "",
+    "output": "Yes, Basic Savings Bank Deposit Accounts (BSBDA) and Salary Accounts are zero-balance accounts and do not attract any non-maintenance charges.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "What is the minimum balance rule for a premium or gold savings account?",
+    "input": "",
+    "output": "Premium accounts require a significantly higher Average Monthly Balance, typically starting from 50,000 INR or above, depending on the account tier.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Does the bank provide a grace period to restore the minimum balance?",
+    "input": "",
+    "output": "The bank provides a notification regarding the shortfall, and no charges are levied if the balance is restored within 30 days of the shortfall occurrence.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Is the minimum balance requirement different for senior citizen accounts?",
+    "input": "",
+    "output": "Senior citizen accounts often feature reduced AMB requirements compared to regular savings accounts to facilitate ease of banking for elderly customers.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "What is the minimum balance requirement for a Current Account?",
+    "input": "",
+    "output": "Current accounts generally require a higher Average Monthly Balance, starting from a minimum of 10,000 INR to 1,00,000 INR based on the product variant.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "How do non-maintenance charges affect the account status?",
+    "input": "",
+    "output": "Persistent non-maintenance of balance and subsequent penal charges can result in a negative balance and may lead to the eventual freezing of the account.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Can an account be converted to a zero-balance account?",
+    "input": "",
+    "output": "A regular savings account cannot be converted to a zero-balance account; a new BSBDA or salary account must be opened for that purpose.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Are students exempt from minimum balance requirements?",
+    "input": "",
+    "output": "Student-specific account variants often come with zero-balance or very low AMB requirements until the student reaches the age of majority or completes their course.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "What is the rule for the 'Average Quarterly Balance' (AQB)?",
+    "input": "",
+    "output": "Some legacy account variants use AQB, which is calculated by averaging the daily closing balances over a three-month period instead of a single month.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Does a Fixed Deposit linked to the account waive the minimum balance rule?",
+    "input": "",
+    "output": "In 'Total Asset Value' (TAV) based accounts, maintaining a high-value Fixed Deposit can exempt the linked savings account from AMB requirements.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Are taxes applicable on the non-maintenance penal charges?",
+    "input": "",
+    "output": "Yes, all penal charges for non-maintenance of minimum balance are subject to GST at the prevailing statutory rate.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Identify the minimum balance for NRI NRE/NRO accounts.",
+    "input": "",
+    "output": "NRI accounts typically require a minimum Average Monthly Balance of 10,000 INR to be maintained in the account to avoid service charges.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "How are customers notified about the calculation of AMB charges?",
+    "input": "",
+    "output": "Details of AMB calculations and any levied charges are itemized in the monthly account statement provided to the customer via email or post.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Does the minimum balance rule apply to minor accounts?",
+    "input": "",
+    "output": "Minor accounts may have waived or reduced minimum balance requirements depending on the specific 'Kid's Account' variant chosen at the time of opening.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "What is the maximum penal charge for non-maintenance of balance?",
+    "input": "",
+    "output": "The penal charge is capped at a maximum amount specified in the bank's Tariff Schedule and cannot exceed the actual shortfall amount in the account.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Can a customer dispute an AMB charge?",
+    "input": "",
+    "output": "Customers can dispute a charge if they believe the calculation is incorrect by presenting their bank statement at the home branch for a manual review.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "What happens if a salary account stops receiving salary credits?",
+    "input": "",
+    "output": "If no salary is credited for three consecutive months, the account is converted into a regular savings account and standard AMB rules will apply.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Is the minimum balance requirement linked to the debit card type?",
+    "input": "",
+    "output": "While not directly linked, premium debit cards are usually bundled with account variants that have higher minimum balance requirements.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Are pension accounts subject to minimum balance rules?",
+    "input": "",
+    "output": "Pension accounts (where pension is credited via DBT) are generally treated as zero-balance accounts and are exempt from AMB maintenance charges.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Define the 'Minimum Initial Deposit' vs 'Monthly Average Balance'.",
+    "input": "",
+    "output": "The initial deposit is the one-time amount required to open the account, while AMB is the ongoing balance requirement to be maintained every month.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Are charges for non-maintenance of balance applicable to 'Dormant' accounts?",
+    "input": "",
+    "output": "Charges are generally not levied on accounts that have been classified as 'Inoperative' or 'Dormant' to prevent the balance from becoming negative.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  },
+  {
+    "instruction": "Does the bank waive AMB charges for employees of certain companies?",
+    "input": "",
+    "output": "AMB charges are waived for employees whose organizations have a corporate salary tie-up with the bank, regardless of the monthly balance.",
+    "intent_id": "ACCOUNT_MINIMUM_BALANCE_RULES"
+  }
+]

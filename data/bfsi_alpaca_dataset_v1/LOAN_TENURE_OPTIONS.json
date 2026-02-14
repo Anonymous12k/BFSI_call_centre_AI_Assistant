@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the available tenure ranges for personal loans?",
+    "input": "",
+    "output": "Personal loans offer flexible repayment periods ranging from a minimum of 12 months to a maximum of 60 months, depending on the applicant's credit profile.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Identify the maximum repayment duration for a home loan.",
+    "input": "",
+    "output": "The maximum tenure for a home loan is 30 years, provided the loan maturity does not exceed the applicant's retirement age or 60 years for salaried individuals.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "State the minimum and maximum terms for a car loan.",
+    "input": "",
+    "output": "Automobile loans are structured with a minimum tenure of 1 year and a maximum tenure of up to 7 years for new vehicle purchases.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What is the standard repayment period for a two-wheeler loan?",
+    "input": "",
+    "output": "Two-wheeler loans typically provide repayment options starting from 12 months and extending up to a maximum of 48 months.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Detail the tenure constraints for a Loan Against Property.",
+    "input": "",
+    "output": "A Loan Against Property (LAP) can be repaid over a period ranging from 2 years to a maximum of 15 years, subject to property age and applicant profile.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What are the tenure options for a business loan?",
+    "input": "",
+    "output": "Unsecured business loans generally offer repayment terms between 12 months and 36 months, while secured business loans may extend up to 60 months.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Define the maximum allowed term for an education loan.",
+    "input": "",
+    "output": "Education loans offer a repayment tenure of up to 15 years, which begins after the completion of the course and the applicable moratorium period.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Can a borrower choose a tenure of less than 12 months for a personal loan?",
+    "input": "",
+    "output": "The minimum mandatory tenure for a personal loan is 12 months; durations shorter than this period are not supported under standard product guidelines.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What is the maximum repayment window for a gold loan?",
+    "input": "",
+    "output": "Gold loans are short-term credit facilities with repayment tenures ranging from 3 months to a maximum of 12 months.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Identify the tenure limits for a used car loan.",
+    "input": "",
+    "output": "Used car loans offer a maximum tenure of 5 years, provided the age of the vehicle at the time of loan maturity does not exceed 10 years.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Explain the tenure impact of the applicant's age at maturity.",
+    "input": "",
+    "output": "The selected loan tenure must ensure that the applicant's age does not exceed 60 years for salaried or 65 years for self-employed individuals at the end of the term.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What are the repayment term options for a commercial vehicle loan?",
+    "input": "",
+    "output": "Commercial vehicle loans are typically sanctioned for a period ranging from 12 months to a maximum of 60 months.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Are there specific tenure caps for short-term bridge loans?",
+    "input": "",
+    "output": "Bridge loans are strictly short-term products with a maximum tenure capped at 12 to 24 months, depending on the underlying security.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Specify the tenure for microfinance or small ticket loans.",
+    "input": "",
+    "output": "Small ticket personal loans or micro-loans carry a repayment duration typically ranging from 6 months to 24 months.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What is the maximum term for a home improvement loan?",
+    "input": "",
+    "output": "Home improvement or renovation loans allow for a maximum repayment period of 15 years, subject to technical evaluation of the property.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Detail the moratorium period inclusion in education loan tenures.",
+    "input": "",
+    "output": "The education loan tenure includes the course duration plus a grace period of 6 months to 1 year before the principal repayment tenure starts.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What are the tenure variations for doctors applying for professional loans?",
+    "input": "",
+    "output": "Professional loans for doctors offer extended repayment tenures of up to 84 months, depending on the loan amount and specialization.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "List the tenure steps available for repayment schedules.",
+    "input": "",
+    "output": "Loan tenures are available in monthly increments, allowing borrowers to select any duration within the minimum and maximum product limits.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Is there a maximum tenure for an overdraft facility?",
+    "input": "",
+    "output": "Overdraft facilities are usually sanctioned for a tenure of 12 months, with an annual renewal process based on account conduct.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What is the maximum tenure for a rural housing loan?",
+    "input": "",
+    "output": "Rural housing loans offer repayment options up to a maximum of 20 years, provided all regulatory and income criteria are met.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "How long can a consumer durable loan be extended?",
+    "input": "",
+    "output": "Consumer durable loans for electronics or appliances typically have a short repayment cycle ranging from 3 months to 24 months.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Define the tenure for a loan against fixed deposits.",
+    "input": "",
+    "output": "The tenure for a loan against a fixed deposit cannot exceed the residual maturity period of the underlying deposit receipt.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What are the tenure options for a startup business loan?",
+    "input": "",
+    "output": "Startup business loans under government schemes typically offer tenures of 3 to 5 years, including any applicable moratorium.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "What is the maximum term for a plot purchase loan?",
+    "input": "",
+    "output": "Loans for the purchase of a residential plot are generally restricted to a maximum repayment tenure of 15 years.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  },
+  {
+    "instruction": "Identify the tenure for an MSME machinery loan.",
+    "input": "",
+    "output": "Machinery and equipment loans for MSMEs are structured with repayment terms ranging from 3 years to 7 years.",
+    "intent_id": "LOAN_TENURE_OPTIONS"
+  }
+]

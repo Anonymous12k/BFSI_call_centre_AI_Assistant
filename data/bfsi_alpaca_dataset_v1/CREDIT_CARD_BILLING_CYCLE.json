@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Define the standard duration of a credit card billing cycle.",
+    "input": "",
+    "output": "A standard credit card billing cycle typically spans a period of 28 to 31 days, during which all settled transactions are recorded for statement generation.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Explain the concept of a statement date in the billing process.",
+    "input": "",
+    "output": "The statement date is the specific day each month when the billing cycle concludes and the total outstanding balance for that period is calculated.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How is the payment due date determined relative to the billing cycle?",
+    "input": "",
+    "output": "The payment due date is generally set 20 to 25 days after the statement generation date, representing the interest-free grace period for the current cycle.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "What is the policy regarding transactions made on the statement date?",
+    "input": "",
+    "output": "Transactions made on the statement date may be included in the current billing cycle or carried over to the next cycle depending on the merchant's settlement timing.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Describe the interest-free period associated with a billing cycle.",
+    "input": "",
+    "output": "The interest-free period is the duration between the date of a transaction and the payment due date, provided the previous month's total outstanding was paid in full.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "What occurs if a billing cycle ends on a weekend or public holiday?",
+    "input": "",
+    "output": "If a billing cycle concludes on a non-working day, the statement is generated on that day, but physical dispatch or digital updates may occur on the next business day.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How does the billing cycle affect the calculation of the Minimum Amount Due?",
+    "input": "",
+    "output": "The Minimum Amount Due is calculated at the end of each billing cycle as a fixed percentage of the total outstanding balance plus any applicable taxes and fees.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Outline the procedure for changing a credit card billing cycle date.",
+    "input": "",
+    "output": "A request to change the billing cycle date can be submitted once per calendar year, subject to the account being in good standing and having no past-due balances.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How are merchant refunds treated within a billing cycle?",
+    "input": "",
+    "output": "Merchant refunds are credited to the account on the date of receipt and will reduce the outstanding balance of the billing cycle in which the refund is processed.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Explain the impact of the billing cycle on credit limit utilization.",
+    "input": "",
+    "output": "Credit limit utilization is reported to credit bureaus based on the total outstanding balance reflected at the close of the monthly billing cycle.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "What defines the start date of a new billing cycle?",
+    "input": "",
+    "output": "The start date of a new billing cycle is the day immediately following the statement date of the previous billing period.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Are cash advances included in the standard billing cycle interest-free period?",
+    "input": "",
+    "output": "Cash advances are recorded within the billing cycle but do not qualify for an interest-free period; interest accrues from the date of withdrawal until full repayment.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Detail the components of a billing cycle summary.",
+    "input": "",
+    "output": "A billing cycle summary includes the opening balance, new purchases, cash advances, payments made, credits received, finance charges, and the closing balance.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How does a billing cycle change affect the interest-free duration?",
+    "input": "",
+    "output": "Modifying the billing cycle date will result in a one-time shortened or extended cycle, proportionally adjusting the interest-free duration for that specific period.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "What is the frequency of credit card statement generation?",
+    "input": "",
+    "output": "Statements are generated once every billing cycle, provided there has been transaction activity or an outstanding balance on the account during that month.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Explain how annual fees are billed in relation to the cycle.",
+    "input": "",
+    "output": "Annual fees are charged to the account and reflected in the billing statement of the anniversary month of the card issuance or renewal.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Does the billing cycle remain constant every month?",
+    "input": "",
+    "output": "The billing cycle date remains constant each month, although the number of days within the cycle may vary depending on the total days in the calendar month.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How are international transactions processed in a billing cycle?",
+    "input": "",
+    "output": "International transactions are converted to local currency and billed in the cycle corresponding to the date the transaction was settled by the merchant.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Identify the relationship between the billing cycle and rewards points.",
+    "input": "",
+    "output": "Reward points earned on eligible transactions are calculated at the end of the billing cycle and updated in the rewards ledger after the statement is generated.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "What happens to unpaid balances at the end of a billing cycle?",
+    "input": "",
+    "output": "Any portion of the balance that remains unpaid after the due date is carried forward to the next billing cycle and is subject to applicable interest charges.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Can a billing cycle be temporarily suspended?",
+    "input": "",
+    "output": "A billing cycle cannot be suspended; statements will continue to be generated as long as the credit card account remains open and active.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "Specify the treatment of EMI installments in the billing cycle.",
+    "input": "",
+    "output": "Monthly EMI installments are posted as a debit entry on the statement date and are included in the total amount due for that specific billing cycle.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How is the 'Grace Period' defined within the billing framework?",
+    "input": "",
+    "output": "The grace period is the timeframe between the end of a billing cycle and the payment due date where no interest is charged on new purchases.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "What is the policy for billing cycles on newly issued cards?",
+    "input": "",
+    "output": "For newly issued cards, the first billing cycle may be longer or shorter than 30 days, depending on the date of card activation and the assigned system date.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  },
+  {
+    "instruction": "How does the billing cycle impact late payment fee application?",
+    "input": "",
+    "output": "A late payment fee is levied if the Minimum Amount Due is not received by the bank before the close of business on the payment due date of the cycle.",
+    "intent_id": "CREDIT_CARD_BILLING_CYCLE"
+  }
+]

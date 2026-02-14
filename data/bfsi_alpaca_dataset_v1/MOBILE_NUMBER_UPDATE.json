@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the primary methods for updating a registered mobile number in a bank account?",
+    "input": "",
+    "output": "The registered mobile number can be updated by visiting a bank ATM, using a self-service kiosk, or by submitting a physical request form at the home branch.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Outline the procedure for changing a mobile number at a bank ATM.",
+    "input": "",
+    "output": "Insert the debit card, enter the PIN, navigate to the 'Registration' or 'Profile Update' menu, select 'Mobile Number Update', and enter the new 10-digit mobile number.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Explain the process of updating a mobile number through a branch visit.",
+    "input": "",
+    "output": "The account holder must submit a signed 'Customer Details Update Form' along with a self-attested copy of a valid photo identity proof for in-person verification.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "What is the processing timeline for a mobile number update request?",
+    "input": "",
+    "output": "Requests made through an ATM are typically processed within 24 hours, while branch-based requests may take up to 48 working hours for system synchronization.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Can a mobile number be updated online through the net banking portal?",
+    "input": "",
+    "output": "For security reasons, mobile number updates usually require physical authentication at an ATM or branch; however, some accounts permit online updates if the old number is still active for OTP verification.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Is it possible to change a registered mobile number via a phone call to customer care?",
+    "input": "",
+    "output": "No, mobile number updates cannot be performed over the phone; this restriction is in place to prevent unauthorized access and ensure the security of the account.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "What documentation is required to update a mobile number if the old SIM card is lost?",
+    "input": "",
+    "output": "The customer must visit the branch with an original officially valid document (OVD) like an Aadhaar card or Passport to perform a manual identity verification.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "How is a mobile number updated for a joint bank account?",
+    "input": "",
+    "output": "Each joint holder must independently update their specific mobile number associated with their Customer ID by visiting a branch or using an ATM with their respective debit card.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Describe the 'Double OTP' verification method for mobile number changes.",
+    "input": "",
+    "output": "If updating via digital channels, the system may send a One-Time Password to both the old and the new mobile numbers to confirm the legitimacy of the request.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Are there any service charges for modifying the registered mobile number?",
+    "input": "",
+    "output": "The bank does not levy any fees or service charges for updating or registering a new mobile number in the account records.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "What happens to SMS alerts after a mobile number is successfully updated?",
+    "input": "",
+    "output": "Once the update is finalized, all transaction alerts, OTPs, and bank communications will be immediately redirected to the new registered mobile number.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Identify the protocol for updating a mobile number on a corporate account.",
+    "input": "",
+    "output": "The authorized signatory must submit a written request on the company letterhead, including the board resolution or mandate, at the branch where the account is held.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Can an NRI customer update their international mobile number remotely?",
+    "input": "",
+    "output": "NRI customers can update their international mobile number by submitting a notarized request form via post or through the secure international net banking portal.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "What should a customer do if they receive an SMS about a mobile number change they did not request?",
+    "input": "",
+    "output": "The customer must immediately contact the bank's emergency helpline or visit a branch to report the unauthorized request and freeze the account for protection.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "How can I verify if my new mobile number has been successfully registered?",
+    "input": "",
+    "output": "A confirmation SMS is sent to both the old and new numbers; additionally, the updated number will be reflected in the 'Profile' section of the mobile app.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Is a debit card mandatory for updating a mobile number at an ATM?",
+    "input": "",
+    "output": "Yes, a valid debit card and the correct ATM PIN are required to authenticate the account holder before the system permits a mobile number modification.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Define the impact of a mobile number update on third-party UPI applications.",
+    "input": "",
+    "output": "After updating the number with the bank, the customer must re-register on UPI applications and complete the device binding process with the new mobile number.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Can a mobile number be updated for a minor's account?",
+    "input": "",
+    "output": "The natural or legal guardian must visit the branch to update the mobile number associated with the minor’s account, providing their own identity proof as the operator.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Does updating the mobile number also update the records for linked credit cards?",
+    "input": "",
+    "output": "Yes, if the credit card is mapped to the same Customer ID, the mobile number update will automatically apply to all linked banking products and services.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "What is the maximum number of times a mobile number can be changed in a year?",
+    "input": "",
+    "output": "There is no official limit on the number of updates, but frequent changes may trigger internal security reviews or manual verification calls from the bank.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "How is a mobile number update handled for a dormant account?",
+    "input": "",
+    "output": "The customer must first reactivate the dormant account by completing the Re-KYC process at the branch before any contact details can be modified in the system.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Can a mobile number be updated via the bank's official WhatsApp banking channel?",
+    "input": "",
+    "output": "WhatsApp banking can provide information on the update procedure, but the actual change must be conducted via a secure ATM, branch visit, or the official mobile app.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Is an original ID proof required for a mobile number update at the branch?",
+    "input": "",
+    "output": "Yes, the original identity document must be presented for verification against the self-attested photocopy submitted with the request form at the branch.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "State the procedure for updating a mobile number if the account holder is physically incapacitated.",
+    "input": "",
+    "output": "In such cases, a legally authorized representative with a Power of Attorney (PoA) can visit the branch to submit the request, subject to the bank’s legal verification.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "Will I continue to receive OTPs on my old number during the processing period?",
+    "input": "",
+    "output": "Until the new number is fully activated in the bank's database, OTPs will continue to be sent to the old registered mobile number.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  }
+]

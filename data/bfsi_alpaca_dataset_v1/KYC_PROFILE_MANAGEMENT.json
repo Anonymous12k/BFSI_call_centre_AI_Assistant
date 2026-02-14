@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for updating the permanent address in a bank account?",
+    "input": "",
+    "output": "To update an address, the holder must submit a request via net banking or at a branch along with a valid officially valid document (OVD) as proof of the new residence.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Outline the steps to change the registered mobile number in bank records.",
+    "input": "",
+    "output": "Mobile number updates must be completed at a bank ATM using the 'Profile Update' menu or by submitting a physical request form at the home branch for security verification.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "How can a customer update their email address through the mobile app?",
+    "input": "",
+    "output": "Log in to the app, go to 'Profile Settings', select 'Edit Email', enter the new address, and authenticate the change using the OTP sent to the registered mobile number.",
+    "intent_id": "EMAIL_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Describe the process for completing periodic KYC through digital channels.",
+    "input": "",
+    "output": "Periodic KYC can be updated via the 'Re-KYC' link in net banking by uploading digital copies of identity and address proofs followed by a Video-KYC call.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What documents are accepted for proof of identity during a KYC update?",
+    "input": "",
+    "output": "Accepted documents for identity proof include a valid Passport, Aadhaar Card, Voter ID, Driving License, or NREGA Job Card.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Explain the procedure for updating the nominee details in a savings account.",
+    "input": "",
+    "output": "Nominee details can be updated by submitting Form DA-1 at a branch or by using the 'Add/Modify Nominee' feature available in the 'Account Services' section of net banking.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How is a customer's risk profile used in the KYC management process?",
+    "input": "",
+    "output": "The bank categorizes customers as low, medium, or high risk, which determines the frequency of mandatory periodic KYC updates required by regulatory guidelines.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "State the timeline for the processing of a name change request in a bank account.",
+    "input": "",
+    "output": "Name change requests are processed within 7 to 10 working days after the submission of a gazette notification or marriage certificate and fresh KYC documents.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Can a customer update their PAN details online?",
+    "input": "",
+    "output": "Yes, PAN details can be updated through the 'Profile' section of net banking by entering the PAN and uploading a scanned copy of the card for verification.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the requirement for updating the 'FATCA/CRS' declaration?",
+    "input": "",
+    "output": "All account holders must provide a self-certification of their tax residency status to comply with international tax reporting and anti-money laundering regulations.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Describe the 'In-Person Verification' (IPV) requirement for KYC.",
+    "input": "",
+    "output": "IPV requires a bank official to verify the applicant's identity against original documents, either through a physical meeting or a secure live video interface.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How do I update my employment or occupation details in the bank profile?",
+    "input": "",
+    "output": "Occupation details can be modified in the 'Personal Profile' section of the mobile app or net banking portal by selecting the appropriate category from the dropdown menu.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Identify the consequences of failing to complete a mandatory Re-KYC update.",
+    "input": "",
+    "output": "Failure to complete Re-KYC may lead to a temporary restriction on account operations, including the inability to withdraw funds or make payments until compliance is met.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can a power of attorney holder update the KYC details of the primary account holder?",
+    "input": "",
+    "output": "A PoA holder can update KYC details only if the legal document specifically grants them the authority to manage administrative changes on behalf of the account holder.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for updating the signature in the bank's records?",
+    "input": "",
+    "output": "To update a signature, the customer must visit the home branch in person, provide a fresh specimen on a signature card, and have it verified by an authorized officer.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How can I verify my current registered profile information?",
+    "input": "",
+    "output": "The current profile details, including address, mobile number, and email, are viewable under the 'My Profile' or 'Personal Details' tab in the mobile banking app.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What are the rules for updating the KYC of a minor who has turned eighteen?",
+    "input": "",
+    "output": "Once a minor becomes a major, they must submit fresh KYC documents, a new signature specimen, and a passport-sized photograph to convert the account to 'Major' status.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Explain the 'Central KYC Registry' (CKYCR) and its relevance to profile management.",
+    "input": "",
+    "output": "CKYCR is a centralized repository of KYC records; once registered, customers can use their unique CKYC identifier to facilitate account opening at other financial institutions.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Can I update the communication address for a specific credit card only?",
+    "input": "",
+    "output": "Address updates are generally applied at the Customer ID level, meaning the change will reflect across all linked savings, current, and credit card accounts.",
+    "intent_id": "ADDRESS_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "What proof is required to update the date of birth in bank records?",
+    "input": "",
+    "output": "A birth certificate, valid Passport, or a matriculation certificate are accepted as valid proof for correcting or updating the date of birth in the bank profile.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How does the bank handle profile updates for NRI customers?",
+    "input": "",
+    "output": "NRI customers must submit notarized copies of their updated KYC documents via post to the central processing center or through the bank's online NRI portal.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Detail the protocol for updating the 'Marital Status' in the profile.",
+    "input": "",
+    "output": "Marital status can be updated online through the profile management section of net banking; no supporting documentation is usually required for this specific update.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "Is there a limit on how many times I can update my mobile number in a year?",
+    "input": "",
+    "output": "There is no fixed limit, but frequent changes to the registered mobile number may trigger additional security checks and verification calls from the bank.",
+    "intent_id": "MOBILE_NUMBER_UPDATE"
+  },
+  {
+    "instruction": "What is the 'Aadhaar Seeding' process in profile management?",
+    "input": "",
+    "output": "Aadhaar seeding involves linking the Aadhaar number to the bank account to enable direct benefit transfers (DBT) and fulfill regulatory identity verification requirements.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  },
+  {
+    "instruction": "How can I update my communication preferences for marketing and alerts?",
+    "input": "",
+    "output": "Communication preferences, including DND registration and alert settings, can be managed in the 'Settings' or 'Preferences' menu of the mobile banking app.",
+    "intent_id": "KYC_UPDATE_PROCESS"
+  }
+]

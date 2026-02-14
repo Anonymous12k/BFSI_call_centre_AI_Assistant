@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the standard processing fee for a personal loan application?",
+    "input": "",
+    "output": "The standard processing fee for personal loans is a one-time charge ranging from 1% to 3% of the total sanctioned loan amount, plus applicable statutory taxes.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Are processing fees refundable if the loan application is rejected?",
+    "input": "",
+    "output": "Processing fees are non-refundable administrative charges collected to cover the costs of credit appraisal and technical verification, regardless of the final loan decision.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Does the bank charge a flat fee or a percentage for home loan processing?",
+    "input": "",
+    "output": "Home loan processing fees typically consist of a non-refundable login fee followed by a percentage of the loan amount, capped at a predefined maximum limit.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Explain the tax implications on loan processing charges.",
+    "input": "",
+    "output": "All loan processing fees are subject to Goods and Services Tax (GST) at the prevailing regulatory rate, which is calculated over and above the base fee amount.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "When is the loan processing fee collected during the application cycle?",
+    "input": "",
+    "output": "The processing fee is either collected upfront at the time of document submission or deducted from the final loan disbursement amount as per the product policy.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Detail the processing charges for a business loan.",
+    "input": "",
+    "output": "Business loan processing fees are determined by the credit facility type and usually range between 2% and 4% of the approved limit plus GST.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Are there any administrative fees for car loan processing?",
+    "input": "",
+    "output": "Car loan applications incur a processing fee that covers credit bureau reports, documentation, and vehicle valuation costs, generally starting from a fixed minimum base.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "What constitutes the 'Login Fee' in a mortgage application?",
+    "input": "",
+    "output": "The login fee is the initial portion of the processing fee required to initiate the legal and technical valuation of the property offered as collateral.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Is the processing fee the same for existing bank customers?",
+    "input": "",
+    "output": "Processing fees follow a standardized schedule of charges, though existing customers may be subject to specific fee brackets defined in the annual schedule of charges.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Can the processing fee be paid via credit card?",
+    "input": "",
+    "output": "Processing fees can be paid through various digital channels, including net banking, debit cards, or account transfers, according to the bank's payment guidelines.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Are there additional charges beyond the processing fee for education loans?",
+    "input": "",
+    "output": "Education loans involve a processing fee and may include additional statutory costs such as stamp duty and insurance premiums where applicable.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "What is the fee structure for a loan against securities?",
+    "input": "",
+    "output": "Processing fees for loans against securities are typically lower than unsecured products and are calculated based on the sanctioned overdraft limit.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Does a top-up loan involve a new processing fee?",
+    "input": "",
+    "output": "Yes, top-up loans are treated as fresh credit increments and are subject to processing fees on the additional amount sanctioned as per current rates.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "List the processing fee for a gold loan.",
+    "input": "",
+    "output": "Gold loan processing fees are often nominal or fixed, covering the valuation of gold ornaments and the secure storage of the collateral.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "How is the processing fee calculated for a micro-loan?",
+    "input": "",
+    "output": "For micro-loans, the processing fee is a fixed percentage of the principal, regulated by the ceiling limits set by financial authorities.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Is the GST on processing fees adjustable?",
+    "input": "",
+    "output": "GST on processing fees is a statutory levy paid to the government and is not adjustable or refundable by the financial institution.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "What are the documentation charges apart from processing fees?",
+    "input": "",
+    "output": "Documentation charges cover the cost of stamping and notarizing the loan agreement and are separate from the bank's internal processing fees.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Is there a maximum cap on processing fees for large corporate loans?",
+    "input": "",
+    "output": "Large corporate loans often have a negotiated fee structure that is subject to a maximum cap as defined in the bank’s internal credit policy documents.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Do government-sponsored loan schemes have processing fees?",
+    "input": "",
+    "output": "Processing fees for government-sponsored schemes are often waived or significantly reduced according to the specific scheme guidelines and social mandates.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Is the processing fee charged annually or once?",
+    "input": "",
+    "output": "The processing fee is a one-time upfront charge levied at the time of loan commencement and is not an annually recurring cost.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "What is the fee for an agricultural loan application?",
+    "input": "",
+    "output": "Agricultural loan processing fees are structured based on the loan limit and the specific category of the agricultural credit product applied for.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Can the processing fee be added to the loan amount?",
+    "input": "",
+    "output": "The processing fee is generally a separate charge; however, in certain products, it may be capitalized and included in the total loan liability at the bank's discretion.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Are processing fees applicable to loan renewals?",
+    "input": "",
+    "output": "Loan renewals or credit limit extensions are subject to renewal fees, which are calculated based on the total credit limit being renewed.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "What is the processing fee for a commercial vehicle loan?",
+    "input": "",
+    "output": "Commercial vehicle loan processing fees range between 1% and 2% of the loan amount, covering credit checks and vehicle inspection costs.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  },
+  {
+    "instruction": "Where can I find the official schedule of processing fees?",
+    "input": "",
+    "output": "The official schedule of charges, including all processing fees, is available in the 'Tariff Schedule' section of the bank's website and at all branch offices.",
+    "intent_id": "LOAN_PROCESSING_FEES"
+  }
+]

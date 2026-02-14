@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the various channels available for the payment of insurance premiums through the bank?",
+    "input": "",
+    "output": "Insurance premiums can be paid via the mobile banking app, the net banking portal, standing instructions, or by visiting a bank branch for a manual transaction.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Outline the procedure for setting up a standing instruction for recurring insurance premiums.",
+    "input": "",
+    "output": "To set up a standing instruction, the account holder must log in to net banking, navigate to 'Payments', select 'Standing Instructions', and provide the policy and debit details.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Explain how to pay an insurance premium using the mobile banking application.",
+    "input": "",
+    "output": "Open the mobile app, select the 'Bill Pay' or 'Insurance' section, choose the insurance provider, enter the policy number, and confirm the payment amount via OTP.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Can insurance premiums be settled at a bank ATM?",
+    "input": "",
+    "output": "Select bank ATMs offer a 'Bill Pay' feature where cardholders can enter their policy details and pay the premium directly from their linked bank account.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Describe the process of paying premiums via the bank's net banking portal.",
+    "input": "",
+    "output": "Log in to net banking, navigate to 'Bill Payments', register the insurance company as a biller, and proceed to pay the premium after fetching the due amount.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Is it possible to pay insurance premiums using a credit card through the bank's gateway?",
+    "input": "",
+    "output": "Yes, the bank's digital payment gateway supports the use of credit cards for premium payments, subject to the specific terms of the insurance provider.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "What is the procedure for paying insurance premiums at a physical branch?",
+    "input": "",
+    "output": "The customer must submit a cheque or a debit mandate along with the premium notice or policy details at the branch counter for processing.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Define the NACH mandate facility for insurance premium collection.",
+    "input": "",
+    "output": "The National Automated Clearing House (NACH) mandate allows the insurer to automatically debit the premium from the customer's bank account on the scheduled due dates.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "How are premiums for social security schemes like PMJJBY debited?",
+    "input": "",
+    "output": "Premiums for PMJJBY and PMSBY are automatically debited from the registered savings account annually between May 25 and May 31.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Can a customer use the UPI facility to pay their insurance premiums through the bank app?",
+    "input": "",
+    "output": "Yes, the bank's mobile app integrates UPI, allowing users to pay premiums by scanning a QR code or entering the insurer's Virtual Payment Address (VPA).",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "What is the requirement for paying premiums for an international insurance policy?",
+    "input": "",
+    "output": "International premiums must be paid through authorized outward remittance channels or specialized NRI banking portals in compliance with FEMA regulations.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Detail the protocol for paying premiums using the bank's 'Quick Pay' feature.",
+    "input": "",
+    "output": "'Quick Pay' allows users to pay premiums on the bank's website by entering the policy number and date of birth without requiring a full net banking login.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Are there any service charges for paying insurance premiums through digital channels?",
+    "input": "",
+    "output": "The bank generally does not levy additional service charges for premium payments made via its digital platforms, though third-party gateway fees may apply.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "How can a customer verify that their premium payment was successful?",
+    "input": "",
+    "output": "A successful payment is confirmed via an immediate digital receipt, an SMS notification, and an entry in the account's transaction statement.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Explain the use of 'e-Wallet' integration for insurance payments.",
+    "input": "",
+    "output": "Customers can link their bank-affiliated e-wallets to the insurer's portal to facilitate instant premium payments using stored balances.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "State the procedure for paying premiums for an offline insurance policy via the bank.",
+    "input": "",
+    "output": "For offline policies, the customer can use the 'Biller' registration service in net banking by providing the policy's unique reference number.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Is an OTP required for every insurance premium payment made online?",
+    "input": "",
+    "output": "Yes, for security and authentication, a One-Time Password (OTP) sent to the registered mobile number is required to finalize all digital premium payments.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Can a customer pay premiums for someone else's policy through their bank account?",
+    "input": "",
+    "output": "Yes, a customer can pay premiums for third-party policies by providing the correct policy number and insurer details through the bank's biller service.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "What happens if a premium payment is made after the grace period?",
+    "input": "",
+    "output": "Payments made after the grace period may result in the policy lapsing, and the insurer may require a health declaration or late fees to reinstate the cover.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Identify the protocol for reversing a duplicate premium payment.",
+    "input": "",
+    "output": "If a duplicate payment occurs, the customer must contact the insurance provider directly with the transaction reference IDs to initiate a refund or adjustment.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "How does a customer update the bank account linked for automated premium debits?",
+    "input": "",
+    "output": "The customer must submit a fresh NACH mandate or update the standing instruction details through the 'Manage Autopay' section in digital banking.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "Can a customer pay insurance premiums through the bank's WhatsApp banking service?",
+    "input": "",
+    "output": "WhatsApp banking can provide a direct payment link to the secure banking portal where the premium payment can be completed after authentication.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "What is the maximum limit for premium payments via UPI?",
+    "output": "The maximum limit for insurance premium payments via UPI is typically 2 lakh INR per transaction, subject to individual bank and regulator limits.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS",
+    "input": ""
+  },
+  {
+    "instruction": "Explain the role of 'Bharat Bill Payment System' (BBPS) in premium collection.",
+    "input": "",
+    "output": "BBPS provides a unified ecosystem where customers can pay premiums for any registered insurer through the bank’s digital interface with instant confirmation.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  },
+  {
+    "instruction": "How can a customer retrieve a payment receipt for a premium paid last year?",
+    "input": "",
+    "output": "Payment receipts can be downloaded from the 'Transaction History' section of net banking or requested from the insurer's portal using the transaction ID.",
+    "intent_id": "INSURANCE_PREMIUM_PAYMENT_METHODS"
+  }
+]

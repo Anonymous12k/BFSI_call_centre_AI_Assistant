@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "How can a customer check the current status of their loan application?",
+    "input": "",
+    "output": "The application status can be tracked through the mobile banking application, the official website tracking portal, or by visiting a local branch with the application reference number.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does the 'In-Principle Sanctioned' status indicate?",
+    "input": "",
+    "output": "An 'In-Principle Sanctioned' status indicates that the preliminary credit assessment is successful, subject to the verification of original documents and final technical checks.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is the meaning of the 'Under Scrutiny' status for a loan file?",
+    "input": "",
+    "output": "The 'Under Scrutiny' status means the credit department is currently reviewing the submitted financial documents and performing internal risk assessments.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Identify the tracking methods for a personal loan request.",
+    "input": "",
+    "output": "Applicants can monitor progress using the 15-digit application reference number on the bank's digital tracking interface or via automated SMS updates.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Explain the 'Document Pending' notification in the application tracker.",
+    "input": "",
+    "output": "A 'Document Pending' status signifies that specific required paperwork is missing or was rejected during the initial screening, requiring immediate re-submission.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Disbursement in Progress' signify?",
+    "input": "",
+    "output": "'Disbursement in Progress' indicates that the loan agreement has been executed and the funds are being transferred to the applicant's registered bank account.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Define the 'Verification Stage' of the loan application.",
+    "input": "",
+    "output": "During the 'Verification Stage', the bank is conducting tele-verification, employment checks, and physical residence audits as per standard regulatory protocols.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How will an applicant know if their loan has been rejected?",
+    "input": "",
+    "output": "Upon a negative credit decision, the application status will update to 'Declined', and an official communication detailing the grounds for rejection will be sent.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is the 'Soft Approval' status in the tracking system?",
+    "output": "A 'Soft Approval' status denotes that the applicant's credit score and basic data meet the criteria, pending the validation of detailed income and property documents.",
+    "input": "",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Describe the 'Final Review' status in the loan workflow.",
+    "input": "",
+    "output": "The 'Final Review' status occurs after all verifications are complete and the file is awaiting the signature of the final credit approving authority.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Does the system provide real-time updates on application progress?",
+    "input": "",
+    "output": "The digital tracking portal reflects real-time status changes as the application moves through the stages of login, verification, approval, and disbursement.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Explain the status 'On Hold' for a loan application.",
+    "input": "",
+    "output": "An 'On Hold' status is applied when additional information or a specific clarification is required from the applicant to proceed with the credit decision.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Offer Generated' mean in the status portal?",
+    "input": "",
+    "output": "'Offer Generated' means the bank has approved a specific loan amount and interest rate, which is now available for the applicant's acceptance.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How can I track my home loan application status offline?",
+    "input": "",
+    "output": "Offline tracking can be performed by contacting the assigned relationship manager or by providing the application ID at the bank's loan processing center.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is the 'Field Investigation Initiated' status?",
+    "input": "",
+    "output": "This status indicates that a third-party agency or bank official has been assigned to conduct a physical visit to the applicant's home or office address.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Define the 'Logged In' status for a new application.",
+    "input": "",
+    "output": "The 'Logged In' status confirms that the application form and the processing fee have been successfully received and registered in the bank's system.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Sanctioned' status mean?",
+    "input": "",
+    "output": "A 'Sanctioned' status means the loan has been formally approved and the sanction letter, detailing the loan terms, has been issued to the applicant.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Explain the 'Waitlisted' status for certain loan products.",
+    "input": "",
+    "output": "A 'Waitlisted' status occurs when the application meets criteria but is pending available credit limits or specialized secondary review.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How is the 'Credit Reject' status different from 'Technical Reject'?",
+    "input": "",
+    "output": "'Credit Reject' refers to eligibility issues, while 'Technical Reject' refers to problems with property documents, legal titles, or internal policy mismatches.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What follows the 'Approved' status in the application cycle?",
+    "input": "",
+    "output": "Following the 'Approved' status, the applicant must complete the 'Documentation' stage, which involves signing the loan agreement and setting up repayment mandates.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "How long does the status remain 'In-Process'?",
+    "input": "",
+    "output": "The 'In-Process' status typically remains for 3 to 5 business days as the bank conducts due diligence and completes the internal appraisal cycle.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What is indicated by the 'Legal Review' status?",
+    "input": "",
+    "output": "The 'Legal Review' status indicates that the property or business documents are being vetted by the bank's legal panel for title clarity and compliance.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Can an applicant receive status updates via WhatsApp?",
+    "input": "",
+    "output": "If opted-in, the bank provides automated application status milestones through the official verified WhatsApp banking channel.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "What does 'Mandate Pending' indicate in the tracker?",
+    "input": "",
+    "output": "'Mandate Pending' means the electronic or physical NACH/e-mandate for automated EMI deduction has not yet been registered or confirmed by the applicant's bank.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  },
+  {
+    "instruction": "Describe the 'Application Cancelled' status.",
+    "input": "",
+    "output": "This status appears when the application is withdrawn by the applicant or if the application remained incomplete beyond the permitted 30-day window.",
+    "intent_id": "LOAN_APPLICATION_STATUS"
+  }
+]

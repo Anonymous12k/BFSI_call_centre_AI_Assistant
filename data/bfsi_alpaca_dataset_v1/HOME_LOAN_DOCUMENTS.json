@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the list of property documents required for a home loan?",
+    "input": "",
+    "output": "The required property documents include the original sale deed, allotment letter, possession letter, and the latest property tax receipts.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Identify the mandatory KYC paperwork for a housing loan application.",
+    "input": "",
+    "output": "Mandatory KYC documents consist of a valid PAN card, Aadhaar card, passport-sized photographs, and proof of residence such as a utility bill.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Which income proofs must a salaried employee submit for a home loan?",
+    "input": "",
+    "output": "Salaried applicants must provide the last three months' salary slips, Form 16 for the previous two years, and six months of bank statements.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Detail the documentation needed for self-employed individuals for a home loan.",
+    "input": "",
+    "output": "Self-employed applicants require audited financial statements for two years, GST registration certificates, and the last six months of business bank statements.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What legal documents are necessary for a house construction loan?",
+    "input": "",
+    "output": "Construction loans require the original land title deed, an approved building plan from the local authority, and a detailed cost estimate from an architect.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "List the requirements for an Encumbrance Certificate in a home loan process.",
+    "input": "",
+    "output": "An Encumbrance Certificate (EC) for the last 13 to 30 years is required to verify that the property is free from legal charges or mortgages.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What certificates are needed for purchasing a flat from a builder?",
+    "input": "",
+    "output": "Necessary certificates include the Occupation Certificate (OC), Commencement Certificate (CC), and a No Objection Certificate (NOC) from the builder.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "State the documentation required for a home loan balance transfer.",
+    "input": "",
+    "output": "Balance transfers require a list of documents held by the current bank, a foreclosure letter, and the last 12 months of the existing loan account statement.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Which documents prove the chain of title for a resale property?",
+    "input": "",
+    "output": "Resale properties require the complete chain of previous sale deeds and the current registered agreement to sell to establish ownership history.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What financial records are needed for a home loan top-up?",
+    "input": "",
+    "output": "A home loan top-up requires updated income proof, latest bank statements, and a signed application form as per current credit policy.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Specify the paperwork for an NRI applying for a home loan.",
+    "input": "",
+    "output": "NRIs must submit a copy of their valid passport, visa/work permit, overseas address proof, and NRE/NRO bank account statements for six months.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What is the requirement for a Power of Attorney (POA) in home loans?",
+    "input": "",
+    "output": "If the applicant is unavailable, a legally notarized or registered Power of Attorney document is required to authorize a representative for loan formalities.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide the checklist for technical and legal appraisal documents.",
+    "input": "",
+    "output": "The checklist includes the blueprint of the property, land tax receipts, conversion certificate (if agricultural land), and the draft sale agreement.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Are there specific documents for a plot purchase loan?",
+    "input": "",
+    "output": "Plot loans require the allotment letter from the development authority, the layout approval plan, and the non-agricultural (NA) use certificate.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What documentation is needed for a property in a co-operative society?",
+    "input": "",
+    "output": "Society properties require the original share certificate, an NOC from the society, and a copy of the society's registration certificate.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "List the income tax documents required for home loan applicants.",
+    "input": "",
+    "output": "Applicants must provide Income Tax Returns (ITR) for the last two assessment years along with the computation of income and tax paid receipts.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What proof is required for the down payment or margin money?",
+    "input": "",
+    "output": "Proof of margin money includes bank statements showing the payment made to the seller and the formal receipt issued by the builder or seller.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Identify the documents for a home extension loan.",
+    "input": "",
+    "output": "Extension loans require the original title deeds, an approved plan for the proposed extension, and an estimate from a civil engineer.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What are the requirements for a Khata certificate in home financing?",
+    "input": "",
+    "output": "A valid Khata certificate and the latest Khata extract issued by the municipal corporation are mandatory for property identification and taxation status.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Which business proofs are accepted for a home loan?",
+    "input": "",
+    "output": "Accepted business proofs include the Shop and Establishment Act license, Partnership Deed, or the Memorandum and Articles of Association (MOA/AOA).",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What document verifies the RERA compliance of a project?",
+    "input": "",
+    "output": "Verification requires the RERA registration certificate of the project and the specific RERA registration number mentioned in the builder documents.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Describe the requirements for an Allotment Letter.",
+    "input": "",
+    "output": "The Allotment Letter must be issued on the builder's letterhead, stating the flat number, floor, area, and total cost of the property.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What is needed to prove the identity of a co-applicant?",
+    "input": "",
+    "output": "A co-applicant must provide the same set of KYC documents as the primary applicant, including PAN, Aadhaar, and recent photographs.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "Are salary certificates accepted in place of salary slips?",
+    "input": "",
+    "output": "A salary certificate on company letterhead is accepted if it contains the gross salary, deductions, net pay, and date of joining.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  },
+  {
+    "instruction": "What document confirms the completion of a property?",
+    "input": "",
+    "output": "The Completion Certificate issued by the local municipal authority confirms that the property has been constructed according to approved norms.",
+    "intent_id": "HOME_LOAN_DOCUMENTS"
+  }
+]

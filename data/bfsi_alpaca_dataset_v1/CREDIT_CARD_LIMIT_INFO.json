@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the definition of a total credit limit on a credit card?",
+    "input": "",
+    "output": "The total credit limit is the maximum aggregate amount a cardholder is authorized to spend across both primary and add-on cards linked to a single account.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Explain the difference between the total credit limit and the available credit limit.",
+    "input": "",
+    "output": "The total credit limit is the maximum ceiling assigned by the bank, while the available credit limit is the remaining balance after deducting utilized funds and blocked transactions.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "How is the cash withdrawal limit determined for a credit card?",
+    "input": "",
+    "output": "The cash withdrawal limit is a specific sub-limit, typically calculated as a percentage of the total credit limit, designated for ATM cash advances.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "What is the policy regarding temporary credit limit enhancements?",
+    "input": "",
+    "output": "Temporary credit limit enhancements may be granted for a fixed duration based on account conduct and specific request, after which the limit reverts to the original value.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Describe the impact of an EMI purchase on the available credit limit.",
+    "input": "",
+    "output": "When a purchase is converted into an EMI, the total transaction amount is blocked against the credit limit and is progressively released as monthly installments are paid.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "How can a customer check their current credit limit via net banking?",
+    "input": "",
+    "output": "The current credit limit can be viewed under the 'Cards' or 'Account Summary' section of the net banking portal after authenticating with secure login credentials.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "What factors influence a permanent credit limit increase?",
+    "input": "",
+    "output": "Permanent credit limit increases are subject to an internal review of the cardholder's repayment history, credit bureau score, and updated income documentation.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Explain the concept of an add-on card credit limit.",
+    "input": "",
+    "output": "An add-on card shares the total credit limit of the primary account, though the primary cardholder may set a lower sub-limit for the add-on user.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "What is the procedure for reducing a credit card limit?",
+    "input": "",
+    "output": "A cardholder may request a voluntary reduction of their credit limit by submitting a formal request through the bank's digital channels or customer service helpdesk.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Define the 'Over-limit' facility on credit cards.",
+    "input": "",
+    "output": "The over-limit facility allows transactions beyond the assigned credit limit, subject to bank approval and the imposition of a standardized over-limit fee.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "How does the bank communicate changes to the credit limit?",
+    "input": "",
+    "output": "Any adjustments to the credit limit, whether increases or decreases, are communicated to the cardholder via registered email, SMS, or the monthly billing statement.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Where is the credit limit information located on the monthly statement?",
+    "input": "",
+    "output": "The credit limit, available credit, and cash limit details are typically displayed in the 'Account Summary' header of the monthly credit card statement.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Is the credit limit the same for domestic and international usage?",
+    "input": "",
+    "output": "Yes, a unified credit limit applies to both domestic and international transactions, although specific transaction sub-limits can be managed via the bank's mobile app.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "What happens to the credit limit after a payment is made?",
+    "input": "",
+    "output": "Upon successful processing and clearance of a credit card payment, the available credit limit is reinstated by the amount of the payment received.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Explain the term 'Credit Utilization Ratio'.",
+    "input": "",
+    "output": "The credit utilization ratio is the percentage of the total credit limit currently utilized by the cardholder through outstanding balances and pending transactions.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Can the bank decrease a credit limit without a request?",
+    "input": "",
+    "output": "The bank reserves the right to decrease a credit limit based on periodic risk assessments, changes in credit profile, or prolonged account inactivity.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "How do merchants check for available credit during a transaction?",
+    "input": "",
+    "output": "During a transaction, the merchant's terminal sends an authorization request to the bank to verify if the purchase amount is within the card's available credit limit.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Are there separate limits for different types of transactions?",
+    "input": "",
+    "output": "While there is one total credit limit, users can configure individual daily limits for POS, e-commerce, contactless, and ATM transactions for security purposes.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "What is the maximum limit allowed on a basic credit card?",
+    "input": "",
+    "output": "The maximum limit is determined individually based on the applicant's income profile and creditworthiness rather than a fixed universal ceiling for the product.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Does a credit limit increase require a new physical card?",
+    "input": "",
+    "output": "No, a credit limit increase is a backend account update and does not require the issuance of a new physical credit card.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Detail the policy for merchant-blocked limits.",
+    "input": "",
+    "output": "Certain merchants, such as hotels or car rentals, may place a temporary hold on a portion of the credit limit, which is released upon final settlement of the bill.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "Explain the 'Per Transaction Limit' setting.",
+    "input": "",
+    "output": "The per transaction limit is a user-defined safety feature that restricts the maximum value allowed for a single swipe or online purchase within the total credit limit.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "How long does it take for a limit increase request to be processed?",
+    "input": "",
+    "output": "Standard processing for a credit limit increase request typically takes 5 to 7 working days, contingent upon the submission of required financial documentation.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "What is the impact of a credit limit increase on credit scores?",
+    "input": "",
+    "output": "A higher credit limit may lower the credit utilization ratio, which is generally a factor considered by credit bureaus in the calculation of credit scores.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  },
+  {
+    "instruction": "How is the limit handled for multiple cards on one account?",
+    "input": "",
+    "output": "If a customer holds multiple credit cards from the same bank, the bank may assign either a separate limit for each card or a single shared limit across all cards.",
+    "intent_id": "CREDIT_CARD_LIMIT_INFO"
+  }
+]

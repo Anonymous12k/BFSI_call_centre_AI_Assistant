@@ -1,0 +1,34 @@
+[
+    {
+        "keywords": ["account closure", "close savings account", "deactivate"],
+        "answer": "To close a bank account, the holder must submit a formal request at the home branch, surrender all unused cheque leaves and debit cards, and clear any outstanding dues. The remaining balance is typically paid out via a demand draft or transferred to another verified account."
+    },
+    {
+        "keywords": ["dormant account", "inactive status", "reactivation"],
+        "answer": "An account is classified as dormant if there are no customer-induced transactions for over 24 months. Reactivation requires the submission of fresh KYC documents and a personal visit to the branch to perform a biometric or signature verification."
+    },
+    {
+        "keywords": ["cheque book request", "stop payment", "MICR"],
+        "answer": "Customers can request a new cheque book via net banking, mobile apps, or ATMs. If a cheque is lost or stolen, a 'stop payment' instruction should be issued immediately through digital channels to prevent unauthorized clearance."
+    },
+    {
+        "keywords": ["nomination", "add nominee", "DA1 form"],
+        "answer": "Nomination allows the bank to release account funds to a designated individual in the event of the account holder's death. Nomination can be added or modified using Form DA1 through the bank's online portal or physical branch."
+    },
+    {
+        "keywords": ["duplicate statement", "account summary", "e-statement", "get duplicate statement", "request account statement"],
+        "answer": "Account statements can be downloaded for free via the mobile app or net banking. Physical duplicate statements requested at the branch may attract a service charge as per the bank's schedule of fees."
+    },
+    {
+        "keywords": ["joint account", "operating mandate", "either or survivor"],
+        "answer": "Joint accounts can be operated under various mandates such as 'Either or Survivor', 'Jointly', or 'Former or Survivor'. These instructions determine who has the authority to sign cheques and withdraw funds."
+    },
+    {
+        "keywords": ["sweep in", "flexi deposit", "auto fixed deposit"],
+        "answer": "The sweep-in facility automatically transfers surplus funds above a specified threshold from a savings account to a fixed deposit to earn higher interest. These funds remain liquid and are swept back to the savings account if the balance falls low."
+    },
+    {
+        "keywords": ["certificate of balance", "interest certificate", "audit proof"],
+        "answer": "A balance certificate confirms the available funds in an account as of a specific date, while an interest certificate details the interest earned and tax deducted (TDS) during a financial year for tax filing purposes."
+    }
+]

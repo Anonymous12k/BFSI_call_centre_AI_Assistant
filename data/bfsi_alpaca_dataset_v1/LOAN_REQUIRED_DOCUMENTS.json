@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "List all documents required to apply for a personal loan.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Specify the mandatory documents for initiating a personal loan request.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide the documentation checklist needed for personal loan submission.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Identify the paperwork necessary to process a personal loan application.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documents must a borrower submit to apply for a personal loan?",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Enumerate documents needed for completing a personal loan form.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Detail the required paperwork for processing a personal loan request.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide a list of documents necessary for personal loan approval.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Which documents are compulsory for personal loan submission?",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Outline the documents needed to support a personal loan application.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "State all documentation required to apply for a personal loan.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "List mandatory proofs for personal loan application processing.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide the necessary identity and income documents for a personal loan.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Give a complete list of documents required to submit a personal loan request.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Mention the essential documents for initiating personal loan approval.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Specify all documents necessary to complete a personal loan application.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documentation is needed to apply for a personal loan successfully?",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide details of documents required to process a personal loan request.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "List all official papers needed to submit a personal loan application.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Outline mandatory proofs required for personal loan processing.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Mention the required documents for a personal loan form submission.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide the official list of documents needed to request a personal loan.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Specify the documentation required for a personal loan application.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "List documents that must be submitted for personal loan approval.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Provide a structured checklist of documents for personal loan applications.",
+    "input": "",
+    "output": "Identity proof, address proof, income proof, and bank statements.",
+    "intent_id": "LOAN_REQUIRED_DOCUMENTS"
+  }
+]

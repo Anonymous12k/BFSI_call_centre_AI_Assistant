@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the steps to open a new savings account online?",
+    "input": "",
+    "output": "The online process involves visiting the official website, filling out the application form, uploading digital copies of KYC documents, and completing the Video-KYC verification with a bank official.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Outline the procedure for opening a bank account at a physical branch.",
+    "input": "",
+    "output": "To open an account at a branch, the applicant must submit a completed account opening form along with original KYC documents for verification and provide recent passport-sized photographs.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "How is the Video-KYC process conducted for new accounts?",
+    "input": "",
+    "output": "Video-KYC is conducted via a secure live video call where the applicant displays their original PAN card and Aadhaar to a bank representative to verify identity in real-time.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "What is the initial funding requirement for a new savings account?",
+    "input": "",
+    "output": "The initial funding requirement varies by account variant; the specified amount must be deposited via cheque or digital transfer at the time of account activation.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Describe the process for opening a joint bank account.",
+    "input": "",
+    "output": "A joint account requires all applicants to submit individual KYC documents and sign a joint account opening form specifying the mode of operation, such as 'Either or Survivor'.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "How long does it take for a new account to become operational?",
+    "input": "",
+    "output": "A savings account typically becomes operational within 24 to 48 hours following the successful completion of the KYC verification process and document approval.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for opening a current account for a proprietorship?",
+    "input": "",
+    "output": "The proprietor must provide the business registration certificate, GST registration, and personal KYC documents to initiate the current account opening process.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Explain the role of the 'Welcome Kit' in the account opening flow.",
+    "input": "",
+    "output": "The Welcome Kit is dispatched after account activation and contains the debit card, chequebook, and account-related terms and conditions for the customer's reference.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Can a minor open a savings account independently?",
+    "input": "",
+    "output": "Minors above the age of 10 may open a self-operated account with limited features; otherwise, the account must be opened and operated by a natural or legal guardian.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "How is the signature captured during a digital account opening?",
+    "input": "",
+    "output": "In a digital process, the applicant is required to sign on a blank white paper during the Video-KYC call, which is then captured and recorded by the bank official.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "What happens if an account opening application is rejected?",
+    "input": "",
+    "output": "If an application is rejected due to document discrepancies or eligibility issues, the bank sends a notification to the applicant's registered email or mobile number.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Define the process for an NRI to open an NRE or NRO account.",
+    "input": "",
+    "output": "NRIs must submit a specialized application form along with notarized copies of their passport, visa, and overseas address proof through the bank's international banking portal.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Is an introduction from an existing customer required to open an account?",
+    "input": "",
+    "output": "As per current simplified KYC norms, a formal introduction from an existing account holder is no longer mandatory for opening a standard savings account.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "State the steps for opening a salary account with the bank.",
+    "input": "",
+    "output": "A salary account is opened upon receipt of a corporate mandate from the employer, followed by the employee's submission of basic KYC and employment proof.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "How can I track the status of my account opening application?",
+    "input": "",
+    "output": "The application status can be tracked on the bank's website using the application reference number provided at the time of submission.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "What is the protocol for opening a Basic Savings Bank Deposit Account (BSBDA)?",
+    "input": "",
+    "output": "A BSBDA can be opened by any individual without an initial deposit, provided they do not hold any other savings account with the bank.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Can a power of attorney be used to open a bank account?",
+    "input": "",
+    "output": "A bank account may be opened via a Power of Attorney (PoA) holder if the PoA document is legally registered and specifically authorizes account opening and operation.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for a non-individual entity to open an account?",
+    "input": "",
+    "output": "Non-individual entities like trusts or societies must provide their registration deed, board resolution for account opening, and KYC of all authorized signatories.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Identify the mandatory fields in the account opening form.",
+    "input": "",
+    "output": "Mandatory fields include full name, permanent address, date of birth, PAN or Form 60, and a valid nomination of a beneficiary for the account.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Is an Aadhaar number required for opening an account?",
+    "input": "",
+    "output": "While Aadhaar is not strictly mandatory for all accounts, it is required if the applicant wishes to receive direct benefit transfers (DBT) from the government.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Describe the 'In-person Verification' (IPV) stage.",
+    "input": "",
+    "output": "IPV involves a bank official physically meeting the applicant or conducting a video call to verify that the applicant matches the provided identity documents.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "How are nomination details updated during the opening process?",
+    "input": "",
+    "output": "Nomination details are provided in the DA-1 section of the account opening form, where the name, age, and address of the nominee are recorded.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "What is the process for choosing an account variant during application?",
+    "input": "",
+    "output": "The applicant selects the preferred account variant from the options provided, based on features such as minimum balance requirements and debit card types.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "Can a senior citizen request doorstep account opening?",
+    "input": "",
+    "output": "Senior citizens may request the doorstep banking service, where a bank representative visits the customer's residence to collect documents and signatures.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  },
+  {
+    "instruction": "State the procedure for account opening via a third-party aggregator.",
+    "input": "",
+    "output": "Applications via aggregators are redirected to the bank's secure portal to complete the mandatory KYC and verification steps as per regulatory norms.",
+    "intent_id": "ACCOUNT_OPENING_PROCESS"
+  }
+]

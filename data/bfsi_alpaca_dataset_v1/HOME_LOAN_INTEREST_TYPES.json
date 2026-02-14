@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the primary interest rate structures available for home loans?",
+    "input": "",
+    "output": "Home loans are primarily offered with three interest rate structures: fixed interest rates, floating interest rates, and hybrid interest rates which combine both features.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Explain the functioning of a fixed interest rate for a mortgage.",
+    "input": "",
+    "output": "A fixed interest rate remains constant throughout the entire tenure of the loan, ensuring that the monthly EMI amount does not fluctuate regardless of market changes.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "How does a floating interest rate mechanism work in home financing?",
+    "input": "",
+    "output": "Floating interest rates are linked to a benchmark rate, such as the Repo Linked Lending Rate (RLLR) or MCLR, and adjust periodically based on market fluctuations.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Define the hybrid or semi-fixed interest rate model.",
+    "input": "",
+    "output": "A hybrid interest rate remains fixed for a specific initial period, such as three to five years, and then automatically transitions into a floating rate for the remaining tenure.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What is the benchmark used for floating rate home loans?",
+    "input": "",
+    "output": "The benchmark for floating rate home loans is typically the External Benchmark Lending Rate (EBLR) or the Marginal Cost of Funds Based Lending Rate (MCLR).",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Describe the impact of market volatility on floating rate home loans.",
+    "input": "",
+    "output": "In a floating rate model, market volatility leads to periodic resets of the interest rate, which may result in an increase or decrease in the loan tenure or EMI amount.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Are there different reset periods for floating interest rates?",
+    "input": "",
+    "output": "Yes, floating rates are subject to reset periods, usually occurring every three, six, or twelve months, depending on the specific benchmark linked to the loan.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What is the definition of a fixed-to-floating interest rate conversion?",
+    "input": "",
+    "output": "Fixed-to-floating conversion refers to a policy where a borrower transitions from a fixed interest regime to a floating interest regime, often involving a conversion fee.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Identify the components of a floating interest rate calculation.",
+    "input": "",
+    "output": "The floating interest rate is calculated by adding a credit spread or margin, determined by the bank's risk assessment, to the base benchmark rate.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Does the principal repayment change in a fixed rate loan?",
+    "input": "",
+    "output": "In a fixed rate loan, the interest rate is static, meaning the proportion of principal and interest within the EMI remains predictable according to the original amortization schedule.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What is meant by the term 'spread' in floating rate home loans?",
+    "input": "",
+    "output": "The spread is the additional percentage points charged above the benchmark rate, which remains constant unless a material change in the borrower's credit profile occurs.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Explain the concept of an adjustable-rate mortgage (ARM).",
+    "input": "",
+    "output": "An adjustable-rate mortgage is a loan where the interest rate is periodically adjusted based on a pre-defined index that reflects the cost of funds in the market.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What are the characteristics of a 'Dual Rate' home loan?",
+    "input": "",
+    "output": "Dual rate loans offer a low fixed interest rate for the initial years of the loan, which subsequently increases or switches to a floating rate for the later years.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "How is the MCLR linked interest rate different from RLLR?",
+    "input": "",
+    "output": "MCLR is an internal benchmark based on the bank's cost of funds, while RLLR is an external benchmark directly linked to the Reserve Bank of India's repo rate.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Are fixed interest rates usually higher than floating rates?",
+    "input": "",
+    "output": "Fixed interest rates are generally set at a higher percentage than floating rates at the time of inception due to the elimination of interest rate risk for the borrower.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What is the frequency of interest rate revisions for RLLR loans?",
+    "input": "",
+    "output": "Interest rates for RLLR-linked home loans are revised at least once every three months in accordance with changes to the RBI repo rate.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Detail the reset clause in a home loan agreement.",
+    "input": "",
+    "output": "The reset clause defines the intervals at which the lender can review and adjust the floating interest rate based on the prevailing benchmark and bank policy.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What is the 'Step-up' interest rate feature?",
+    "input": "",
+    "output": "Step-up interest rate structures involve lower initial interest rates or EMIs that increase at set intervals during the loan term, often aligned with expected income growth.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Define the 'Step-down' interest rate option.",
+    "input": "",
+    "output": "A step-down interest rate structure starts with a higher EMI or interest payment that decreases over the tenure of the loan as the principal balance reduces.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "How does the bank determine the spread for a home loan?",
+    "input": "",
+    "output": "The spread is determined based on the loan amount, the loan-to-value (LTV) ratio, and the credit risk category of the applicant at the time of sanction.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What happens to a fixed rate loan if the repo rate decreases?",
+    "input": "",
+    "output": "A fixed rate loan remains unaffected by decreases in the repo rate, as the interest rate is locked in at the time of the loan agreement for the specified duration.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "List the components of the External Benchmark Lending Rate.",
+    "input": "",
+    "output": "The EBLR comprises the external benchmark (such as the Repo Rate), the operating costs of the bank, and the credit risk premium or spread.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Can a borrower switch from a floating rate to a fixed rate?",
+    "input": "",
+    "output": "Borrowers may switch from floating to fixed rates by paying a conversion fee, provided the bank offers a fixed-rate product at the time of the request.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "Does the interest rate type affect the total cost of the loan?",
+    "input": "",
+    "output": "The interest rate type determines how interest is accrued over time; fixed rates offer cost certainty, while floating rates can decrease or increase the total interest paid.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  },
+  {
+    "instruction": "What is the purpose of the 'Cap' in some floating rate agreements?",
+    "input": "",
+    "output": "A cap is a maximum limit on the interest rate of a floating rate loan, preventing the rate from exceeding a certain level despite market benchmark increases.",
+    "intent_id": "HOME_LOAN_INTEREST_TYPES"
+  }
+]

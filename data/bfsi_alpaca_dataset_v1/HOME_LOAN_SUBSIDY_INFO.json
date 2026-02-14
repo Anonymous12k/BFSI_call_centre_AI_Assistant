@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "Define the primary objective of the home loan interest subsidy scheme.",
+    "input": "",
+    "output": "The home loan interest subsidy scheme is designed to reduce the interest burden on housing loans for eligible urban and rural households through an upfront credit to the loan account.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What are the specific income categories eligible for interest subvention?",
+    "input": "",
+    "output": "Eligibility for interest subvention is categorized based on annual household income levels, specifically Economically Weaker Sections (EWS), Low Income Groups (LIG), and Middle Income Groups (MIG).",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Explain the calculation mechanism for the interest subsidy amount.",
+    "input": "",
+    "output": "The subsidy is calculated as the present value of the interest subvention, discounted at a specific rate, and is credited upfront to the beneficiary's loan account.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What is the maximum carpet area limit for the EWS category subsidy?",
+    "output": "For the Economically Weaker Section (EWS) category, the interest subsidy is applicable for house constructions with a maximum carpet area of 30 square meters.",
+    "input": "",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Detail the carpet area restrictions for the LIG category under the subsidy scheme.",
+    "input": "",
+    "output": "The Low Income Group (LIG) category is eligible for home loan interest subsidy for residential units with a carpet area not exceeding 60 square meters.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Identify the designated nodal agencies responsible for subsidy disbursement.",
+    "input": "",
+    "output": "The central nodal agencies responsible for the implementation and disbursement of the interest subsidy include the National Housing Bank (NHB) and HUDCO.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Are repairs and renovations covered under the home loan subsidy policy?",
+    "input": "",
+    "output": "The subsidy scheme extends to loans taken for the construction of a new house or for the incremental addition of rooms (extension) to existing dwellings for EWS and LIG categories.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What is the maximum tenure considered for calculating interest subsidy?",
+    "input": "",
+    "output": "The interest subsidy is calculated based on a maximum loan tenure of 20 years or the actual tenure of the loan, whichever is lower.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Describe the requirement regarding female ownership for subsidy eligibility.",
+    "input": "",
+    "output": "For EWS and LIG categories, the house must be owned or co-owned by a female member of the household, except in cases of new construction on an existing plot.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What occurs if a subsidized loan is transferred to another bank?",
+    "input": "",
+    "output": "If a subsidized loan is transferred to another financial institution via a balance transfer, the beneficiary cannot claim the interest subsidy benefit a second time.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Specify the maximum loan amount eligible for interest subvention in the MIG-I category.",
+    "input": "",
+    "output": "Under the MIG-I category, interest subvention is restricted to the first 9 lakh INR of the total loan amount; any amount exceeding this is charged at non-subsidized rates.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What are the carpet area specifications for the MIG-II income group?",
+    "input": "",
+    "output": "The MIG-II category allows for an interest subsidy on residential properties with a carpet area up to 200 square meters as per the revised regulatory guidelines.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Clarify the definition of a 'household' for subsidy assessment purposes.",
+    "input": "",
+    "output": "A household is defined as consisting of a husband, wife, and unmarried children; an adult earning member is treated as a separate household regardless of marital status.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Is there a restriction on existing property ownership for subsidy claimants?",
+    "input": "",
+    "output": "To qualify for the subsidy, the beneficiary household must not own a pucca house in any part of India in the name of any member of the family.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "How does the subsidy affect the monthly EMI of the borrower?",
+    "input": "",
+    "output": "The upfront credit of the subsidy amount reduces the total principal outstanding, which consequently lowers the monthly EMI or the total interest payable over the tenure.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "List the documents required specifically for the subsidy application.",
+    "input": "",
+    "output": "Subsidy applications require an affidavit confirming the lack of pucca house ownership, income certificates, and a declaration of the carpet area of the property.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What is the interest subvention percentage for the EWS and LIG groups?",
+    "input": "",
+    "output": "Eligible beneficiaries in the EWS and LIG categories receive an interest subvention at the rate of 6.5% for a loan amount up to 6 lakh INR.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "State the interest subvention rate for the MIG-I and MIG-II categories.",
+    "input": "",
+    "output": "The interest subvention rate is 4% for the MIG-I category (up to 9 lakh INR) and 3% for the MIG-II category (up to 12 lakh INR) of the loan amount.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Explain the verification process for subsidy claims by nodal agencies.",
+    "input": "",
+    "output": "Central Nodal Agencies verify claims by checking for duplicate applications across banks using the beneficiary's Aadhaar number before authorizing the fund release.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What happens to the subsidy if the construction is not completed within the timeline?",
+    "input": "",
+    "output": "If the construction of the house is not completed within 36 months of the first disbursement, the subsidy amount must be recovered and returned to the nodal agency.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Is the subsidy available for purchase of pre-owned or resale houses?",
+    "input": "",
+    "output": "The interest subsidy is applicable for the purchase of both new and resale houses, as well as for the construction of a house on a self-owned plot.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Describe the geographic coverage of the home loan subsidy scheme.",
+    "input": "",
+    "output": "The scheme covers all statutory towns as per the latest census and areas within the planning area of such towns as notified by the state government.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Can an individual apply for the subsidy after the loan has been disbursed?",
+    "input": "",
+    "output": "An application for the subsidy must be initiated during the loan processing stage; retroactive claims for fully disbursed or closed loans are not permitted.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "What is the role of the Primary Lending Institution (PLI) in the subsidy process?",
+    "input": "",
+    "output": "The Primary Lending Institution is responsible for identifying eligible beneficiaries, submitting claims to nodal agencies, and crediting the received funds to the borrower's account.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  },
+  {
+    "instruction": "Specify the income limit for the Middle Income Group II (MIG-II) category.",
+    "input": "",
+    "output": "The MIG-II category includes households with an annual income greater than 12,00,001 INR and up to 18,00,000 INR for the purpose of subsidy eligibility.",
+    "intent_id": "HOME_LOAN_SUBSIDY_INFO"
+  }
+]

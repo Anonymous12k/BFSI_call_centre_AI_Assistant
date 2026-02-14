@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the typical time frame for the disbursement of a personal loan?",
+    "input": "",
+    "output": "The typical time frame for personal loan disbursement is between 24 to 48 hours following the successful verification of all documents and the execution of the loan agreement.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "How long does it take for funds to be released after a home loan is sanctioned?",
+    "input": "",
+    "output": "Home loan funds are generally released within 3 to 5 working days after the completion of legal technical valuation and the submission of original property title deeds.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Specify the duration for credit arrival after a digital loan application is approved.",
+    "input": "",
+    "output": "For end-to-end digital loan applications, the approved amount is credited to the applicant's account within 30 minutes to 4 hours after the e-signing of the contract.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the expected turnaround time for car loan fund transfers to the dealership?",
+    "input": "",
+    "output": "Car loan funds are usually transferred to the vehicle dealership within 24 to 72 hours once the bank receives the margin money receipt and the RTO documents.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Define the time limit for disbursement following a successful Video KYC.",
+    "input": "",
+    "output": "Following a successful Video KYC and final credit approval, the disbursement process is initiated and completed within 1 to 2 business days.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "How many business days are required for an education loan disbursement?",
+    "input": "",
+    "output": "Education loan disbursements, specifically for tuition fees, are typically processed within 5 to 7 working days after the submission of the university's demand letter.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Detail the disbursement timeline for a Loan Against Property.",
+    "input": "",
+    "output": "A Loan Against Property involves complex legal checks and usually requires 7 to 10 working days for the final disbursement after the mortgage creation process is finalized.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the processing period for the release of funds in a business loan?",
+    "input": "",
+    "output": "Business loan funds are generally disbursed within 4 to 6 working days after the verification of the business premises and the signing of the facility agreement.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "State the standard time for a gold loan amount to be handed over.",
+    "input": "",
+    "output": "Gold loan amounts are disbursed immediately or within 60 minutes after the physical appraisal of the gold ornaments and completion of the pledge documentation.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "How long does the bank take to disburse a loan top-up?",
+    "input": "",
+    "output": "Loan top-up amounts are usually disbursed within 24 hours for existing customers, provided there are no changes in the primary security or repayment track record.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "When can a borrower expect the credit for a two-wheeler loan?",
+    "input": "",
+    "output": "Two-wheeler loan disbursements are processed within 24 to 48 hours after the bank verifies the pro-forma invoice and signs the loan agreement.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Explain the delay between final approval and account credit for MSME loans.",
+    "input": "",
+    "output": "For MSME loans, the standard delay between final approval and account credit is 3 to 5 business days, accounting for the setup of the credit limit in the system.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the timeline for fund release in a balance transfer case?",
+    "input": "",
+    "output": "In a balance transfer, the disbursement to the previous lender via a demand draft or NEFT takes 3 to 5 working days after receiving the foreclosure statement.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "How quickly are pre-approved personal loans credited to a salary account?",
+    "input": "",
+    "output": "Pre-approved personal loans are processed for instant disbursement and are typically credited to the linked salary account within 10 to 15 minutes.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Identify the standard disbursement window for agricultural loans.",
+    "input": "",
+    "output": "Agricultural loans are generally disbursed within 7 to 14 working days, depending on the time required for land record verification and inspection.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the time frame for disbursement if the application is submitted offline?",
+    "input": "",
+    "output": "Offline applications typically require 5 to 7 working days for disbursement due to the manual transit and verification of physical document copies.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Does the disbursement time change for high-value corporate loans?",
+    "input": "",
+    "output": "High-value corporate loans follow a timeline of 10 to 15 working days for disbursement to accommodate multi-level credit committees and legal audits.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the expected wait time for funds after a used car loan is approved?",
+    "input": "",
+    "output": "Disbursement for used car loans occurs within 3 to 4 working days, following the verification of the vehicle's RC transfer or hold notice from the RTO.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Specify the disbursement schedule for medical emergency loans.",
+    "input": "",
+    "output": "Medical emergency loans are prioritized for disbursement, with funds usually released within 12 to 24 hours of document submission.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "How long does it take for a microfinance loan to be disbursed?",
+    "input": "",
+    "output": "Microfinance loans are typically disbursed within 3 to 5 working days after the group recognition test and individual member verification.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the timeline for the second disbursement in a construction-linked home loan?",
+    "input": "",
+    "output": "Subsequent disbursements in construction-linked plans are processed within 3 to 5 working days after the bank receives the builder's stage-completion certificate.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "List the time required for disbursement once the NACH mandate is approved.",
+    "input": "",
+    "output": "Once the NACH mandate is registered and the loan agreement is signed, the final disbursement occurs within 24 to 48 hours.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "What is the release time for a loan against fixed deposits?",
+    "input": "",
+    "output": "Loans against fixed deposits are usually disbursed on the same day as the application, often within 2 to 4 hours of the request.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "Specify the turnaround time for credit arrival via NEFT.",
+    "input": "",
+    "output": "Once the disbursement is initiated in the bank's system, the credit arrival via NEFT depends on standard clearing cycles, usually taking 2 to 6 hours.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  },
+  {
+    "instruction": "How many days are needed for the disbursement of a renovation loan?",
+    "input": "",
+    "output": "Renovation loans are disbursed within 5 to 7 working days following the approval of the renovation estimate and property inspection.",
+    "intent_id": "LOAN_DISBURSEMENT_TIME"
+  }
+]

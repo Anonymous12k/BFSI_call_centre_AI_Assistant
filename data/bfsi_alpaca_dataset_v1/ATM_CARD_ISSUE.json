@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the available channels for requesting a new debit card?",
+    "input": "",
+    "output": "A new debit card can be requested through the mobile banking application, the net banking portal, or by submitting a physical application form at any bank branch.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Outline the procedure for requesting a replacement for a damaged ATM card.",
+    "input": "",
+    "output": "To replace a damaged card, the cardholder must log in to the banking portal, navigate to 'Card Services', select 'Reissue Card', and choose 'Damaged' as the reason.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Explain how to apply for a secondary debit card on a savings account.",
+    "input": "",
+    "output": "An application for an additional or secondary debit card must be submitted via the 'Manage Cards' section of net banking or through a written request at the home branch.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "What is the standard delivery timeline for a newly issued debit card?",
+    "input": "",
+    "output": "The standard delivery timeline for a newly issued or reissued debit card is 5 to 7 working days from the date of the request approval.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Detail the process for requesting a card upgrade to a premium variant.",
+    "input": "",
+    "output": "Cardholders can request a card upgrade by selecting the preferred premium variant in the mobile app and consenting to the applicable annual and issuance fees.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "How is a debit card issued for a new joint bank account?",
+    "input": "",
+    "output": "For joint accounts, each individual account holder must submit a separate request form to receive a personalized debit card linked to the shared account.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "State the policy for the issuance of a debit card on a minor's account.",
+    "input": "",
+    "output": "A debit card is issued to a minor above the age of 10 for self-operated accounts, subject to transaction limits and the guardian's consent provided during the request.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "What documentation is required to request a debit card at a branch?",
+    "input": "",
+    "output": "Requesting a card at a branch requires a completed 'Debit Card Application Form' and a valid government-issued photo identity proof for verification.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Describe the process of requesting a contactless (NFC) enabled debit card.",
+    "input": "",
+    "output": "A contactless card can be requested during the reissue process by selecting the 'NFC Enabled' variant from the list of available card products in the service menu.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Are issuance charges applicable for a basic debit card?",
+    "input": "",
+    "output": "Issuance charges are determined by the account variant; basic accounts may have nil charges, while others incur a one-time fee plus applicable GST.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "How can a cardholder request a card for a NRE or NRO account?",
+    "input": "",
+    "output": "NRIs can request a debit card through the international net banking portal, and the card is dispatched to the registered overseas communication address.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Define the procedure for issuing a virtual debit card.",
+    "input": "None",
+    "output": "A virtual debit card is issued instantly through the mobile app by selecting the 'Generate Virtual Card' option, provided the account is active and KYC compliant.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "What steps should be taken to receive a debit card after an account opening?",
+    "input": "",
+    "output": "The primary debit card is typically triggered automatically upon account activation; if not received, a manual request must be placed via net banking.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Identify the protocol for issuing a debit card to a corporate salary account.",
+    "input": "",
+    "output": "Corporate salary account holders receive a debit card as part of the welcome kit; replacements can be requested through the corporate banking portal.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "How does a cardholder opt for a personalized image on their debit card?",
+    "input": "",
+    "output": "Personalized cards are requested by uploading the desired image through the 'Design My Card' portal and paying the associated customization fee.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "What is the procedure for card issuance if the previous card expired?",
+    "input": "",
+    "output": "The bank automatically triggers the issuance of a renewal card 30 days prior to the expiry of the current card, sent to the registered communication address.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Can a debit card be requested through a phone banking officer?",
+    "input": "",
+    "output": "Yes, cardholders can request card issuance by calling the customer service helpline and authenticating their identity through the IVR or with an agent.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Explain the issuance of a 'Business' debit card for current accounts.",
+    "input": "",
+    "output": "Business debit cards are issued to the authorized signatories of a current account upon submission of a request form stamped with the entity's seal.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "What happens if a newly issued card is returned to the bank undelivered?",
+    "input": "",
+    "output": "Undelivered cards are returned to the home branch; the cardholder must visit the branch with original ID proof to collect the card personally.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Is an OTP required for requesting a card through the mobile app?",
+    "input": "",
+    "output": "Yes, for security, the request for a new or replacement debit card must be authenticated using a One-Time Password sent to the registered mobile number.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "Detail the protocol for issuing a card for a HUF account.",
+    "input": "",
+    "output": "A debit card for a Hindu Undivided Family account is issued in the name of the Karta after a declaration is signed by all adult coparceners.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "How can a cardholder check which card variants they are eligible to receive?",
+    "input": "",
+    "output": "Available card variants and their respective features are displayed in the 'Offers' or 'Card Upgrade' section of the net banking portal.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "State the rule for issuing a replacement card after a permanent block.",
+    "input": "",
+    "output": "When a card is permanently blocked due to loss or theft, a replacement request is usually auto-generated, or the user can manually trigger it via 'Reissue'.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "What is the process for requesting an add-on debit card for a family member?",
+    "input": "",
+    "output": "Add-on cards are requested by the primary account holder through a branch application, specifying the family member's details and relationship.",
+    "intent_id": "ATM_CARD_ISSUE"
+  },
+  {
+    "instruction": "How is a debit card issued for an account opened via a digital partner?",
+    "input": "",
+    "output": "Accounts opened through digital partners receive their debit cards directly from the bank's central processing unit after the KYC verification is completed.",
+    "intent_id": "ATM_CARD_ISSUE"
+  }
+]

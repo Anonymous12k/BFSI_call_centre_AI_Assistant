@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "List the officially valid documents (OVD) for proof of identity.",
+    "input": "",
+    "output": "Accepted OVDs for identity proof include a valid Passport, Voter ID Card, Aadhaar Card, Driving License, or NREGA Job Card.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documents are accepted as proof of residence for a savings account?",
+    "input": "",
+    "output": "Proof of residence can be established using utility bills (electricity or water), a registered rent agreement, property tax receipts, or a valid Passport.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Is a PAN card mandatory for opening a bank account?",
+    "input": "",
+    "output": "A PAN card is mandatory; however, applicants who do not have a PAN can submit Form 60 as per the Income Tax Act guidelines.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What additional documents are required for a minor's account?",
+    "input": "",
+    "output": "For a minor's account, the birth certificate of the minor and the KYC documents of the natural or legal guardian are required.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Which documents must a partnership firm provide for a current account?",
+    "input": "",
+    "output": "Partnership firms must submit the Partnership Deed, the firm's PAN card, registration certificate, and KYC of all partners authorized to operate the account.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What proof is required for a student savings account?",
+    "input": "",
+    "output": "Students must provide a valid identity card issued by their educational institution along with standard KYC documents like Aadhaar or a Passport.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "List the documentation for a Public Limited Company account.",
+    "input": "",
+    "output": "Requirements include the Certificate of Incorporation, Memorandum and Articles of Association (MOA/AOA), Board Resolution, and KYC of authorized signatories.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Can a rent agreement be used as permanent address proof?",
+    "input": "",
+    "output": "A registered rent agreement is accepted as address proof provided it is currently valid and issued by a competent authority.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documents are needed to prove 'Business Vintage' for a current account?",
+    "input": "",
+    "output": "Business vintage is proven through the initial GST registration certificate, Shop and Establishment License, or the Business Incorporation date.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What is the document requirement for a Trust or Society?",
+    "input": "",
+    "output": "Trusts and Societies must provide the Trust Deed or Bye-laws, registration certificate from the Registrar, and PAN of the entity.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Identify the documents required for a HUF account.",
+    "input": "",
+    "output": "A Hindu Undivided Family (HUF) account requires the HUF PAN card, a declaration signed by the Karta and all coparceners, and the Karta's KYC.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documents are required if the current address differs from the permanent address?",
+    "input": "",
+    "output": "If the current address is different, a separate valid OVD such as a utility bill or bank statement for the current residence must be provided.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Are digital copies of documents accepted for account opening?",
+    "input": "",
+    "output": "Digital copies are accepted for online applications, but original documents must be produced for verification during Video-KYC or branch visits.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documents are needed for a basic small savings account?",
+    "input": "",
+    "output": "A small account can be opened with a self-attested photograph and a signed declaration, subject to transaction limits and a 12-month validity for full KYC.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Detail the KYC requirements for NRI applicants.",
+    "input": "",
+    "output": "NRIs must provide a copy of their valid Indian passport, visa/work permit, and overseas address proof certified by the Indian Embassy or a notary.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Which income documents are required for a premium savings account?",
+    "input": "",
+    "output": "Premium accounts typically do not require income proof unless the customer is opting for linked credit facilities like an overdraft.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What is the requirement for passport-sized photographs?",
+    "input": "",
+    "output": "Applicants must provide two recent color passport-sized photographs for the account opening form and the specimen signature card.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Can a bank statement from another bank be used as address proof?",
+    "input": "",
+    "output": "A bank statement from a scheduled commercial bank, not older than three months, is accepted as a valid document for address verification.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "List the documents for a Sole Proprietorship current account.",
+    "input": "",
+    "output": "The proprietor must provide two documents in the name of the firm, such as a GST certificate, Labour License, or Professional Tax registration.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What document is required to update a nominee after account opening?",
+    "input": "",
+    "output": "To update or change a nominee, the account holder must submit Form DA-1 for new nominations or Form DA-3 for variations in existing nominations.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Is an employment ID card accepted for KYC?",
+    "input": "",
+    "output": "An ID card issued by a government department or PSU is an accepted identity proof, but private company IDs are generally not considered OVD for KYC.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What documents are required to open a salary account?",
+    "input": "",
+    "output": "Salary accounts require standard KYC documents and an introductory letter or employee ID from the corporate entity participating in the salary tie-up.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "What is the FATCA/CRS declaration document?",
+    "input": "",
+    "output": "The FATCA/CRS declaration is a mandatory form where the applicant declares their tax residency status to comply with international tax reporting standards.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Which document proves the date of birth if it is not on the ID proof?",
+    "input": "",
+    "output": "If the ID proof lacks a date of birth, a birth certificate, SSLC/HSC marks card, or a valid Passport must be provided as age proof.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  },
+  {
+    "instruction": "Are translated documents accepted for NRI accounts?",
+    "input": "",
+    "output": "If documents are in a foreign language, they must be translated into English and duly certified by the Indian Embassy or a recognized translation agency.",
+    "intent_id": "ACCOUNT_REQUIRED_DOCUMENTS"
+  }
+]

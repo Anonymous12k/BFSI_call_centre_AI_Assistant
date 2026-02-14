@@ -1,0 +1,34 @@
+[
+    {
+        "keywords": ["NEFT", "transfer limit", "settlement cycle"],
+        "answer": "National Electronic Funds Transfer (NEFT) operates on a round-the-clock basis in half-hourly batches. While there is no minimum limit for NEFT, individual banks may set maximum per-transaction limits based on their risk management policies."
+    },
+    {
+        "keywords": ["RTGS", "large value", "real time"],
+        "answer": "Real Time Gross Settlement (RTGS) is used for high-value transactions that require immediate clearing. The minimum amount for an RTGS transfer is 2,00,000 INR, and the settlement happens individually on a real-time basis."
+    },
+    {
+        "keywords": ["IMPS", "instant transfer", "mobile banking"],
+        "answer": "Immediate Payment Service (IMPS) provides an instant interbank electronic fund transfer service through mobile phones and digital channels. It is available 24/7, including Sundays and bank holidays."
+    },
+    {
+        "keywords": ["beneficiary addition", "cooling period", "activation time"],
+        "answer": "When adding a new beneficiary for fund transfers, banks typically implement a cooling period ranging from 30 minutes to 24 hours. During this window, transfer limits may be restricted to prevent unauthorized transactions."
+    },
+    {
+        "keywords": ["wrong account", "erroneous transfer", "reversal"],
+        "answer": "If funds are transferred to an incorrect account number, the bank cannot reverse the transaction without the recipient's consent. The remitter should immediately notify their home branch to initiate a recovery process with the beneficiary's bank."
+    },
+    {
+        "keywords": ["UPI limit", "daily cap", "transaction count"],
+        "answer": "Unified Payments Interface (UPI) transactions are subject to a standard daily limit of 1,00,000 INR per person, though this may vary for specific categories like education or healthcare. Additionally, most banks limit the number of UPI transactions to 20 per day."
+    },
+    {
+        "keywords": ["GST", "transfer charges", "service fee"],
+        "answer": "Fund transfer charges, if applicable, are subject to statutory Goods and Services Tax (GST). Digital transfers via NEFT and RTGS for savings account holders are generally offered free of charge when initiated through online channels."
+    },
+    {
+        "keywords": ["cross border", "forex transfer", "FEMA"],
+        "answer": "International fund transfers are governed by the Foreign Exchange Management Act (FEMA). Remitters must provide the purpose of the transfer and ensure the transaction falls within the Liberalised Remittance Scheme (LRS) limits."
+    }
+]

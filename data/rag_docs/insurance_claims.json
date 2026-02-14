@@ -1,0 +1,34 @@
+[
+    {
+        "keywords": ["claim process", "settlement steps", "file insurance"],
+        "answer": "The insurance claim process typically involves notifying the insurer of the event, submitting a completed claim form along with required documentation, and a subsequent assessment by a surveyor or loss assessor to determine the settlement amount."
+    },
+    {
+        "keywords": ["cashless claim", "network hospital", "pre-authorization"],
+        "answer": "A cashless claim allows the policyholder to receive medical treatment at a network hospital without paying the bill upfront, provided the insurer issues a pre-authorization based on the policy terms."
+    },
+    {
+        "keywords": ["reimbursement", "claim documents", "medical bills"],
+        "answer": "In a reimbursement claim, the policyholder pays the medical or repair expenses out-of-pocket and subsequently submits original invoices, discharge summaries, and payment receipts to the insurer for a refund of eligible costs."
+    },
+    {
+        "keywords": ["claim rejection", "repudiation", "denied claim"],
+        "answer": "Claims may be rejected if the event falls under policy exclusions, involves non-disclosure of material facts, or if the policy was not active at the time of the incident. Policyholders have the right to appeal a rejection through the insurer's grievance cell."
+    },
+    {
+        "keywords": ["No Claim Bonus", "NCB", "renewal discount"],
+        "answer": "A No Claim Bonus is a reward given to policyholders for not making a claim during the policy period, typically manifesting as a discount on the premium at the time of renewal."
+    },
+    {
+        "keywords": ["third-party claim", "TP liability", "accident claim"],
+        "answer": "A third-party claim is filed when the insured's vehicle or property causes damage or injury to another person. This coverage is mandatory under the Motor Vehicles Act and handles the legal liability arising from such accidents."
+    },
+    {
+        "keywords": ["claim notification", "intimation period", "deadline"],
+        "answer": "Policyholders are required to intimate the insurance company about a claim within a specified window, often 24 to 72 hours depending on the incident type. Delayed notification may lead to complications during the verification process."
+    },
+    {
+        "keywords": ["deductible", "excess", "co-payment"],
+        "answer": "A deductible is the fixed amount a policyholder must pay toward a claim before the insurance provider covers the remaining cost. Higher deductibles usually result in lower annual premiums."
+    }
+]

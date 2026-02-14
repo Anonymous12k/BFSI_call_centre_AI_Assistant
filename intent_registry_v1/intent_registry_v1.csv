@@ -1,0 +1,68 @@
+intent_id,description,category,subcategory
+LOAN_ELIGIBILITY_PERSONAL,Eligibility criteria for personal loans,LOAN,PERSONAL
+LOAN_REQUIRED_DOCUMENTS,Required documents for personal loans,LOAN,PERSONAL
+LOAN_APPLICATION_PROCESS,Application process for personal loans,LOAN,PERSONAL
+LOAN_APPLICATION_STATUS,Status tracking for personal loan applications,LOAN,PERSONAL
+LOAN_INTEREST_RATE_INFO,Interest rate information for personal loans,LOAN,PERSONAL
+LOAN_TENURE_OPTIONS,Available tenure options for personal loans,LOAN,PERSONAL
+LOAN_PROCESSING_FEES,Processing fee details for personal loans,LOAN,PERSONAL
+LOAN_DISBURSEMENT_TIME,Disbursement timeline for personal loans,LOAN,PERSONAL
+EMI_CALCULATION_INFO,EMI calculation details for loans,LOAN,PERSONAL
+EMI_PREPAYMENT_RULES,Prepayment rules for loans,LOAN,PERSONAL
+LOAN_CLOSURE_PROCESS,Loan closure procedure,LOAN,PERSONAL
+LOAN_FORECLOSURE_CHARGES,Foreclosure charges for loans,LOAN,PERSONAL
+LOAN_STATEMENT_REQUEST,Loan statement request process,LOAN,PERSONAL
+LOAN_TOPUP_ELIGIBILITY,Top-up loan eligibility criteria,LOAN,PERSONAL
+LOAN_REJECTION_REASON,Reasons for loan rejection,LOAN,PERSONAL
+
+HOME_LOAN_ELIGIBILITY,Eligibility criteria for home loans,LOAN,HOME
+HOME_LOAN_DOCUMENTS,Required documents for home loans,LOAN,HOME
+HOME_LOAN_INTEREST_TYPES,Types of interest rates for home loans,LOAN,HOME
+HOME_LOAN_BALANCE_TRANSFER,Balance transfer process for home loans,LOAN,HOME
+HOME_LOAN_SUBSIDY_INFO,Subsidy information for home loans,LOAN,HOME
+
+CREDIT_CARD_ELIGIBILITY,Eligibility criteria for credit cards,CREDIT_CARD,GENERAL
+CREDIT_CARD_APPLICATION_STATUS,Status tracking for credit card applications,CREDIT_CARD,GENERAL
+CREDIT_CARD_LIMIT_INFO,Information about credit card limits,CREDIT_CARD,GENERAL
+CREDIT_CARD_LIMIT_INCREASE,Process for credit card limit increase,CREDIT_CARD,GENERAL
+CREDIT_CARD_BILLING_CYCLE,Details about credit card billing cycle,CREDIT_CARD,GENERAL
+CREDIT_CARD_MINIMUM_DUE_INFO,Minimum due calculation for credit cards,CREDIT_CARD,GENERAL
+CREDIT_CARD_LATE_PAYMENT_CHARGES,Late payment charges for credit cards,CREDIT_CARD,GENERAL
+CREDIT_CARD_REWARD_POINTS_BALANCE,Reward points balance inquiry,CREDIT_CARD,GENERAL
+CREDIT_CARD_REWARD_POINTS_REDEMPTION,Reward points redemption process,CREDIT_CARD,GENERAL
+CREDIT_CARD_BLOCK_REQUEST,Request to block a credit card,CREDIT_CARD,GENERAL
+CREDIT_CARD_UNBLOCK_PROCESS,Process to unblock a credit card,CREDIT_CARD,GENERAL
+CREDIT_CARD_PIN_GENERATION,Credit card PIN generation process,CREDIT_CARD,GENERAL
+CREDIT_CARD_EMI_CONVERSION,EMI conversion process for credit card transactions,CREDIT_CARD,GENERAL
+CREDIT_CARD_ANNUAL_FEE_INFO,Annual fee details for credit cards,CREDIT_CARD,GENERAL
+
+ACCOUNT_OPENING_PROCESS,Process for opening a savings account,ACCOUNT_SERVICES,GENERAL
+ACCOUNT_REQUIRED_DOCUMENTS,Documents required for account opening,ACCOUNT_SERVICES,GENERAL
+ACCOUNT_MINIMUM_BALANCE_RULES,Minimum balance rules for accounts,ACCOUNT_SERVICES,GENERAL
+ACCOUNT_STATEMENT_REQUEST,Account statement request process,ACCOUNT_SERVICES,GENERAL
+ACCOUNT_CLOSURE_PROCESS,Account closure procedure,ACCOUNT_SERVICES,GENERAL
+CHEQUE_BOOK_REQUEST,Cheque book request process,ACCOUNT_SERVICES,GENERAL
+ATM_CARD_ISSUE,ATM card issuance process,ACCOUNT_SERVICES,GENERAL
+ATM_CARD_BLOCK,ATM card blocking process,ACCOUNT_SERVICES,GENERAL
+ATM_CARD_PIN_RESET,ATM card PIN reset process,ACCOUNT_SERVICES,GENERAL
+
+KYC_UPDATE_PROCESS,KYC update process,KYC_PROFILE,GENERAL
+EMAIL_UPDATE_PROCESS,Email update process,KYC_PROFILE,GENERAL
+MOBILE_NUMBER_UPDATE,Mobile number update process,KYC_PROFILE,GENERAL
+ADDRESS_UPDATE_PROCESS,Address update process,KYC_PROFILE,GENERAL
+NAME_CORRECTION_PROCESS,Name correction process,KYC_PROFILE,GENERAL
+
+INSURANCE_POLICY_INFO,Insurance policy information,INSURANCE,GENERAL
+INSURANCE_PREMIUM_PAYMENT_METHODS,Insurance premium payment methods,INSURANCE,GENERAL
+INSURANCE_CLAIM_PROCESS,Insurance claim process,INSURANCE,GENERAL
+INSURANCE_POLICY_CANCELLATION,Insurance policy cancellation process,INSURANCE,GENERAL
+
+NET_BANKING_REGISTRATION,Net banking registration process,DIGITAL_SERVICES,GENERAL
+NET_BANKING_PASSWORD_RESET,Net banking password reset process,DIGITAL_SERVICES,GENERAL
+MOBILE_APP_REGISTRATION,Mobile app registration process,DIGITAL_SERVICES,GENERAL
+MOBILE_APP_LOGIN_ISSUE,Mobile app login issue resolution,DIGITAL_SERVICES,GENERAL
+
+FUND_TRANSFER_LIMITS,Fund transfer limits information,TRANSACTIONS,GENERAL
+NEFT_RTGS_IMPS_INFO,Information about NEFT RTGS IMPS transfers,TRANSACTIONS,GENERAL
+FAILED_TRANSACTION_PROCESS,Process for failed transactions,TRANSACTIONS,GENERAL
+CHARGE_DISPUTE_PROCESS,Charge dispute process,TRANSACTIONS,GENERAL

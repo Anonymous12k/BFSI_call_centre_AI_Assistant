@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "How can I check the current balance of my credit card reward points?",
+    "input": "",
+    "output": "The reward points balance can be viewed through the mobile banking application under the 'Rewards' section or by accessing the monthly credit card statement.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Where is the total count of accumulated loyalty points displayed?",
+    "input": "",
+    "output": "The total count of accumulated loyalty points is displayed on the summary page of the net banking portal and within the reward points summary of the billing statement.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Identify the methods available for reward point balance inquiry.",
+    "input": "",
+    "output": "Available methods for reward point inquiry include the mobile app, net banking, the monthly e-statement, or by sending a predefined SMS keyword to the bank's registered number.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "What is the procedure to verify available reward points via SMS?",
+    "input": "",
+    "output": "To verify the reward points balance via SMS, the cardholder must send the keyword 'REWARD' followed by the last four digits of the card number to the official shortcode.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Are reward points listed on the physical credit card statement?",
+    "input": "",
+    "output": "Yes, the physical and digital credit card statements include a reward point table showing opening balance, points earned, points redeemed, and the closing balance.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "How can I find the expiration date for my current reward points?",
+    "input": "",
+    "output": "The expiration details for specific reward point blocks are listed in the 'Rewards Summary' section of the online banking portal and in the detailed monthly statement.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Does the mobile app show real-time reward point updates?",
+    "input": "",
+    "output": "The mobile application displays the reward point balance as of the last settled transaction, though some points may take 48 to 72 hours to reflect in the total.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Explain how to view the points balance on the net banking dashboard.",
+    "input": "",
+    "output": "Upon logging into net banking, navigate to the 'Cards' tab, select 'Credit Cards', and click on the 'Reward Points Summary' link to view the active balance.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Where can I see points earned during the last billing cycle?",
+    "input": "",
+    "output": "Points earned during the last billing cycle are detailed in the 'Transaction Rewards' section of the monthly credit card statement.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "How do I check if my reward points have been successfully credited?",
+    "input": "",
+    "output": "Credit verification can be performed by comparing the 'Points Earned' section of the latest statement with the transaction history on the rewards portal.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Can reward point balances be checked through an ATM?",
+    "input": "",
+    "output": "Reward point balance inquiries are not supported at ATMs; customers must use digital banking channels or the monthly statement for this information.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Describe the steps to check reward points via the Interactive Voice Response system.",
+    "input": "",
+    "output": "Call the customer service helpline, select the 'Credit Cards' menu, authenticate using the card details, and select the option for 'Reward Point Balance'.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Is the reward point balance visible on the payment checkout page?",
+    "input": "",
+    "output": "The reward point balance is visible on the checkout page only when using the 'Pay with Points' feature on authorized partner merchant websites.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "What is the process for checking points on a supplementary credit card?",
+    "input": "",
+    "output": "Points earned on supplementary cards are consolidated into the primary cardholder's account and can be viewed under the primary account's rewards summary.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "How is the reward point total calculated on the statement?",
+    "input": " ",
+    "output": "The total is calculated by adding points earned in the current cycle to the previous balance and subtracting any redeemed or expired points.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Where can I find a breakdown of points by category?",
+    "input": "",
+    "output": "A category-wise breakdown of reward points earned is available in the 'Rewards Dashboard' within the net banking or mobile banking application.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "How do I verify if my points balance has been adjusted for a refund?",
+    "input": "",
+    "output": "Adjustments for refunded transactions are listed as 'Reversed Points' in the reward summary section of the subsequent month's credit card statement.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Can I check my reward points balance without logging into net banking?",
+    "input": "",
+    "output": "Yes, the balance can be checked by referring to the most recent monthly e-statement sent to the registered email address or via the SMS banking service.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "What is the visibility of pending reward points?",
+    "input": "",
+    "output": "Pending reward points from recent transactions are typically not visible until the transaction is settled and the points are officially posted to the account.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "List the steps to see points on the dedicated rewards portal.",
+    "input": "",
+    "output": "Access the rewards portal through the bank's website, log in with credit card credentials, and the available balance will be displayed on the home dashboard.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Are there automated alerts for reward point balances?",
+    "input": "",
+    "output": "The bank provides reward point balance updates within the monthly statement notification email sent to the cardholder's registered email ID.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "How can I confirm the number of points deducted after a redemption?",
+    "input": "",
+    "output": "Redeemed points are documented in the 'Points Redeemed' column of the rewards summary in the net banking portal or the next billing statement.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Where are bonus reward points from promotional offers reflected?",
+    "input": "",
+    "output": "Bonus points are reflected in the 'Special Credits' or 'Promotional Points' section of the reward points summary after the fulfillment period of the offer.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "How do I check my reward balance if I have multiple credit cards?",
+    "input": "",
+    "output": "If you hold multiple cards, the reward points for each card must be viewed individually by selecting the specific card account in the digital banking portal.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  },
+  {
+    "instruction": "Is there a way to see the history of reward point accrual?",
+    "input": "",
+    "output": "A history of accrual for the last twelve months is available for download in CSV or PDF format through the 'Rewards History' section of net banking.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_BALANCE"
+  }
+]

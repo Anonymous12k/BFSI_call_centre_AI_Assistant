@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the standard procedure for a failed transaction where the amount has been debited from the account?",
+    "input": "",
+    "output": "The bank initiates an automated reversal process known as 'Auto-Refund'; if the amount is not credited back within the stipulated T+ days, the customer must lodge a formal complaint.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Outline the 'Turnaround Time' (TAT) for the reversal of a failed ATM transaction.",
+    "input": "",
+    "output": "As per RBI guidelines, banks must credit the failed ATM transaction amount back to the customer's account within a maximum of T+5 working days.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Describe the steps to report a failed UPI transaction that was not automatically reversed.",
+    "input": "",
+    "output": "The user should navigate to the 'Transaction History' in the UPI app, select the failed entry, and use the 'Raise Dispute' or 'Call Bank' feature to log a complaint.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the compensation policy for delays in reversing failed electronic transactions.",
+    "input": "",
+    "output": "If a bank fails to reverse a debited amount within the mandated TAT, it is liable to pay a compensation of 100 INR per day of delay to the customer.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Explain the difference between a 'Failed' transaction and a 'Timed Out' transaction.",
+    "input": "",
+    "output": "A failed transaction is immediately rejected by the system, while a timed-out transaction occurs when a response is not received from the beneficiary bank within the session limit.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "What information is required to track a failed NEFT or RTGS transfer?",
+    "input": "",
+    "output": "The customer must provide the Unique Transaction Reference (UTR) number, the date of the transaction, and the exact amount to facilitate a manual trace by the bank.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Detail the process for resolving a failed POS (Point of Sale) merchant transaction.",
+    "input": "",
+    "output": "The customer should collect the 'Declined' slip from the merchant and monitor their account; if the debit persists, a chargeback request must be filed with the card-issuing bank.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "State the procedure for a failed IMPS transfer where the status is 'Pending'.",
+    "input": "",
+    "output": "Pending IMPS transactions are usually reconciled by the bank's end-of-day process; the final status of 'Success' or 'Failure' is typically updated within 48 to 72 hours.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "How can a customer escalate an unresolved failed transaction grievance?",
+    "input": "",
+    "output": "If the bank's internal grievance cell does not resolve the issue within 30 days, the customer can approach the Integrated Ombudsman of the Reserve Bank of India.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Define the 'T+1' settlement rule for failed IMPS and UPI transactions.",
+    "input": "",
+    "output": "T+1 refers to the requirement that a failed transaction must be reconciled and the amount refunded within one working day following the date of the transaction (T).",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "What is a 'Chargeback' in the context of a failed online payment?",
+    "input": "",
+    "output": "A chargeback is a formal dispute filed by the cardholder through their bank to reverse a transaction that was debited but the goods/services were not delivered.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Describe the role of the NPCI in resolving failed interbank transfers.",
+    "input": "",
+    "output": "NPCI acts as the central clearing house for UPI and IMPS, providing a unified dispute management system (UDS) that allows member banks to reconcile failed transactions.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the common causes for a transaction failure despite having sufficient balance.",
+    "input": "",
+    "output": "Common causes include technical glitches at either the remitting or beneficiary bank, network connectivity issues, or the transaction exceeding daily security limits.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "How does a customer obtain a refund for a failed bill payment via net banking?",
+    "input": "",
+    "output": "Refunds for failed bill payments are usually processed by the biller or the payment aggregator within 3 to 5 working days and credited back to the source account.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Explain the protocol for a failed cash deposit at a Cash Deposit Machine (CDM).",
+    "input": "",
+    "output": "The customer must immediately report the discrepancy to the branch manager or helpline, providing the CDM transaction slip and the machine ID for physical reconciliation.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "What occurs if a transaction fails due to an incorrect IFSC code?",
+    "input": "",
+    "output": "If the IFSC is invalid, the system usually rejects the transaction immediately; if it is valid but wrong, the funds are returned to the sender's account within the NEFT batch cycle.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the required timeline for resolving failed e-commerce transactions.",
+    "input": "",
+    "output": "E-commerce transaction failures with a debit must be reversed within T+5 days, where 'T' is the day the transaction occurred.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Is an OTP required to initiate a refund for a failed transaction?",
+    "input": "",
+    "output": "No, legitimate bank refunds are automated credits; customers should never share an OTP, PIN, or password to 'receive' a refund from anyone claiming to be a bank official.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Describe the impact of a 'System Under Maintenance' status on transaction failures.",
+    "input": "",
+    "output": "During maintenance windows, any initiated transactions will likely fail or remain in 'Pending' status until the system core banking services are fully restored.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "State the action needed for a 'Double Debit' on a single purchase.",
+    "input": "",
+    "output": "The customer must report the duplicate transaction to the bank's customer service; the bank will verify the merchant settlement and reverse the duplicate entry.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for tracking a failed Aadhaar Enabled Payment System (AePS) transaction?",
+    "input": "",
+    "output": "The customer should report the failure at their bank branch; the bank will use the RRN (Retrieval Reference Number) to track the status with the acquiring bank.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "How is a 'Merchant Decline' receipt useful in the dispute process?",
+    "input": "",
+    "output": "A merchant decline receipt serves as primary evidence that the transaction was not authorized by the vendor, supporting the customer's claim for an immediate reversal.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the protocol for a failed credit card payment via a third-party app.",
+    "input": "",
+    "output": "The customer must contact the third-party app support first; if not resolved, they should raise a dispute with the bank that issued the source debit account.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "Define the 'Harmonisation of Turnaround Time' by the RBI.",
+    "input": "",
+    "output": "It is a set of standardized timelines issued by the RBI to ensure all banks and payment systems follow uniform periods for reversing failed transactions and paying compensation.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  },
+  {
+    "instruction": "What should be done if a failed transaction refund is credited to the wrong account?",
+    "input": "",
+    "output": "The bank is responsible for ensuring the refund goes to the source account; if an error occurs, the customer must submit a written complaint at the home branch.",
+    "intent_id": "FAILED_TRANSACTION_PROCESS"
+  }
+]

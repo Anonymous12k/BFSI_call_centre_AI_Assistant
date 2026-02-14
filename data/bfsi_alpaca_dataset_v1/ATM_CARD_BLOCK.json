@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the primary methods for blocking a lost or stolen debit card immediately?",
+    "input": "",
+    "output": "A debit card can be blocked instantly through the mobile banking application, the net banking portal, the 24/7 IVR helpline, or via an SMS-based request from the registered number.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Describe the steps to deactivate a debit card using the mobile banking app.",
+    "input": "",
+    "output": "To deactivate a card, log in to the app, navigate to 'Card Services', select the specific card, and choose the 'Permanent Block' option to disable all further transactions.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Explain how to block an ATM card through the bank's SMS service.",
+    "input": "",
+    "output": "Send an SMS with the keyword 'BLOCK' followed by the last four digits of the card number to the bank’s official shortcode from the mobile number registered with the account.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "What is the procedure for blocking a card via the automated IVR helpline?",
+    "input": "",
+    "output": "Call the customer care number, select the 'Emergency Services' or 'Card Blocking' option on the IVR, and verify the cardholder's identity as prompted by the system.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Can a debit card be blocked temporarily without requesting a replacement?",
+    "input": "",
+    "output": "Yes, the 'Card On/Off' or 'Temporary Block' feature in the digital banking settings allows the cardholder to suspend transactions and resume them at any time.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Identify the protocol for blocking a card when suspicious activity is detected.",
+    "input": "",
+    "output": "If unauthorized transactions are identified, the cardholder should use the 'Report Fraud' feature on the bank’s website to secure the account and block the compromised card.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "What happens to the add-on card if the primary debit card is blocked?",
+    "input": "",
+    "output": "Blocking a primary debit card due to security concerns typically results in the simultaneous deactivation of all linked add-on cards to prevent further risk.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Does blocking an ATM card also cancel the associated bank account?",
+    "input": "",
+    "output": "No, blocking a debit card only disables the payment instrument; the underlying bank account remains active and accessible through other banking channels.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Is an OTP required to block a card via the net banking portal?",
+    "input": "",
+    "output": "Standard security protocol requires the entry of a One-Time Password (OTP) sent to the registered mobile number to authenticate a permanent block request online.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "How can a customer block their card if they do not have their card number available?",
+    "input": "",
+    "output": "The customer can block the card by providing their account number and date of birth to a phone banking officer or through the 'Managed Cards' section of net banking.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "What is the procedure for blocking a debit card from a physical branch?",
+    "input": "",
+    "output": "A cardholder can visit any branch with a valid government-issued ID and submit a written request to the branch manager to have the card hotlisted.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Define the 'Hotlisting' status for a debit card.",
+    "input": "",
+    "output": "Hotlisting is the permanent status applied to a card that has been reported lost or stolen, ensuring it cannot be used at any ATM, POS terminal, or online merchant.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Are there any service charges for blocking an ATM card?",
+    "input": "",
+    "output": "The bank does not levy any charges for blocking a debit card; however, a standard fee may apply if the customer requests the issuance of a replacement card.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "How is a confirmation of the block request provided to the cardholder?",
+    "input": "",
+    "output": "Once the card is successfully blocked, an immediate notification containing the reference number of the request is sent via SMS and email to the registered contact details.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Can a cardholder unblock a card that was reported as lost and subsequently found?",
+    "input": "",
+    "output": "For security reasons, once a card is permanently blocked or hotlisted, it cannot be unblocked; the cardholder must dispose of the old card and use a replacement.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Does blocking a card stop scheduled utility payments and NACH mandates?",
+    "input": "",
+    "output": "Permanent blocking of a card stops card-based recurring payments, but it does not affect NACH or standing instructions linked directly to the bank account number.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "State the procedure for blocking an international debit card while traveling overseas.",
+    "input": "",
+    "output": "Cardholders can use the mobile app, international toll-free helpline, or the net banking portal to block their card instantly from any location worldwide.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "What should be done if the banking app is unavailable during an emergency block request?",
+    "input": "",
+    "output": "If the app is unavailable, the cardholder should immediately use the SMS blocking keyword or call the 24/7 emergency customer care number to secure the card.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "How are virtual debit cards blocked?",
+    "input": "",
+    "output": "Virtual cards can be blocked or deleted instantly through the 'Virtual Card' management menu in the mobile banking application.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Identify the impact of a card block on reward points and cashback.",
+    "input": "",
+    "output": "Blocking a card does not result in the loss of accumulated reward points; these are typically transferred to the replacement card once it is activated.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Can a blocked card still be used for contactless transactions?",
+    "input": "",
+    "output": "No, once a block is applied, all transaction types, including contactless (NFC) and chip-and-pin, are completely disabled.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Is a police report mandatory to initiate a block on a stolen card?",
+    "input": "",
+    "output": "A police report is not required to block a card; however, it is recommended to file an FIR for the investigation of fraudulent transactions.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Explain the protocol for blocking a card that is stuck in an ATM.",
+    "input": "",
+    "output": "If a card is retained by an ATM, the holder should block it immediately using digital banking or the IVR to prevent unauthorized access if the card is retrieved by others.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "What is the timeline for a block request to be processed?",
+    "input": "",
+    "output": "All block requests made through digital channels, SMS, or the IVR are processed in real-time and take effect immediately upon successful authentication.",
+    "intent_id": "ATM_CARD_BLOCK"
+  },
+  {
+    "instruction": "Can a third party block a card on behalf of the cardholder?",
+    "input": "",
+    "output": "A third party can report a lost card via the helpline, but a permanent block typically requires verification of the primary cardholder's details.",
+    "intent_id": "ATM_CARD_BLOCK"
+  }
+]

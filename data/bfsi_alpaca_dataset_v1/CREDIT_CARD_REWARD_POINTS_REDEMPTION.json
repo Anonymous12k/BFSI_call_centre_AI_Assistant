@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What are the available methods for redeeming accumulated credit card reward points?",
+    "input": "",
+    "output": "Reward points can be redeemed through the net banking portal, the mobile banking application, or by calling the dedicated customer service helpline for catalog-based redemptions.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Explain the process for converting reward points into a statement credit.",
+    "input": "",
+    "output": "Eligible cardholders may request the conversion of reward points into cash credit, which is applied directly to the outstanding credit card statement balance at a predefined conversion rate.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "What is the minimum point balance required to initiate a redemption request?",
+    "input": "",
+    "output": "A minimum threshold of 500 reward points is required to initiate a redemption request, though this threshold may vary based on the specific reward category selected.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Detail the steps to redeem reward points for flight or hotel bookings.",
+    "input": "",
+    "output": "Points can be redeemed for travel by accessing the rewards portal, selecting the travel category, and using the points-to-currency conversion at the checkout page for bookings.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "How can reward points be used to purchase gift vouchers?",
+    "input": "",
+    "output": "Gift vouchers from partner brands are available in the rewards catalog; once selected, the equivalent points are deducted and the voucher code is sent to the registered email.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "What is the policy regarding the expiration of accumulated reward points?",
+    "input": "",
+    "output": "Reward points remain valid for a period of 24 to 36 months from the date of accrual, after which they expire and are removed from the points balance if not redeemed.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Are there any administrative fees associated with reward point redemption?",
+    "input": "",
+    "output": "A standard redemption handling fee is applicable per transaction for physical merchandise or voucher redemptions and is debited from the credit card account.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "How are reward points adjusted in the event of a transaction reversal?",
+    "input": "",
+    "output": "In the case of a transaction refund or reversal, the reward points originally credited for that purchase are automatically debited from the total points balance.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Can reward points be transferred to airline frequent flyer programs?",
+    "input": "",
+    "output": "Points may be transferred to partner airline programs by linking the frequent flyer membership ID through the rewards portal and selecting the desired transfer volume.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "What is the delivery timeline for physical products redeemed via the rewards catalog?",
+    "input": "",
+    "output": "Physical merchandise redeemed using reward points is delivered to the registered communication address within 7 to 15 working days from the date of the request.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Define the 'Points + Pay' redemption option.",
+    "input": "",
+    "output": "The 'Points + Pay' feature allows cardholders to settle a portion of the product cost using reward points while charging the remaining balance to the credit card.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "How can I check the current reward points balance and summary?",
+    "input": "",
+    "output": "The reward points summary, including points earned, redeemed, and expiring, is provided in the monthly credit card statement and is also viewable in real-time via mobile banking.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Is it possible to redeem reward points for fuel purchases?",
+    "input": "",
+    "output": "Reward points can be redeemed against fuel purchases at authorized partner fuel stations by requesting a points-to-cash conversion at the point-of-sale terminal.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Describe the procedure for redeeming points for charity donations.",
+    "input": "",
+    "output": "Cardholders can choose to donate their reward points to listed non-profit organizations through the rewards portal, where 1 point equals a specific monetary donation value.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Can reward points be used to pay the credit card annual membership fee?",
+    "input": "",
+    "output": "Selected card variants allow the use of accumulated reward points to offset the annual or renewal membership fee by selecting the 'Fee Reversal' option in the rewards menu.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "What happens to reward points if the credit card is upgraded to a different variant?",
+    "input": "",
+    "output": "Upon a card upgrade, existing reward points are transferred to the new card account, though the redemption value may be adjusted based on the new card's rewards structure.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Are reward points earned on EMI transactions eligible for redemption?",
+    "input": "",
+    "output": "Reward points are typically not accrued on EMI conversions, and only points successfully posted to the account from regular spends are eligible for redemption.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "What is the procedure for redeeming points if the credit card is blocked?",
+    "input": "",
+    "output": "Redemption of reward points is restricted on accounts that are blocked, suspended, or have an overdue status until the account is regularized and active.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "How is the redemption value of a single reward point determined?",
+    "input": "",
+    "output": "The monetary value of a reward point is determined by the card category and the redemption channel, with specific values assigned for cash, travel, or merchandise.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Can reward points from two different credit cards be merged for redemption?",
+    "input": "",
+    "output": "Points earned on separate credit card accounts cannot be merged unless the cards are held by the same primary cardholder and are part of a unified rewards program.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "What are the limitations on redeeming points for e-commerce site vouchers?",
+    "input": "",
+    "output": "Redemptions for e-commerce vouchers are subject to stock availability and a maximum daily redemption limit as specified in the terms and conditions of the rewards portal.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Is an OTP required for online reward point redemption?",
+    "input": "",
+    "output": "Yes, a One-Time Password (OTP) is sent to the registered mobile number to authenticate and authorize all reward point redemption transactions performed online.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "State the policy for points redemption after credit card cancellation.",
+    "input": "",
+    "output": "In the event of voluntary card cancellation, all unredeemed reward points are forfeited immediately and cannot be claimed or transferred after the account is closed.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Detail the steps to track a redemption order for a physical item.",
+    "input": "",
+    "output": "Order tracking details are available under the 'Order History' section of the rewards portal, where a tracking ID is provided once the item is dispatched.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  },
+  {
+    "instruction": "Can reward points be redeemed for gold coins or bullion?",
+    "input": "",
+    "output": "Selected premium card tiers offer gold coins in the rewards catalog, subject to specific point requirements and compliance with current banking regulations.",
+    "intent_id": "CREDIT_CARD_REWARD_POINTS_REDEMPTION"
+  }
+]

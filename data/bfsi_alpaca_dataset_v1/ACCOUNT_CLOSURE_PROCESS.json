@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the step-by-step process for closing a savings account?",
+    "input": "",
+    "output": "To close an account, the holder must visit the home branch, submit an account closure form, return the unused chequebook and debit card, and settle any outstanding dues.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Are there any charges for closing a bank account within a year of opening?",
+    "input": "",
+    "output": "Account closure charges are applicable if the account is closed after 14 days but within one year of its opening; no charges apply after one year of maintenance.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Can a bank account be closed online through the mobile app?",
+    "input": "",
+    "output": "Currently, account closure requires a physical visit to the branch for identity verification and the surrender of physical security instruments like debit cards.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What happens to the remaining balance in the account at the time of closure?",
+    "input": "",
+    "output": "The remaining balance can be transferred to another bank account via NEFT/RTGS or issued as a Demand Draft/Cash up to the permissible regulatory limits.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Describe the procedure for closing a joint bank account.",
+    "input": "",
+    "output": "Closing a joint account requires the account closure form to be signed by all joint account holders, regardless of the operating mandate of the account.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Identify the requirements for closing an account held by a deceased person.",
+    "input": "",
+    "output": "The nominee or legal heir must submit a claim form along with the death certificate and KYC documents to close the account and receive the proceeds.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Is it mandatory to return the physical debit card during account closure?",
+    "input": "",
+    "output": "Yes, the physical debit card must be surrendered to the bank or destroyed in the presence of a bank official to prevent unauthorized use after closure.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How is a pending EMI or standing instruction handled during closure?",
+    "input": "",
+    "output": "All active standing instructions, NACH mandates, and EMI links must be cancelled or transferred to another account before the closure request can be processed.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What is the 'Free Look' period for account closure?",
+    "input": "",
+    "output": "The 'Free Look' period allows customers to close a new account within 14 days of opening without incurring any account closure charges.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Explain the impact of account closure on linked Fixed Deposits.",
+    "input": "",
+    "output": "Linked Fixed Deposits must either be liquidated or mapped to a different active savings account before the primary account closure is finalized.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Can the bank refuse an account closure request?",
+    "input": "",
+    "output": "The bank may refuse or delay closure if the account is frozen by regulatory authorities, has a negative balance, or is linked to an active loan as collateral.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What documents must be attached to the account closure form?",
+    "input": "",
+    "output": "Required attachments include the unused cheque leaves, the debit card, and a self-attested copy of the account holder's identity proof.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How long does it take for the account closure to be finalized?",
+    "input": "",
+    "output": "Once the application and security instruments are submitted, the account is typically closed within 3 to 7 working days after final verification.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "State the policy for closing a dormant or inoperative account.",
+    "input": "",
+    "output": "A dormant account must first be reactivated by submitting fresh KYC documents before a closure request can be legally processed by the branch.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Is an acknowledgment provided after submitting the closure request?",
+    "input": "",
+    "output": "Yes, the branch provides a stamped acknowledgment receipt of the closure form and the surrendered items for the customer's records.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What happens to the locker linked to a savings account being closed?",
+    "input": "",
+    "output": "The locker agreement must be terminated and all contents removed, or the locker must be linked to another active account with the bank.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How are government benefit (DBT) links affected by account closure?",
+    "input": "",
+    "output": "Upon closure, the DBT link is deactivated; the customer must register their new bank account details on the government portal to continue receiving benefits.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Define the 'Service Charge' for accounts with a negative balance during closure.",
+    "input": "",
+    "output": "If an account has a negative balance due to unpaid fees, the customer must pay the total outstanding amount before the closure request is accepted.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Can an NRI close their account without visiting India?",
+    "input": "",
+    "output": "NRIs can send a signed closure form along with notarized KYC copies through post to their home branch to initiate the closure process remotely.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for closing a current account for a company?",
+    "input": "",
+    "output": "Closing a company account requires a Board Resolution authorizing the closure, signed by the directors, along with the standard closure form and instruments.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Does the bank notify the customer once the account is officially closed?",
+    "input": "",
+    "output": "A final closure confirmation is sent via SMS and email to the registered contact details once the account is removed from the bank's active records.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Are there charges for closing a salary account?",
+    "input": "",
+    "output": "Salary accounts are generally exempt from account closure charges, even if closed within the first year of opening.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "What happens to the reward points on a debit card during account closure?",
+    "input": "",
+    "output": "All unredeemed reward points associated with the account and its debit card are forfeited immediately upon the processing of the closure request.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "Can I reopen an account once it has been closed?",
+    "input": "",
+    "output": "No, once an account is closed, it cannot be reopened; the customer must complete the full account opening process to start a new banking relationship.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  },
+  {
+    "instruction": "How is a 'Negative Balance' account handled in the closure workflow?",
+    "input": "",
+    "output": "The system will not permit closure of an account with a negative balance; the customer must first clear all dues to bring the balance to zero or above.",
+    "intent_id": "ACCOUNT_CLOSURE_PROCESS"
+  }
+]

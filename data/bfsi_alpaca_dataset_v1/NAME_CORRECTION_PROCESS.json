@@ -1,0 +1,152 @@
+[
+  {
+    "instruction": "What is the procedure for correcting a typographical error in an account holder's name?",
+    "input": "",
+    "output": "To correct a minor spelling error, the customer must visit the home branch with a valid government-issued photo identity proof that reflects the correct spelling.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Outline the steps for updating a surname in bank records following marriage.",
+    "input": "",
+    "output": "The account holder must submit a name change request form at the branch along with a marriage certificate and an updated officially valid document (OVD).",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Explain the documentation required for a legal name change via gazette notification.",
+    "input": "",
+    "output": "A certified copy of the Government Gazette notification, along with a fresh set of KYC documents in the new name, must be submitted to the bank branch.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Can a name correction request be processed through the net banking portal?",
+    "input": "",
+    "output": "Name correction requests require physical document verification and a fresh signature specimen; therefore, they must be initiated in person at a bank branch.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "What is the standard processing time for a name change in the bank's system?",
+    "input": "",
+    "output": "A name change or correction request is typically processed within 7 to 10 working days after the submission and verification of all required legal documents.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the protocol for correcting a name on a joint bank account.",
+    "input": "",
+    "output": "The specific account holder requiring the correction must submit the request form and supporting documents; all other joint holders must sign the request as consent.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Are there any service charges for correcting a name in the bank records?",
+    "input": "",
+    "output": "The bank does not charge a fee for the name correction process itself, though standard charges apply for the issuance of a new debit card or chequebook.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "What happens to the existing debit card after a name change is finalized?",
+    "input": "",
+    "output": "The existing debit card must be surrendered or destroyed, and the customer must apply for a replacement card to reflect the updated name.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Describe the requirement for updating a signature during the name correction process.",
+    "input": "",
+    "output": "If the name change is significant, the customer must provide a new specimen signature at the branch, which will be updated in the bank's records for future verification.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "State the policy for correcting a name on a minor's account.",
+    "input": "",
+    "output": "The natural or legal guardian must submit the correction request along with the minor's birth certificate or a valid identity proof showing the correct name.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Is an affidavit required for a name change in a bank account?",
+    "input": "",
+    "output": "An affidavit may be required if the name change is not supported by a marriage certificate or a gazette notification, as per the bank's specific legal guidelines.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "How is a name correction handled for NRI account holders?",
+    "input": "",
+    "output": "NRIs must send a notarized name change request and self-attested copies of their passport and legal name-change documents to their home branch via post.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Can a name change be initiated through the mobile banking app?",
+    "input": "",
+    "output": "No, name changes cannot be performed via the mobile app because they involve the verification of original legal documents and the capture of a new signature.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Define the impact of a name change on linked fixed or recurring deposits.",
+    "input": "",
+    "output": "Once the name is updated in the primary savings account, the change is automatically reflected across all linked deposit accounts under the same Customer ID.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "What should a customer do if their name is incorrectly printed on a new chequebook?",
+    "input": "",
+    "output": "The customer should return the incorrect chequebook to the branch and submit a name correction request based on their KYC documents to receive a rectified book.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the documents needed to add a middle name to the bank profile.",
+    "input": "",
+    "output": "To add a middle name, a valid identity proof (such as a PAN card or Passport) that explicitly includes the middle name must be presented at the branch.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "How is a name correction communicated to the account holder once completed?",
+    "input": "",
+    "output": "The bank sends a confirmation notification via SMS and email to the registered contact details once the name has been successfully updated in the system.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Does a name change in the bank account affect the PAN card linkage?",
+    "input": "",
+    "output": "Yes, the name in the bank records must match the name on the PAN card; if the PAN name is different, the customer must update the PAN details first.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "What is the procedure for name correction if the account holder is deceased?",
+    "input": "",
+    "output": "Name corrections for deceased accounts are only processed for clerical errors upon the submission of a death certificate and a request from the legal heir.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Can a customer revert to their maiden name in the bank records after a divorce?",
+    "input": "",
+    "output": "Yes, by submitting a divorce decree or a gazette notification along with fresh KYC documents reflecting the maiden name at the home branch.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Identify the requirement for a name correction in a corporate current account.",
+    "input": "",
+    "output": "A change in the entity's name requires an updated Certificate of Incorporation from the ROC and a board resolution authorizing the change in bank records.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Is it mandatory to update the name in the bank if it has been changed in the Aadhaar database?",
+    "input": "",
+    "output": "Yes, to maintain KYC compliance and ensure seamless Aadhaar-linked transactions, the name in the bank records should be updated to match the Aadhaar data.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "What occurs if the signature on the name correction form does not match the record?",
+    "input": "",
+    "output": "The customer may be required to undergo an additional identity verification process or provide a previously verified identity document to validate the request.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Can a name correction be requested at any bank branch or only the home branch?",
+    "input": "",
+    "output": "While a request can be submitted at any branch, the final approval and processing are generally handled by the home branch where the account was opened.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  },
+  {
+    "instruction": "Explain the protocol for name correction on an account held by a Trust or NGO.",
+    "input": "",
+    "output": "The organization must provide an updated registration certificate and a resolution signed by the trustees or the governing body to the bank branch.",
+    "intent_id": "NAME_CORRECTION_PROCESS"
+  }
+]
